@@ -1,0 +1,888 @@
+EXID,Preferred name,Degree,Group name,ID,Synonyms
+EX:E000002109,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",686,Exposure,1912-24-9^102029-43-6^1912-24-9^001-02-2^CCNC1=NC(=NC(=N1)Cl)NC(C)C^MXWJVTOOROXGIU-UHFFFAOYSA-N,atrazine^1912-24-9^Gesaprim^Oleogesaprim^Aktikon^Atranex^Chromozin^Atazinax^Atrasine^Gesoprim
+EX:E000002567,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",658,Exposure,2921-88-2^2921-88-2^001-02-7^001-06-8^CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl^SBPBAQFWLVIOKP-UHFFFAOYSA-N,chlorpyrifos^2921-88-2^Dursban^Chlorpyriphos^Lorsban^Trichlorpyrphos^Coroban^Brodan^Chlorpyrifos-ethyl^Equity
+EX:E000002599,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,157,Exposure,85721-33-1^93107-08-5^311-02-3^C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O^MYSWGUAQZAJSOK-UHFFFAOYSA-N,ciprofloxacin^85721-33-1^Ciprobay^Ciprofloxacine^Cipro^Ciproxan^Ciprofloxacina^Ciprofloxacinum^Cipro IV^Ciprocinol
+EX:E000002860,"2,2-dichloroethenyl dimethyl phosphate",101,Exposure,62-73-7^62-73-7^COP(=O)(OC)OC=C(Cl)Cl^OEBRKCOSUFCWJD-UHFFFAOYSA-N,"dichlorvos^62-73-7^DDVP^Dichlorophos^2,2-Dichloroethenyl dimethyl phosphate^Vapona^2,2-Dichlorovinyl dimethyl phosphate^Chlorvinphos^Dichlorphos^Krecalvin"
+EX:E000003163,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",403,Exposure,120068-37-3^120068-37-3^001-03-0^001-04-8^C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F^ZOCSXAVNDGMNBV-UHFFFAOYSA-N,"fipronil^120068-37-3^Termidor^Fipronil [ISO]^RM 1601^MB 46030^(+/-)-Fipronil^HSDB 7051^5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-((trifluoromethyl)sulfinyl)-1h-pyrazole-3-carbonitrile^NSC-758960"
+EX:E000003780,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,290,Exposure,121-75-5^121-75-5^CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC^JXSJBGJIGXNWCI-UHFFFAOYSA-N,malathion^121-75-5^Carbophos^Carbofos^Mercaptothion^Karbofos^Phosphothion^Carbetox^Ethiolacar^Maldison
+EX:E000004290,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,36,Exposure,70458-96-7^70458-96-7^001-05-5^001-15-4^CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O^OGJPXUAPXNRGGI-UHFFFAOYSA-N,norfloxacin^70458-96-7^Noroxin^Norfloxacine^Chibroxin^Baccidal^Sebercim^MK-366^Norfloxacino^Norfloxacinum
+EX:E000004331,"7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",131,Exposure,82419-36-1^83380-47-6^82419-36-1^1261398-33-7^001-05-9^001-19-0^138199-71-0^CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O^GSDSWSVVBLHKDQ-UHFFFAOYSA-N,ofloxacin^82419-36-1^Floxin^Ofloxacine^Tarivid^Oxaldin^Ocuflox^Oflocet^Visiren^OFLX
+EX:E000005055,"4-amino-N-(3,4-dimethyl-1,2-oxazol-5-yl)benzenesulfonamide",1,Exposure,127-69-5^127-69-5^001-05-4^001-10-4^CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N^NHUHCSRWZMLRLA-UHFFFAOYSA-N,sulfisoxazole^Sulfafurazole^127-69-5^Sulphafurazole^Sulfisoxazol^Sulfafurazol^Sulfaisoxazole^Sulfofurazole^Gantrisin^Sulfisoxasole
+EX:E000005278,"5-[(3,4,5-trimethoxyphenyl)methyl]pyrimidine-2,4-diamine",12,Exposure,738-70-5^738-70-5^001-06-5^COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N^IEDVJHCEMCRBQM-UHFFFAOYSA-N,"trimethoprim^738-70-5^Proloprim^Trimpex^Trimetoprim^Monotrim^Monotrimin^Trimopan^Wellcoprim^2,4-Diamino-5-(3,4,5-trimethoxybenzyl)pyrimidine"
+EX:E000006270,4-(4-hydroxyphenyl)sulfonylphenol,691,Exposure,80-09-1^25641-61-6^80-09-1^C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O^VPWNQTHUCYMVMZ-UHFFFAOYSA-N,"4,4'-Sulfonyldiphenol^80-09-1^Bisphenol S^Bis(4-hydroxyphenyl) sulfone^Phenol, 4,4'-sulfonylbis-^4-(4-hydroxyphenyl)sulfonylphenol^4,4'-Dihydroxydiphenyl sulfone^4-Hydroxyphenyl sulfone^Bis(p-hydroxyphenyl) sulfone^4,4'-Sulfonylbisphenol"
+EX:E000006630,naphthalen-1-ol,28,Exposure,90-15-3^1321-67-1^90-15-3^50356-21-3^C1=CC=C2C(=C1)C=CC=C2O^KJCVRFUGPWSIIH-UHFFFAOYSA-N,1-NAPHTHOL^90-15-3^naphthalen-1-ol^alpha-naphthol^1-Naphthalenol^1-Hydroxynaphthalene^NAPHTHOL^Furro ER^Fouramine ERN^Fourrine ERN
+EX:E000008218,naphthalen-2-ol,22,Exposure,135-19-3^135-19-3^001-01-0^26716-78-9^C1=CC=C2C=C(C=CC2=C1)O^JWAZRIHNYRIHIV-UHFFFAOYSA-N,2-NAPHTHOL^naphthalen-2-ol^135-19-3^beta-naphthol^2-Naphthalenol^Betanaphthol^2-Hydroxynaphthalene^Isonaphthol^Developer A^Developer BN
+EX:E000011447,4-[(4-hydroxyphenyl)methyl]phenol,274,Exposure,620-92-8^620-94-8^C1=CC(=CC=C1CC2=CC=C(C=C2)O)O^PXKLMJQFEQBVLD-UHFFFAOYSA-N,"4,4'-Methylenediphenol^620-92-8^4,4'-Dihydroxydiphenylmethane^Bisphenol F^Bis(4-hydroxyphenyl)methane^Phenol, 4,4'-methylenebis-^p-(p-Hydroxybenzyl)phenol^4,4'-Methylenebisphenol^4-[(4-hydroxyphenyl)methyl]phenol^Phenol, 4,4'-methylenedi-"
+EX:E000020066,pyren-1-ol,18,Exposure,5315-79-7^63021-84-1^5315-79-7^C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O^BIJNHUAPTJVVNQ-UHFFFAOYSA-N,1-HYDROXYPYRENE^5315-79-7^Pyren-1-ol^1-Pyrenol^3-Hydroxypyrene^pyrenol^1-Hydroxy pyrene^DTXSID1038298^CHEBI:34093^N2H6O5V707
+EX:E000020455,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",168,Exposure,5598-15-2^5598-15-2^CCOP(=O)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl^OTMOUPHCTWPNSL-UHFFFAOYSA-N,"Chlorpyrifos oxon^5598-15-2^CHLORPYRIFOS-OXON^Dursbanoxon^Fospirate-ethyl^Chloropyrifos oxon^Chlorphrifos Oxon^diethyl 3,5,6-trichloropyridin-2-yl phosphate^diethyl (3,5,6-trichloropyridin-2-yl) phosphate^O,O-Diethyl O-3,5,6-trichloro-2-pyridyl phosphate"
+EX:E000021564,"3,5,6-trichloro-1H-pyridin-2-one",23,Exposure,6515-38-4^6515-38-4^C1=C(C(=O)NC(=C1Cl)Cl)Cl^WCYYAQFQZQEUEN-UHFFFAOYSA-N,"3,5,6-TRICHLORO-2-PYRIDINOL^6515-38-4^3,5,6-Trichloropyridin-2-ol^3,5,6-Trichloropyridin-2(1H)-one^2-Hydroxy-3,5,6-trichloropyridine^3,5,6-Trichloro-2(1H)-pyridinone^3,5,6-Trichloro-2-pyridone^3,5,6-trichloro-1H-pyridin-2-one^2(1H)-Pyridinone, 3,5,6-trichloro-^3,5,6-Trichloro-2-hydroxypyridine"
+EX:E000022401,iron,314,Exposure,7439-89-6^12597-68-1^8048-10-0^[Fe]^XEEYBQQBJWHFJM-UHFFFAOYSA-N,"7439-89-6^E1UOL152H7^Fe^Iron^Iron, elemental^Ferrum^Remko^Iron powder^Armco iron^Ferrovac E"
+EX:E000022407,molybdenum,246,Exposure,7439-98-7^16727-12-1^[Mo]^ZOKXTWBITQBERF-UHFFFAOYSA-N,"7439-98-7^Mo^Molybdenum^Molybdenum(6+)^MOLYBDENUM ATOM^Molybdenum(6+) ion^Molybdenum, metallic^MOLYBDENUM(VI) ION^Molybdenum, elemental^Molybdenum powder"
+EX:E000022444,cadmium,648,Exposure,7440-43-9^69011-70-7^81271-94-5^[Cd]^BDOSMKKIYDKNTQ-UHFFFAOYSA-N,"7440-43-9^Cadmium^Cd^Cadmium, elemental^Colloidal cadmium^Kadmium^Cadmium powder^Cadmium metal^Elemental cadmium^CCRIS 112"
+EX:E000022448,copper,724,Exposure,7440-50-8^[Cu]^RYGMFSIKBFXOCR-UHFFFAOYSA-N,"7440-50-8^Copper^Cu^Copper powder^cuprum^Bronze powder^Copper bronze^Copper, elemental^Tatum-T^Arwood copper"
+EX:E000022460,vanadium,235,Exposure,7440-62-2^22537-31-1^22541-77-1^[V]^LEONUFNNVUYDNQ-UHFFFAOYSA-N,"7440-62-2^V^Vanadium^Vanadium, elemental^Vanadium metallicum^Vanadium(1+)^Vanadium dust^VANADIUM ION^vanadium(5+)^vanadio"
+EX:E000022464,zinc,549,Exposure,7440-66-6^14018-82-7^[Zn]^HCHKCACWOHOZIP-UHFFFAOYSA-N,"7440-66-6^Zinc^Zn^Zinc dust^Zinc, elemental^Zinc powder^Zincum metallicum^cinc^Rheinzink^Jasad"
+EX:E000023751,methyl N-(1H-benzimidazol-2-yl)carbamate,110,Exposure,10605-21-7^105268-95-9^37953-07-4^39413-19-9^10605-21-7^102040-01-7^110342-67-1^212384-28-6^COC(=O)NC1=NC2=CC=CC=C2N1^TWFZGCMQGLPBSX-UHFFFAOYSA-N,Carbendazim^10605-21-7^Carbendazole^Bavistin^Mecarzole^Thicoper^Carbendazime^Bavistan^Carbendazol^Derosal
+EX:E000065012,1-cyclopropyl-7-(4-ethylpiperazin-1-yl)-6-fluoro-4-oxoquinoline-3-carboxylic acid,3,Exposure,93106-60-6^93106-60-6^001-11-0^CCN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4CC4)F^SPFYMRJSYKOXGV-UHFFFAOYSA-N,"Enrofloxacin^93106-60-6^Baytril^Enrofloxacine^CFPQ^Enrofloxacino^Enrofloxacinum^BAY VP 2674^endrofloxicin^1-cyclopropyl-7-(4-ethylpiperazin-1-yl)-6-fluoro-4-oxo-1,4-dihydroquinoline-3-carboxylic acid"
+EX:E000078878,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",8,Exposure,110488-70-5^COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC^QNBTYORWCCMPQP-UHFFFAOYSA-N,"Dimethomorph^110488-70-5^3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one^DTXSID7034545^CHEBI:81848^MFCD01632781^Dimethomorph isomer 2^SCHEMBL54189^Acrobat; Akrobat; CME 151; Festival C; Forum; Forum (biocide)^CHEMBL3138617"
+EX:E000096046,cobalt,648,Exposure,7440-48-4^[Co]^GUTLYIVDDKVIGB-UHFFFAOYSA-N,"7440-48-4^Co^Cobalt^cobalto^Kobalt^Cobalt, elemental^cobaltum^Cobalt-59^Aquacat^cobalt atom"
+EX:E000098621,"N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",60,Exposure,153719-23-4^CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl^NWWZPOKUUAIXIW-UHFFFAOYSA-N,"Thiamethoxam^153719-23-4^Adage^Actara^CHEBI:39185^n-(3-((2-chlorothiazol-5-yl)methyl)-5-methyl-1,3,5-oxadiazinan-4-ylidene)nitramide^DTXSID2034962^C8H10CLN5O3S^Thiamethaxam^MFCD03792862"
+EX:E004811303,lead,566,Exposure,7439-92-1^54076-28-7^14452-81-4^[Pb]^WABPQHHGFIMREM-UHFFFAOYSA-N,7439-92-1^Lead^Pb^Lead metal^Plumbum^Lead element^Lead flake^Lead cation Pb4+^Glover^Blei
+EX:E004815779,strontium,14,Exposure,7440-24-6^[Sr]^CIOAGBVUUVVLOB-UHFFFAOYSA-N,"7440-24-6^Sr^Strontium^Strontium, elemental^UNII-YZS2RPE8LE^YZS2RPE8LE^HSDB 2545^EINECS 231-133-4^DTXSID3024312^CHEBI:33324"
+EX:E004815817,thallium,145,Exposure,7440-28-0^[Tl]^BKVIYDNLLOSFOA-UHFFFAOYSA-N,"7440-28-0^Thallium^Tl^talio^Thallium granules^81Tl^CHEBI:30440^Ramor^Thallium, metallic^Thallium, elemental"
+EX:E004815849,arsenic,624,Exposure,7440-38-2^[As]^RQNWIZPPADIBDY-UHFFFAOYSA-N,7440-38-2^Arsenic^As^Agent SA^Arsenowodor^Arsen^Arsenic hydride (AsH3)^ARSENIC METAL^V1I29R0RJQ^Arsenicals
+EX:E005270968,selenium,519,Exposure,7782-49-2^[Se]^BUGBHKTXTAQXES-UHFFFAOYSA-N,"7782-49-2^Se^Selenium^Selenium hydride^SELENIUM ATOM^Elemental selenium^Selenium elemental^Selenium, elemental^Selen^Selenium dihydride"
+EX:E005271068,tellurium,134,Exposure,13494-80-9^[Te]^PORWMNRCUJJQNO-UHFFFAOYSA-N,"13494-80-9^Te^Tellurium^Tellurium, metallic^Tellurium, elemental^Tellur^Tellurium powder^NCI-C60117^NQA0O090ZJ^Tellurium broken ingot"
+EX:E028245645,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",126,Exposure,564-25-0^24390-14-5^7164-70-7^C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O^SGKRLCUYIXIAHR-AKNGSSGZSA-N,doxycycline^564-25-0^Vibramycin^Doxytetracycline^Doxycycline (anhydrous)^Doxiciclina^Doxycyclinum^Monodox^Doxycycline anhydrous^Doxycycline hyclate
+EX:E028250140,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",214,Exposure,60-54-8^60-54-8^6416-04-2^60-54-8^C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O^NWXMGUDVXFXRIG-WESIUVDSSA-N,tetracycline^60-54-8^Deschlorobiomycin^Tsiklomitsin^Abramycin^Tetracyclinum^Tsiklomistsin^Tetracyclin^Achromycin^Tetraciclina
+EX:E028250141,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",2,Exposure,57-62-5^C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C(C=CC(=C41)Cl)O)O)O)O)C(=O)N)N(C)C)O^DHPRQBPJLMKORJ-XRNKAMNCSA-N,chlortetracycline^57-62-5^7-Chlorotetracycline^Chlorotetracycline^AUREOMYCIN^Acronize^Chlormax^Clortetraciclina^Chlortetracyclinum^Aureomycin A-377
+EX:E028250143,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",29,Exposure,79-57-2^79-57-2^6153-64-6^2058-46-0^79-57-2^7179-50-2^6153-65-7^C[C@@]1([C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O^OWFJMIVZYSDULZ-PXOLEDIWSA-N,oxytetracycline^79-57-2^Terramycin^Oxyterracine^Oxytetracyclin^Oxymycin^Terrafungine^Oxyterracin^Oxytetracycline anhydrous^Oxitetraciclina
+REACT:R382556,abc-family proteins mediated transport,14,Pathway,REACT:R382556,abc-family proteins mediated transport
+KEGG:hsa02010,abc transporters,11,Pathway,KEGG:hsa02010,abc transporters
+REACT:R1369062,abc transporters in lipid homeostasis,2,Pathway,REACT:R1369062,abc transporters in lipid homeostasis
+REACT:R5625886,activated pkn1 stimulates transcription of ar (androgen receptor) regulated genes klk2 and klk3,4,Pathway,REACT:R5625886,activated pkn1 stimulates transcription of ar (androgen receptor) regulated genes klk2 and klk3
+REACT:R166054,activated tlr4 signalling,17,Pathway,REACT:R166054,activated tlr4 signalling
+REACT:R5617472,activation of anterior hox genes in hindbrain development during early embryogenesis,9,Pathway,REACT:R5617472,activation of anterior hox genes in hindbrain development during early embryogenesis
+REACT:R111447,activation of bad and translocation to mitochondria,9,Pathway,REACT:R111447,activation of bad and translocation to mitochondria
+REACT:R114452,activation of bh3-only proteins,15,Pathway,REACT:R114452,activation of bh3-only proteins
+REACT:R211227,activation of dna fragmentation factor,2,Pathway,REACT:R211227,activation of dna fragmentation factor
+REACT:R991365,activation of gabab receptors,9,Pathway,REACT:R991365,activation of gabab receptors
+REACT:R2426168,activation of gene expression by srebf (srebp),14,Pathway,REACT:R2426168,activation of gene expression by srebf (srebp)
+REACT:R1296041,activation of g protein gated potassium channels,6,Pathway,REACT:R1296041,activation of g protein gated potassium channels
+REACT:R5619507,activation of hox genes during differentiation,9,Pathway,REACT:R5619507,activation of hox genes during differentiation
+REACT:R936964,activation of irf3/irf7 mediated by tbk1/ikk epsilon,3,Pathway,REACT:R936964,activation of irf3/irf7 mediated by tbk1/ikk epsilon
+REACT:R451326,activation of kainate receptors upon glutamate binding,7,Pathway,REACT:R451326,activation of kainate receptors upon glutamate binding
+REACT:R1592389,activation of matrix metalloproteinases,13,Pathway,REACT:R1592389,activation of matrix metalloproteinases
+REACT:R1169091,activation of nf-kappab in b cells,13,Pathway,REACT:R1169091,activation of nf-kappab in b cells
+REACT:R111448,activation of noxa and translocation to mitochondria,3,Pathway,REACT:R111448,activation of noxa and translocation to mitochondria
+REACT:R139915,activation of puma and translocation to mitochondria,5,Pathway,REACT:R139915,activation of puma and translocation to mitochondria
+REACT:R5635838,activation of smo,3,Pathway,REACT:R5635838,activation of smo
+REACT:R450341,activation of the ap-1 family of transcription factors,12,Pathway,REACT:R450341,activation of the ap-1 family of transcription factors
+KEGG:hsa05221,acute myeloid leukemia,18,Pathway,KEGG:hsa05221,acute myeloid leukemia
+REACT:R1280218,adaptive immune system,20,Pathway,REACT:R1280218,adaptive immune system
+REACT:R170660,adenylate cyclase activating pathway,4,Pathway,REACT:R170660,adenylate cyclase activating pathway
+REACT:R170670,adenylate cyclase inhibitory pathway,4,Pathway,REACT:R170670,adenylate cyclase inhibitory pathway
+KEGG:hsa04520,adherens junction,15,Pathway,KEGG:hsa04520,adherens junction
+KEGG:hsa04920,adipocytokine signaling pathway,20,Pathway,KEGG:hsa04920,adipocytokine signaling pathway
+REACT:R418592,adp signalling through p2y purinoceptor 1,6,Pathway,REACT:R418592,adp signalling through p2y purinoceptor 1
+REACT:R392170,adp signalling through p2y purinoceptor 12,6,Pathway,REACT:R392170,adp signalling through p2y purinoceptor 12
+REACT:R400042,"adrenaline,noradrenaline inhibits insulin secretion",5,Pathway,REACT:R400042,"adrenaline,noradrenaline inhibits insulin secretion"
+KEGG:hsa04261,adrenergic signaling in cardiomyocytes,18,Pathway,KEGG:hsa04261,adrenergic signaling in cardiomyocytes
+REACT:R390696,adrenoceptors,3,Pathway,REACT:R390696,adrenoceptors
+REACT:R879415,advanced glycosylation endproduct receptor signaling,3,Pathway,REACT:R879415,advanced glycosylation endproduct receptor signaling
+KEGG:hsa05143,african trypanosomiasis,23,Pathway,KEGG:hsa05143,african trypanosomiasis
+KEGG:hsa04933,age-rage signaling pathway in diabetic complications,30,Pathway,KEGG:hsa04933,age-rage signaling pathway in diabetic complications
+REACT:R198323,akt phosphorylates targets in the cytosol,15,Pathway,REACT:R198323,akt phosphorylates targets in the cytosol
+KEGG:hsa00250,"alanine, aspartate and glutamate metabolism",11,Pathway,KEGG:hsa00250,"alanine, aspartate and glutamate metabolism"
+KEGG:hsa05034,alcoholism,15,Pathway,KEGG:hsa05034,alcoholism
+KEGG:hsa04960,aldosterone-regulated sodium reabsorption,14,Pathway,KEGG:hsa04960,aldosterone-regulated sodium reabsorption
+KEGG:hsa04925,aldosterone synthesis and secretion,16,Pathway,KEGG:hsa04925,aldosterone synthesis and secretion
+KEGG:hsa05330,allograft rejection,12,Pathway,KEGG:hsa05330,allograft rejection
+KEGG:hsa05010,alzheimer disease,25,Pathway,KEGG:hsa05010,alzheimer disease
+REACT:R4839748,amer1 mutants destabilize the destruction complex,4,Pathway,REACT:R4839748,amer1 mutants destabilize the destruction complex
+REACT:R209776,amine-derived hormones,6,Pathway,REACT:R209776,amine-derived hormones
+REACT:R375280,amine ligand-binding receptors,7,Pathway,REACT:R375280,amine ligand-binding receptors
+REACT:R352230,amino acid transport across the plasma membrane,5,Pathway,REACT:R352230,amino acid transport across the plasma membrane
+KEGG:hsa05146,amoebiasis,25,Pathway,KEGG:hsa05146,amoebiasis
+KEGG:hsa05031,amphetamine addiction,14,Pathway,KEGG:hsa05031,amphetamine addiction
+REACT:R163680,ampk inhibits chrebp transcriptional activation activity,3,Pathway,REACT:R163680,ampk inhibits chrebp transcriptional activation activity
+KEGG:hsa04152,ampk signaling pathway,17,Pathway,KEGG:hsa04152,ampk signaling pathway
+REACT:R977225,amyloid fiber formation,10,Pathway,REACT:R977225,amyloid fiber formation
+KEGG:hsa05014,amyotrophic lateral sclerosis,26,Pathway,KEGG:hsa05014,amyotrophic lateral sclerosis
+REACT:R193048,androgen biosynthesis,5,Pathway,REACT:R193048,androgen biosynthesis
+KEGG:hsa01523,antifolate resistance,20,Pathway,KEGG:hsa01523,antifolate resistance
+REACT:R983695,antigen activates b cell receptor (bcr) leading to generation of second messengers,8,Pathway,REACT:R983695,antigen activates b cell receptor (bcr) leading to generation of second messengers
+REACT:R983170,"antigen presentation: folding, assembly and peptide loading of class i mhc",5,Pathway,REACT:R983170,"antigen presentation: folding, assembly and peptide loading of class i mhc"
+KEGG:hsa04612,antigen processing and presentation,14,Pathway,KEGG:hsa04612,antigen processing and presentation
+REACT:R1236975,antigen processing-cross presentation,12,Pathway,REACT:R1236975,antigen processing-cross presentation
+REACT:R983168,antigen processing: ubiquitination & proteasome degradation,12,Pathway,REACT:R983168,antigen processing: ubiquitination & proteasome degradation
+REACT:R6803157,antimicrobial peptides,3,Pathway,REACT:R6803157,antimicrobial peptides
+REACT:R5467337,apc truncation mutants have impaired axin binding,4,Pathway,REACT:R5467337,apc truncation mutants have impaired axin binding
+KEGG:hsa04371,apelin signaling pathway,19,Pathway,KEGG:hsa04371,apelin signaling pathway
+REACT:R109581,apoptosis,24,Pathway,REACT:R109581,apoptosis
+KEGG:hsa04210,apoptosis,28,Pathway,KEGG:hsa04210,apoptosis
+REACT:R140342,apoptosis induced dna fragmentation,2,Pathway,REACT:R140342,apoptosis induced dna fragmentation
+KEGG:hsa04215,apoptosis,24,Pathway,KEGG:hsa04215,apoptosis
+REACT:R111465,apoptotic cleavage of cellular proteins,16,Pathway,REACT:R111465,apoptotic cleavage of cellular proteins
+REACT:R75153,apoptotic execution  phase,15,Pathway,REACT:R75153,apoptotic execution  phase
+REACT:R445717,aquaporin-mediated transport,8,Pathway,REACT:R445717,aquaporin-mediated transport
+REACT:R2142753,arachidonic acid metabolism,22,Pathway,REACT:R2142753,arachidonic acid metabolism
+KEGG:hsa00590,arachidonic acid metabolism,13,Pathway,KEGG:hsa00590,arachidonic acid metabolism
+KEGG:hsa00330,arginine and proline metabolism,12,Pathway,KEGG:hsa00330,arginine and proline metabolism
+KEGG:hsa00220,arginine biosynthesis,14,Pathway,KEGG:hsa00220,arginine biosynthesis
+REACT:R170984,arms-mediated activation,15,Pathway,REACT:R170984,arms-mediated activation
+KEGG:hsa05412,arrhythmogenic right ventricular cardiomyopathy,11,Pathway,KEGG:hsa05412,arrhythmogenic right ventricular cardiomyopathy
+REACT:R446203,asparagine n-linked glycosylation,12,Pathway,REACT:R446203,asparagine n-linked glycosylation
+REACT:R2022090,assembly of collagen fibrils and other multimeric structures,9,Pathway,REACT:R2022090,assembly of collagen fibrils and other multimeric structures
+REACT:R390471,association of tric/cct with target proteins during biosynthesis,10,Pathway,REACT:R390471,association of tric/cct with target proteins during biosynthesis
+KEGG:hsa05310,asthma,4,Pathway,KEGG:hsa05310,asthma
+REACT:R380994,atf4 activates genes,9,Pathway,REACT:R380994,atf4 activates genes
+REACT:R349425,autodegradation of the e3 ubiquitin ligase cop1,11,Pathway,REACT:R349425,autodegradation of the e3 ubiquitin ligase cop1
+KEGG:hsa04140,autophagy,19,Pathway,KEGG:hsa04140,autophagy
+KEGG:hsa04136,autophagy,6,Pathway,KEGG:hsa04136,autophagy
+REACT:R5467340,axin missense mutants destabilize the destruction complex,4,Pathway,REACT:R5467340,axin missense mutants destabilize the destruction complex
+REACT:R4839735,"axin mutants destabilize the destruction complex, activating wnt signaling",4,Pathway,REACT:R4839735,"axin mutants destabilize the destruction complex, activating wnt signaling"
+REACT:R422475,axon guidance,19,Pathway,REACT:R422475,axon guidance
+KEGG:hsa04360,axon guidance,14,Pathway,KEGG:hsa04360,axon guidance
+KEGG:hsa05100,bacterial invasion of epithelial cells,12,Pathway,KEGG:hsa05100,bacterial invasion of epithelial cells
+KEGG:hsa05217,basal cell carcinoma,8,Pathway,KEGG:hsa05217,basal cell carcinoma
+KEGG:hsa03410,base excision repair,9,Pathway,KEGG:hsa03410,base excision repair
+REACT:R210991,basigin interactions,7,Pathway,REACT:R210991,basigin interactions
+KEGG:hsa04662,b cell receptor signaling pathway,16,Pathway,KEGG:hsa04662,b cell receptor signaling pathway
+KEGG:hsa00410,beta-alanine metabolism,8,Pathway,KEGG:hsa00410,beta-alanine metabolism
+REACT:R3858494,beta-catenin independent wnt signaling,12,Pathway,REACT:R3858494,beta-catenin independent wnt signaling
+REACT:R196299,beta-catenin phosphorylation cascade,5,Pathway,REACT:R196299,beta-catenin phosphorylation cascade
+REACT:R111453,bh3-only proteins associate with and inactivate anti-apoptotic bcl-2 members,7,Pathway,REACT:R111453,bh3-only proteins associate with and inactivate anti-apoptotic bcl-2 members
+REACT:R194068,bile acid and bile salt metabolism,12,Pathway,REACT:R194068,bile acid and bile salt metabolism
+KEGG:hsa04976,bile secretion,19,Pathway,KEGG:hsa04976,bile secretion
+REACT:R2173782,binding and uptake of ligands by scavenger receptors,12,Pathway,REACT:R2173782,binding and uptake of ligands by scavenger receptors
+REACT:R211859,biological oxidations,27,Pathway,REACT:R211859,biological oxidations
+KEGG:hsa01230,biosynthesis of amino acids,13,Pathway,KEGG:hsa01230,biosynthesis of amino acids
+KEGG:hsa05219,bladder cancer,24,Pathway,KEGG:hsa05219,bladder cancer
+REACT:R1368108,"bmal1:clock,npas2 activates circadian gene expression",12,Pathway,REACT:R1368108,"bmal1:clock,npas2 activates circadian gene expression"
+KEGG:hsa05224,breast cancer,22,Pathway,KEGG:hsa05224,breast cancer
+REACT:R162588,budding and maturation of hiv virion,4,Pathway,REACT:R162588,budding and maturation of hiv virion
+KEGG:hsa00650,butanoate metabolism,8,Pathway,KEGG:hsa00650,butanoate metabolism
+REACT:R5250924,b-wich complex positively regulates rrna expression,5,Pathway,REACT:R5250924,b-wich complex positively regulates rrna expression
+KEGG:M00109,"C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone",2,Pathway,KEGG:M00109,"C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"
+REACT:R1296052,ca2+ activated k+ channels,2,Pathway,REACT:R1296052,ca2+ activated k+ channels
+REACT:R4086398,ca2+ pathway,9,Pathway,REACT:R4086398,ca2+ pathway
+REACT:R111996,ca-dependent events,10,Pathway,REACT:R111996,ca-dependent events
+KEGG:hsa04020,calcium signaling pathway,15,Pathway,KEGG:hsa04020,calcium signaling pathway
+REACT:R111933,calmodulin induced events,9,Pathway,REACT:R111933,calmodulin induced events
+REACT:R111997,cam pathway,9,Pathway,REACT:R111997,cam pathway
+KEGG:M00695,camp signaling,6,Pathway,KEGG:M00695,camp signaling
+KEGG:hsa04024,camp signaling pathway,20,Pathway,KEGG:hsa04024,camp signaling pathway
+KEGG:hsa04973,carbohydrate digestion and absorption,13,Pathway,KEGG:hsa04973,carbohydrate digestion and absorption
+KEGG:hsa01200,carbon metabolism,16,Pathway,KEGG:hsa01200,carbon metabolism
+REACT:R5576891,cardiac conduction,10,Pathway,REACT:R5576891,cardiac conduction
+KEGG:hsa04260,cardiac muscle contraction,13,Pathway,KEGG:hsa04260,cardiac muscle contraction
+REACT:R8856825,cargo recognition for clathrin-mediated endocytosis,12,Pathway,REACT:R8856825,cargo recognition for clathrin-mediated endocytosis
+REACT:R5357769,caspase activation via extrinsic apoptotic signalling pathway,15,Pathway,REACT:R5357769,caspase activation via extrinsic apoptotic signalling pathway
+REACT:R264870,caspase-mediated cleavage of cytoskeletal proteins,11,Pathway,REACT:R264870,caspase-mediated cleavage of cytoskeletal proteins
+REACT:R209905,catecholamine biosynthesis,2,Pathway,REACT:R209905,catecholamine biosynthesis
+KEGG:M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline",2,Pathway,KEGG:M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"
+REACT:R5621575,cd209 (dc-sign) signaling,8,Pathway,REACT:R5621575,cd209 (dc-sign) signaling
+REACT:R389356,cd28 co-stimulation,13,Pathway,REACT:R389356,cd28 co-stimulation
+REACT:R389357,cd28 dependent pi3k/akt signaling,10,Pathway,REACT:R389357,cd28 dependent pi3k/akt signaling
+KEGG:hsa04514,cell adhesion molecules,15,Pathway,KEGG:hsa04514,cell adhesion molecules
+KEGG:hsa04110,cell cycle,17,Pathway,KEGG:hsa04110,cell cycle
+REACT:R1640170,cell cycle,16,Pathway,REACT:R1640170,cell cycle
+REACT:R69620,cell cycle checkpoints,14,Pathway,REACT:R69620,cell cycle checkpoints
+REACT:R69278,"cell cycle, mitotic",17,Pathway,REACT:R69278,"cell cycle, mitotic"
+REACT:R204998,"cell death signalling via nrage, nrif and nade",12,Pathway,REACT:R204998,"cell death signalling via nrage, nrif and nade"
+REACT:R202733,cell surface interactions at the vascular wall,13,Pathway,REACT:R202733,cell surface interactions at the vascular wall
+REACT:R2262752,cellular responses to stress,25,Pathway,REACT:R2262752,cellular responses to stress
+REACT:R3371556,cellular response to heat stress,15,Pathway,REACT:R3371556,cellular response to heat stress
+REACT:R2262749,cellular response to hypoxia,12,Pathway,REACT:R2262749,cellular response to hypoxia
+REACT:R2559583,cellular senescence,19,Pathway,REACT:R2559583,cellular senescence
+KEGG:hsa05230,central carbon metabolism in cancer,22,Pathway,KEGG:hsa05230,central carbon metabolism in cancer
+REACT:R418457,cgmp effects,4,Pathway,REACT:R418457,cgmp effects
+KEGG:hsa04022,cgmp-pkg signaling pathway,17,Pathway,KEGG:hsa04022,cgmp-pkg signaling pathway
+KEGG:hsa05142,chagas disease,28,Pathway,KEGG:hsa05142,chagas disease
+REACT:R390466,chaperonin-mediated protein folding,12,Pathway,REACT:R390466,chaperonin-mediated protein folding
+KEGG:hsa05204,chemical carcinogenesis,23,Pathway,KEGG:hsa05204,chemical carcinogenesis
+REACT:R380108,chemokine receptors bind chemokines,6,Pathway,REACT:R380108,chemokine receptors bind chemokines
+KEGG:hsa04062,chemokine signaling pathway,20,Pathway,KEGG:hsa04062,chemokine signaling pathway
+KEGG:hsa05231,choline metabolism in cancer,20,Pathway,KEGG:hsa05231,choline metabolism in cancer
+KEGG:hsa04725,cholinergic synapse,19,Pathway,KEGG:hsa04725,cholinergic synapse
+REACT:R3247509,chromatin modifying enzymes,12,Pathway,REACT:R3247509,chromatin modifying enzymes
+REACT:R4839726,chromatin organization,12,Pathway,REACT:R4839726,chromatin organization
+KEGG:hsa05220,chronic myeloid leukemia,22,Pathway,KEGG:hsa05220,chronic myeloid leukemia
+REACT:R174800,chylomicron-mediated lipid transport,8,Pathway,REACT:R174800,chylomicron-mediated lipid transport
+REACT:R400253,circadian clock,14,Pathway,REACT:R400253,circadian clock
+KEGG:hsa04713,circadian entrainment,15,Pathway,KEGG:hsa04713,circadian entrainment
+KEGG:M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",3,Pathway,KEGG:M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+KEGG:hsa00020,citrate cycle,10,Pathway,KEGG:hsa00020,citrate cycle
+KEGG:M00009,"Citrate cycle (TCA cycle, Krebs cycle)",8,Pathway,KEGG:M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+REACT:R373076,class a/1 (rhodopsin-like receptors),15,Pathway,REACT:R373076,class a/1 (rhodopsin-like receptors)
+REACT:R373080,class b/2 (secretin family receptors),8,Pathway,REACT:R373080,class b/2 (secretin family receptors)
+REACT:R173623,classical antibody-mediated complement activation,2,Pathway,REACT:R173623,classical antibody-mediated complement activation
+REACT:R983169,class i mhc mediated antigen processing & presentation,12,Pathway,REACT:R983169,class i mhc mediated antigen processing & presentation
+REACT:R8856828,clathrin-mediated endocytosis,12,Pathway,REACT:R8856828,clathrin-mediated endocytosis
+REACT:R5607764,clec7a (dectin-1) signaling,14,Pathway,REACT:R5607764,clec7a (dectin-1) signaling
+REACT:R5660668,clec7a/inflammasome pathway,7,Pathway,REACT:R5660668,clec7a/inflammasome pathway
+KEGG:hsa05030,cocaine addiction,16,Pathway,KEGG:hsa05030,cocaine addiction
+REACT:R1650814,collagen biosynthesis and modifying enzymes,8,Pathway,REACT:R1650814,collagen biosynthesis and modifying enzymes
+REACT:R8948216,collagen chain trimerization,7,Pathway,REACT:R8948216,collagen chain trimerization
+REACT:R1442490,collagen degradation,10,Pathway,REACT:R1442490,collagen degradation
+REACT:R1474290,collagen formation,9,Pathway,REACT:R1474290,collagen formation
+KEGG:hsa05210,colorectal cancer,26,Pathway,KEGG:hsa05210,colorectal cancer
+REACT:R140875,common pathway of fibrin clot formation,8,Pathway,REACT:R140875,common pathway of fibrin clot formation
+KEGG:hsa04610,complement and coagulation cascades,13,Pathway,KEGG:hsa04610,complement and coagulation cascades
+REACT:R166658,complement cascade,9,Pathway,REACT:R166658,complement cascade
+REACT:R5674400,constitutive signaling by akt1 e17k in cancer,18,Pathway,REACT:R5674400,constitutive signaling by akt1 e17k in cancer
+REACT:R6814122,cooperation of pdcl (phlp1) and tric/cct in g-protein beta folding,6,Pathway,REACT:R6814122,cooperation of pdcl (phlp1) and tric/cct in g-protein beta folding
+REACT:R6807878,copi-mediated anterograde transport,8,Pathway,REACT:R6807878,copi-mediated anterograde transport
+REACT:R388841,costimulation by the cd28 family,12,Pathway,REACT:R388841,costimulation by the cd28 family
+REACT:R166786,creation of c4 and c2 activators,2,Pathway,REACT:R166786,creation of c4 and c2 activators
+REACT:R399956,crmps in sema3a signaling,7,Pathway,REACT:R399956,crmps in sema3a signaling
+REACT:R1236973,cross-presentation of particulate exogenous antigens (phagosomes),2,Pathway,REACT:R1236973,cross-presentation of particulate exogenous antigens (phagosomes)
+REACT:R5621481,c-type lectin receptors (clrs),14,Pathway,REACT:R5621481,c-type lectin receptors (clrs)
+KEGG:hsa00270,cysteine and methionine metabolism,13,Pathway,KEGG:hsa00270,cysteine and methionine metabolism
+REACT:R211897,cytochrome p450 - arranged by substrate type,22,Pathway,REACT:R211897,cytochrome p450 - arranged by substrate type
+KEGG:hsa04060,cytokine-cytokine receptor interaction,22,Pathway,KEGG:hsa04060,cytokine-cytokine receptor interaction
+REACT:R1280215,cytokine signaling in immune system,29,Pathway,REACT:R1280215,cytokine signaling in immune system
+KEGG:hsa04623,cytosolic dna-sensing pathway,13,Pathway,KEGG:hsa04623,cytosolic dna-sensing pathway
+REACT:R1834949,cytosolic sensors of pathogen-associated dna,13,Pathway,REACT:R1834949,cytosolic sensors of pathogen-associated dna
+REACT:R1489509,dag and ip3 signaling,11,Pathway,REACT:R1489509,dag and ip3 signaling
+REACT:R2172127,dap12 interactions,21,Pathway,REACT:R2172127,dap12 interactions
+REACT:R2424491,dap12 signaling,21,Pathway,REACT:R2424491,dap12 signaling
+REACT:R73887,death receptor signalling,13,Pathway,REACT:R73887,death receptor signalling
+REACT:R5607761,dectin-1 mediated noncanonical nf-kb signaling,11,Pathway,REACT:R5607761,dectin-1 mediated noncanonical nf-kb signaling
+REACT:R195253,degradation of beta-catenin by the destruction complex,11,Pathway,REACT:R195253,degradation of beta-catenin by the destruction complex
+REACT:R5610783,degradation of gli2 by the proteasome,11,Pathway,REACT:R5610783,degradation of gli2 by the proteasome
+REACT:R1474228,degradation of the extracellular matrix,17,Pathway,REACT:R1474228,degradation of the extracellular matrix
+REACT:R112308,depolarization of the presynaptic terminal triggers the opening of calcium channels,2,Pathway,REACT:R112308,depolarization of the presynaptic terminal triggers the opening of calcium channels
+REACT:R8862803,deregulated cdk5 triggers multiple neurodegenerative pathways in alzheimer's disease models,12,Pathway,REACT:R8862803,deregulated cdk5 triggers multiple neurodegenerative pathways in alzheimer's disease models
+REACT:R3299685,detoxification of reactive oxygen species,21,Pathway,REACT:R3299685,detoxification of reactive oxygen species
+REACT:R5688426,deubiquitination,14,Pathway,REACT:R5688426,deubiquitination
+REACT:R1266738,developmental biology,22,Pathway,REACT:R1266738,developmental biology
+REACT:R3134963,dex/h-box helicases activate type i ifn and inflammatory cytokines production,5,Pathway,REACT:R3134963,dex/h-box helicases activate type i ifn and inflammatory cytokines production
+KEGG:hsa05414,dilated cardiomyopathy,14,Pathway,KEGG:hsa05414,dilated cardiomyopathy
+REACT:R4641262,disassembly of the destruction complex and recruitment of axin to the membrane,6,Pathway,REACT:R4641262,disassembly of the destruction complex and recruitment of axin to the membrane
+REACT:R1643685,disease,23,Pathway,REACT:R1643685,disease
+REACT:R5602358,diseases associated with the tlr signaling cascade,13,Pathway,REACT:R5602358,diseases associated with the tlr signaling cascade
+REACT:R5260271,diseases of immune system,13,Pathway,REACT:R5260271,diseases of immune system
+REACT:R5668914,diseases of metabolism,8,Pathway,REACT:R5668914,diseases of metabolism
+REACT:R5663202,diseases of signal transduction,21,Pathway,REACT:R5663202,diseases of signal transduction
+REACT:R5619115,disorders of transmembrane transporters,11,Pathway,REACT:R5619115,disorders of transmembrane transporters
+REACT:R75205,dissolution of fibrin clot,7,Pathway,REACT:R75205,dissolution of fibrin clot
+REACT:R2559586,dna damage/telomere stress induced senescence,9,Pathway,REACT:R2559586,dna damage/telomere stress induced senescence
+REACT:R5693532,dna double-strand break repair,13,Pathway,REACT:R5693532,dna double-strand break repair
+REACT:R5693606,dna double strand break response,8,Pathway,REACT:R5693606,dna double strand break response
+REACT:R73894,dna repair,15,Pathway,REACT:R73894,dna repair
+REACT:R390651,dopamine receptors,2,Pathway,REACT:R390651,dopamine receptors
+KEGG:hsa04728,dopaminergic synapse,15,Pathway,KEGG:hsa04728,dopaminergic synapse
+REACT:R2173795,downregulation of smad2/3:smad4 transcriptional activity,9,Pathway,REACT:R2173795,downregulation of smad2/3:smad4 transcriptional activity
+REACT:R2173788,downregulation of tgf-beta receptor signaling,8,Pathway,REACT:R2173788,downregulation of tgf-beta receptor signaling
+REACT:R1168372,downstream signaling events of b cell receptor (bcr),20,Pathway,REACT:R1168372,downstream signaling events of b cell receptor (bcr)
+REACT:R186763,downstream signal transduction,21,Pathway,REACT:R186763,downstream signal transduction
+REACT:R202424,downstream tcr signaling,13,Pathway,REACT:R202424,downstream tcr signaling
+KEGG:hsa00982,drug metabolism,22,Pathway,KEGG:hsa00982,drug metabolism
+REACT:R3000178,ecm proteoglycans,11,Pathway,REACT:R3000178,ecm proteoglycans
+KEGG:hsa04512,ecm-receptor interaction,14,Pathway,KEGG:hsa04512,ecm-receptor interaction
+REACT:R114508,effects of pip2 hydrolysis,5,Pathway,REACT:R114508,effects of pip2 hydrolysis
+REACT:R212718,egfr interacts with phospholipase c-gamma,11,Pathway,REACT:R212718,egfr interacts with phospholipase c-gamma
+KEGG:hsa01521,egfr tyrosine kinase inhibitor resistance,26,Pathway,KEGG:hsa01521,egfr tyrosine kinase inhibitor resistance
+REACT:R211979,eicosanoids,2,Pathway,REACT:R211979,eicosanoids
+REACT:R1566948,elastic fibre formation,10,Pathway,REACT:R1566948,elastic fibre formation
+REACT:R139853,elevation of cytosolic ca2+ levels,2,Pathway,REACT:R139853,elevation of cytosolic ca2+ levels
+KEGG:hsa04961,endocrine and other factor-regulated calcium reabsorption,11,Pathway,KEGG:hsa04961,endocrine and other factor-regulated calcium reabsorption
+KEGG:hsa01522,endocrine resistance,26,Pathway,KEGG:hsa01522,endocrine resistance
+KEGG:hsa04144,endocytosis,13,Pathway,KEGG:hsa04144,endocytosis
+REACT:R211976,endogenous sterols,13,Pathway,REACT:R211976,endogenous sterols
+KEGG:hsa05213,endometrial cancer,21,Pathway,KEGG:hsa05213,endometrial cancer
+REACT:R380972,energy dependent regulation of mtor by lkb1-ampk,6,Pathway,REACT:R380972,energy dependent regulation of mtor by lkb1-ampk
+REACT:R203615,enos activation,6,Pathway,REACT:R203615,enos activation
+REACT:R203765,enos activation and regulation,9,Pathway,REACT:R203765,enos activation and regulation
+REACT:R3928665,eph-ephrin mediated repulsion of cells,10,Pathway,REACT:R3928665,eph-ephrin mediated repulsion of cells
+REACT:R2682334,eph-ephrin signaling,13,Pathway,REACT:R2682334,eph-ephrin signaling
+REACT:R212165,epigenetic regulation of gene expression,12,Pathway,REACT:R212165,epigenetic regulation of gene expression
+KEGG:hsa05120,epithelial cell signaling in helicobacter pylori infection,15,Pathway,KEGG:hsa05120,epithelial cell signaling in helicobacter pylori infection
+KEGG:hsa05169,epstein-barr virus infection,23,Pathway,KEGG:hsa05169,epstein-barr virus infection
+KEGG:hsa04012,erbb signaling pathway,20,Pathway,KEGG:hsa04012,erbb signaling pathway
+REACT:R1236974,er-phagosome pathway,12,Pathway,REACT:R1236974,er-phagosome pathway
+REACT:R199977,er to golgi anterograde transport,11,Pathway,REACT:R199977,er to golgi anterograde transport
+REACT:R1237044,erythrocytes take up carbon dioxide and release oxygen,3,Pathway,REACT:R1237044,erythrocytes take up carbon dioxide and release oxygen
+REACT:R1247673,erythrocytes take up oxygen and release carbon dioxide,2,Pathway,REACT:R1247673,erythrocytes take up oxygen and release carbon dioxide
+KEGG:hsa04915,estrogen signaling pathway,21,Pathway,KEGG:hsa04915,estrogen signaling pathway
+REACT:R1474244,extracellular matrix organization,22,Pathway,REACT:R1474244,extracellular matrix organization
+REACT:R428790,facilitative na+-independent glucose transporters,2,Pathway,REACT:R428790,facilitative na+-independent glucose transporters
+REACT:R983231,factors involved in megakaryocyte development and platelet production,11,Pathway,REACT:R983231,factors involved in megakaryocyte development and platelet production
+KEGG:hsa04975,fat digestion and absorption,9,Pathway,KEGG:hsa04975,fat digestion and absorption
+REACT:R211935,fatty acids,3,Pathway,REACT:R211935,fatty acids
+REACT:R535734,"fatty acid, triacylglycerol, and ketone body metabolism",21,Pathway,REACT:R535734,"fatty acid, triacylglycerol, and ketone body metabolism"
+REACT:R2454202,fc epsilon receptor (fceri) signaling,22,Pathway,REACT:R2454202,fc epsilon receptor (fceri) signaling
+KEGG:hsa04664,fc epsilon ri signaling pathway,18,Pathway,KEGG:hsa04664,fc epsilon ri signaling pathway
+REACT:R2871809,fceri mediated ca+2 mobilization,6,Pathway,REACT:R2871809,fceri mediated ca+2 mobilization
+REACT:R2871796,fceri mediated mapk activation,17,Pathway,REACT:R2871796,fceri mediated mapk activation
+REACT:R2871837,fceri mediated nf-kb activation,12,Pathway,REACT:R2871837,fceri mediated nf-kb activation
+REACT:R2029480,fcgamma receptor (fcgr) dependent phagocytosis,12,Pathway,REACT:R2029480,fcgamma receptor (fcgr) dependent phagocytosis
+KEGG:hsa04666,fc gamma r-mediated phagocytosis,15,Pathway,KEGG:hsa04666,fc gamma r-mediated phagocytosis
+KEGG:hsa04216,ferroptosis,17,Pathway,KEGG:hsa04216,ferroptosis
+KEGG:hsa05418,fluid shear stress and atherosclerosis,26,Pathway,KEGG:hsa05418,fluid shear stress and atherosclerosis
+KEGG:hsa04510,focal adhesion,20,Pathway,KEGG:hsa04510,focal adhesion
+KEGG:hsa00790,folate biosynthesis,3,Pathway,KEGG:hsa00790,folate biosynthesis
+REACT:R196025,formation of annular gap junctions,2,Pathway,REACT:R196025,formation of annular gap junctions
+REACT:R140877,formation of fibrin clot (clotting cascade),9,Pathway,REACT:R140877,formation of fibrin clot (clotting cascade)
+REACT:R2559584,formation of senescence-associated heterochromatin foci (sahf),3,Pathway,REACT:R2559584,formation of senescence-associated heterochromatin foci (sahf)
+REACT:R6809371,formation of the cornified envelope,4,Pathway,REACT:R6809371,formation of the cornified envelope
+KEGG:hsa04068,foxo signaling pathway,25,Pathway,KEGG:hsa04068,foxo signaling pathway
+REACT:R170968,frs2-mediated activation,15,Pathway,REACT:R170968,frs2-mediated activation
+REACT:R69615,g1/s dna damage checkpoints,14,Pathway,REACT:R69615,g1/s dna damage checkpoints
+REACT:R69481,g2/m checkpoints,12,Pathway,REACT:R69481,g2/m checkpoints
+REACT:R69473,g2/m dna damage checkpoint,8,Pathway,REACT:R69473,g2/m dna damage checkpoint
+REACT:R69275,g2/m transition,13,Pathway,REACT:R69275,g2/m transition
+REACT:R180292,gab1 signalosome,20,Pathway,REACT:R180292,gab1 signalosome
+REACT:R977444,gaba b receptor activation,9,Pathway,REACT:R977444,gaba b receptor activation
+KEGG:hsa04727,gabaergic synapse,12,Pathway,KEGG:hsa04727,gabaergic synapse
+REACT:R977443,gaba receptor activation,8,Pathway,REACT:R977443,gaba receptor activation
+REACT:R888590,"gaba synthesis, release, reuptake and degradation",6,Pathway,REACT:R888590,"gaba synthesis, release, reuptake and degradation"
+REACT:R416482,g alpha (12/13) signalling events,10,Pathway,REACT:R416482,g alpha (12/13) signalling events
+REACT:R418594,g alpha (i) signalling events,12,Pathway,REACT:R418594,g alpha (i) signalling events
+REACT:R416476,g alpha (q) signalling events,14,Pathway,REACT:R416476,g alpha (q) signalling events
+REACT:R418555,g alpha (s) signalling events,10,Pathway,REACT:R418555,g alpha (s) signalling events
+REACT:R418597,g alpha (z) signalling events,8,Pathway,REACT:R418597,g alpha (z) signalling events
+REACT:R163841,"gamma carboxylation, hypusine formation and arylsulfatase activation",3,Pathway,REACT:R163841,"gamma carboxylation, hypusine formation and arylsulfatase activation"
+REACT:R159740,gamma-carboxylation of protein precursors,3,Pathway,REACT:R159740,gamma-carboxylation of protein precursors
+REACT:R159854,"gamma-carboxylation, transport, and amino-terminal cleavage of proteins",3,Pathway,REACT:R159854,"gamma-carboxylation, transport, and amino-terminal cleavage of proteins"
+KEGG:hsa04540,gap junction,18,Pathway,KEGG:hsa04540,gap junction
+REACT:R190861,gap junction assembly,2,Pathway,REACT:R190861,gap junction assembly
+REACT:R190873,gap junction degradation,2,Pathway,REACT:R190873,gap junction degradation
+REACT:R190828,gap junction trafficking,3,Pathway,REACT:R190828,gap junction trafficking
+REACT:R157858,gap junction trafficking and regulation,4,Pathway,REACT:R157858,gap junction trafficking and regulation
+KEGG:hsa04971,gastric acid secretion,14,Pathway,KEGG:hsa04971,gastric acid secretion
+REACT:R881907,gastrin-creb signalling pathway via pkc and mapk,19,Pathway,REACT:R881907,gastrin-creb signalling pathway via pkc and mapk
+REACT:R392451,g beta:gamma signalling through pi3kgamma,11,Pathway,REACT:R392451,g beta:gamma signalling through pi3kgamma
+REACT:R418217,g beta:gamma signalling through plc beta,5,Pathway,REACT:R418217,g beta:gamma signalling through plc beta
+REACT:R74160,gene expression,24,Pathway,REACT:R74160,gene expression
+REACT:R212436,generic transcription pathway,27,Pathway,REACT:R212436,generic transcription pathway
+REACT:R5610785,gli3 is processed to gli3r by the proteasome,11,Pathway,REACT:R5610785,gli3 is processed to gli3r by the proteasome
+KEGG:hsa05214,glioma,20,Pathway,KEGG:hsa05214,glioma
+REACT:R381676,glucagon-like peptide-1 (glp1) regulates insulin secretion,8,Pathway,REACT:R381676,glucagon-like peptide-1 (glp1) regulates insulin secretion
+REACT:R163359,glucagon signaling in metabolic regulation,6,Pathway,REACT:R163359,glucagon signaling in metabolic regulation
+KEGG:hsa04922,glucagon signaling pathway,17,Pathway,KEGG:hsa04922,glucagon signaling pathway
+REACT:R420092,glucagon-type ligand receptors,5,Pathway,REACT:R420092,glucagon-type ligand receptors
+REACT:R194002,glucocorticoid biosynthesis,3,Pathway,REACT:R194002,glucocorticoid biosynthesis
+REACT:R70263,gluconeogenesis,11,Pathway,REACT:R70263,gluconeogenesis
+REACT:R70326,glucose metabolism,14,Pathway,REACT:R70326,glucose metabolism
+REACT:R70153,glucose transport,7,Pathway,REACT:R70153,glucose transport
+KEGG:hsa04724,glutamatergic synapse,14,Pathway,KEGG:hsa04724,glutamatergic synapse
+KEGG:M00118,"Glutathione biosynthesis, glutamate => glutathione",3,Pathway,KEGG:M00118,"Glutathione biosynthesis, glutamate => glutathione"
+REACT:R156590,glutathione conjugation,15,Pathway,REACT:R156590,glutathione conjugation
+KEGG:hsa00480,glutathione metabolism,15,Pathway,KEGG:hsa00480,glutathione metabolism
+REACT:R174403,glutathione synthesis and recycling,2,Pathway,REACT:R174403,glutathione synthesis and recycling
+KEGG:hsa00561,glycerolipid metabolism,11,Pathway,KEGG:hsa00561,glycerolipid metabolism
+KEGG:hsa00260,"glycine, serine and threonine metabolism",9,Pathway,KEGG:hsa00260,"glycine, serine and threonine metabolism"
+REACT:R209822,glycoprotein hormones,3,Pathway,REACT:R209822,glycoprotein hormones
+KEGG:hsa00630,glyoxylate and dicarboxylate metabolism,10,Pathway,KEGG:hsa00630,glyoxylate and dicarboxylate metabolism
+KEGG:hsa04912,gnrh signaling pathway,17,Pathway,KEGG:hsa04912,gnrh signaling pathway
+REACT:R430116,gp1b-ix-v activation signalling,4,Pathway,REACT:R430116,gp1b-ix-v activation signalling
+REACT:R388396,gpcr downstream signaling,15,Pathway,REACT:R388396,gpcr downstream signaling
+REACT:R500792,gpcr ligand binding,15,Pathway,REACT:R500792,gpcr ligand binding
+REACT:R202040,g-protein activation,6,Pathway,REACT:R202040,g-protein activation
+REACT:R397795,g-protein beta:gamma signalling,11,Pathway,REACT:R397795,g-protein beta:gamma signalling
+REACT:R1296059,g protein gated potassium channels,6,Pathway,REACT:R1296059,g protein gated potassium channels
+REACT:R112040,g-protein mediated events,12,Pathway,REACT:R112040,g-protein mediated events
+REACT:R114604,gpvi-mediated activation cascade,12,Pathway,REACT:R114604,gpvi-mediated activation cascade
+KEGG:hsa05332,graft-versus-host disease,14,Pathway,KEGG:hsa05332,graft-versus-host disease
+REACT:R179812,grb2 events in egfr signaling,15,Pathway,REACT:R179812,grb2 events in egfr signaling
+REACT:R354194,grb2:sos provides linkage to mapk signaling for integrins,3,Pathway,REACT:R354194,grb2:sos provides linkage to mapk signaling for integrins
+REACT:R982772,growth hormone receptor signaling,13,Pathway,REACT:R982772,growth hormone receptor signaling
+REACT:R194223,hdl-mediated lipid transport,8,Pathway,REACT:R194223,hdl-mediated lipid transport
+REACT:R5610787,hedgehog 'off' state,12,Pathway,REACT:R5610787,hedgehog 'off' state
+REACT:R5632684,hedgehog 'on' state,11,Pathway,REACT:R5632684,hedgehog 'on' state
+KEGG:hsa04340,hedgehog signaling pathway,9,Pathway,KEGG:hsa04340,hedgehog signaling pathway
+KEGG:hsa04640,hematopoietic cell lineage,16,Pathway,KEGG:hsa04640,hematopoietic cell lineage
+REACT:R189483,heme degradation,2,Pathway,REACT:R189483,heme degradation
+REACT:R109582,hemostasis,25,Pathway,REACT:R109582,hemostasis
+KEGG:hsa05161,hepatitis b,28,Pathway,KEGG:hsa05161,hepatitis b
+KEGG:hsa05160,hepatitis c,24,Pathway,KEGG:hsa05160,hepatitis c
+KEGG:hsa05168,herpes simplex virus 1 infection,26,Pathway,KEGG:hsa05168,herpes simplex virus 1 infection
+REACT:R189200,hexose transport,9,Pathway,REACT:R189200,hexose transport
+KEGG:hsa04066,hif-1 signaling pathway,28,Pathway,KEGG:hsa04066,hif-1 signaling pathway
+KEGG:hsa04390,hippo signaling pathway,12,Pathway,KEGG:hsa04390,hippo signaling pathway
+KEGG:hsa00340,histidine metabolism,7,Pathway,KEGG:hsa00340,histidine metabolism
+REACT:R162906,hiv infection,12,Pathway,REACT:R162906,hiv infection
+REACT:R162587,hiv life cycle,12,Pathway,REACT:R162587,hiv life cycle
+REACT:R375281,hormone ligand-binding receptors,2,Pathway,REACT:R375281,hormone ligand-binding receptors
+REACT:R163560,hormone-sensitive lipase (hsl)-mediated triacylglycerol hydrolysis,4,Pathway,REACT:R163560,hormone-sensitive lipase (hsl)-mediated triacylglycerol hydrolysis
+REACT:R168253,host interactions with influenza factors,7,Pathway,REACT:R168253,host interactions with influenza factors
+REACT:R3371571,hsf1-dependent transactivation,12,Pathway,REACT:R3371571,hsf1-dependent transactivation
+KEGG:hsa05166,human t-cell leukemia virus 1 infection,25,Pathway,KEGG:hsa05166,human t-cell leukemia virus 1 infection
+KEGG:hsa05016,huntington disease,22,Pathway,KEGG:hsa05016,huntington disease
+KEGG:hsa05410,hypertrophic cardiomyopathy,17,Pathway,KEGG:hsa05410,hypertrophic cardiomyopathy
+REACT:R2428924,igf1r signaling cascade,20,Pathway,REACT:R2428924,igf1r signaling cascade
+REACT:R5603029,ikba variant leads to eda-id,5,Pathway,REACT:R5603029,ikba variant leads to eda-id
+REACT:R5603027,ikbkg deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (eda-id) (via tlr),6,Pathway,REACT:R5603027,ikbkg deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (eda-id) (via tlr)
+REACT:R937041,ikk complex recruitment mediated by rip1,7,Pathway,REACT:R937041,ikk complex recruitment mediated by rip1
+KEGG:hsa04657,il-17 signaling pathway,28,Pathway,KEGG:hsa04657,il-17 signaling pathway
+REACT:R168256,immune system,29,Pathway,REACT:R168256,immune system
+REACT:R198933,immunoregulatory interactions between a lymphoid and a non-lymphoid cell,4,Pathway,REACT:R198933,immunoregulatory interactions between a lymphoid and a non-lymphoid cell
+REACT:R400508,"incretin synthesis, secretion, and inactivation",3,Pathway,REACT:R400508,"incretin synthesis, secretion, and inactivation"
+REACT:R5663205,infectious disease,13,Pathway,REACT:R5663205,infectious disease
+REACT:R622312,inflammasomes,13,Pathway,REACT:R622312,inflammasomes
+KEGG:hsa05321,inflammatory bowel disease,22,Pathway,KEGG:hsa05321,inflammatory bowel disease
+KEGG:hsa04750,inflammatory mediator regulation of trp channels,14,Pathway,KEGG:hsa04750,inflammatory mediator regulation of trp channels
+KEGG:hsa05164,influenza a,27,Pathway,KEGG:hsa05164,influenza a
+REACT:R168254,influenza infection,10,Pathway,REACT:R168254,influenza infection
+REACT:R997269,inhibition of adenylate cyclase pathway,4,Pathway,REACT:R997269,inhibition of adenylate cyclase pathway
+REACT:R997272,inhibition  of voltage gated ca2+ channels via gbeta/gamma subunits,6,Pathway,REACT:R997272,inhibition  of voltage gated ca2+ channels via gbeta/gamma subunits
+REACT:R166663,initial triggering of complement,5,Pathway,REACT:R166663,initial triggering of complement
+REACT:R168249,innate immune system,27,Pathway,REACT:R168249,innate immune system
+REACT:R1483249,inositol phosphate metabolism,6,Pathway,REACT:R1483249,inositol phosphate metabolism
+KEGG:hsa00562,inositol phosphate metabolism,9,Pathway,KEGG:hsa00562,inositol phosphate metabolism
+REACT:R264876,insulin processing,6,Pathway,REACT:R264876,insulin processing
+REACT:R77387,insulin receptor recycling,4,Pathway,REACT:R77387,insulin receptor recycling
+REACT:R74751,insulin receptor signalling cascade,20,Pathway,REACT:R74751,insulin receptor signalling cascade
+KEGG:hsa04931,insulin resistance,21,Pathway,KEGG:hsa04931,insulin resistance
+KEGG:hsa04911,insulin secretion,13,Pathway,KEGG:hsa04911,insulin secretion
+KEGG:hsa04910,insulin signaling pathway,20,Pathway,KEGG:hsa04910,insulin signaling pathway
+REACT:R163685,integration of energy metabolism,14,Pathway,REACT:R163685,integration of energy metabolism
+REACT:R354192,integrin alphaiib beta3 signaling,9,Pathway,REACT:R354192,integrin alphaiib beta3 signaling
+REACT:R216083,integrin cell surface interactions,13,Pathway,REACT:R216083,integrin cell surface interactions
+REACT:R909733,interferon alpha/beta signaling,10,Pathway,REACT:R909733,interferon alpha/beta signaling
+REACT:R877300,interferon gamma signaling,13,Pathway,REACT:R877300,interferon gamma signaling
+REACT:R913531,interferon signaling,15,Pathway,REACT:R913531,interferon signaling
+REACT:R6783783,interleukin-10 signaling,23,Pathway,REACT:R6783783,interleukin-10 signaling
+REACT:R448706,interleukin-1 processing,9,Pathway,REACT:R448706,interleukin-1 processing
+REACT:R446652,interleukin-1 signaling,12,Pathway,REACT:R446652,interleukin-1 signaling
+REACT:R451927,interleukin-2 signaling,19,Pathway,REACT:R451927,interleukin-2 signaling
+REACT:R512988,"interleukin-3, 5 and gm-csf signaling",18,Pathway,REACT:R512988,"interleukin-3, 5 and gm-csf signaling"
+REACT:R6785807,interleukin-4 and 13 signaling,29,Pathway,REACT:R6785807,interleukin-4 and 13 signaling
+REACT:R6783589,interleukin-6 family signaling,11,Pathway,REACT:R6783589,interleukin-6 family signaling
+REACT:R1059683,interleukin-6 signaling,8,Pathway,REACT:R1059683,interleukin-6 signaling
+REACT:R912526,interleukin receptor shc signaling,18,Pathway,REACT:R912526,interleukin receptor shc signaling
+KEGG:hsa04672,intestinal immune network for iga production,12,Pathway,KEGG:hsa04672,intestinal immune network for iga production
+REACT:R109606,intrinsic pathway for apoptosis,23,Pathway,REACT:R109606,intrinsic pathway for apoptosis
+REACT:R140837,intrinsic pathway of fibrin clot formation,6,Pathway,REACT:R140837,intrinsic pathway of fibrin clot formation
+REACT:R1296065,inwardly rectifying k+ channels,6,Pathway,REACT:R1296065,inwardly rectifying k+ channels
+REACT:R983712,ion channel transport,12,Pathway,REACT:R983712,ion channel transport
+REACT:R5578775,ion homeostasis,9,Pathway,REACT:R5578775,ion homeostasis
+REACT:R936837,ion transport by p-type atpases,9,Pathway,REACT:R936837,ion transport by p-type atpases
+REACT:R937039,irak1 recruits ikk complex,2,Pathway,REACT:R937039,irak1 recruits ikk complex
+REACT:R975144,irak1 recruits ikk complex upon tlr7/8 or 9 stimulation,2,Pathway,REACT:R975144,irak1 recruits ikk complex upon tlr7/8 or 9 stimulation
+REACT:R975163,irak2 mediated activation of tak1 complex upon tlr7/8 or 9 stimulation,4,Pathway,REACT:R975163,irak2 mediated activation of tak1 complex upon tlr7/8 or 9 stimulation
+REACT:R5603041,irak4 deficiency (tlr2/4),4,Pathway,REACT:R5603041,irak4 deficiency (tlr2/4)
+REACT:R381070,ire1alpha activates chaperones,12,Pathway,REACT:R381070,ire1alpha activates chaperones
+REACT:R917937,iron uptake and transport,13,Pathway,REACT:R917937,iron uptake and transport
+REACT:R74713,irs activation,4,Pathway,REACT:R74713,irs activation
+REACT:R112399,irs-mediated signalling,20,Pathway,REACT:R112399,irs-mediated signalling
+REACT:R2428928,irs-related events triggered by igf1r,20,Pathway,REACT:R2428928,irs-related events triggered by igf1r
+KEGG:hsa04630,jak-stat signaling pathway,20,Pathway,KEGG:hsa04630,jak-stat signaling pathway
+REACT:R6805567,keratinization,5,Pathway,REACT:R6805567,keratinization
+REACT:R162599,late phase of hiv life cycle,11,Pathway,REACT:R162599,late phase of hiv life cycle
+REACT:R171052,ldl-mediated lipid transport,4,Pathway,REACT:R171052,ldl-mediated lipid transport
+KEGG:hsa05134,legionellosis,26,Pathway,KEGG:hsa05134,legionellosis
+KEGG:hsa05140,leishmaniasis,24,Pathway,KEGG:hsa05140,leishmaniasis
+KEGG:hsa04670,leukocyte transendothelial migration,18,Pathway,KEGG:hsa04670,leukocyte transendothelial migration
+REACT:R140534,ligand-dependent caspase activation,9,Pathway,REACT:R140534,ligand-dependent caspase activation
+KEGG:hsa00591,linoleic acid metabolism,6,Pathway,KEGG:hsa00591,linoleic acid metabolism
+REACT:R73923,"lipid digestion, mobilization, and transport",16,Pathway,REACT:R73923,"lipid digestion, mobilization, and transport"
+REACT:R174824,lipoprotein metabolism,14,Pathway,REACT:R174824,lipoprotein metabolism
+KEGG:hsa04211,longevity regulating pathway,23,Pathway,KEGG:hsa04211,longevity regulating pathway
+KEGG:hsa04213,longevity regulating pathway,19,Pathway,KEGG:hsa04213,longevity regulating pathway
+KEGG:hsa04730,long-term depression,15,Pathway,KEGG:hsa04730,long-term depression
+KEGG:hsa04720,long-term potentiation,15,Pathway,KEGG:hsa04720,long-term potentiation
+REACT:R3304349,loss of function of smad2/3 in cancer,4,Pathway,REACT:R3304349,loss of function of smad2/3 in cancer
+REACT:R3656534,loss of function of tgfbr1 in cancer,2,Pathway,REACT:R3656534,loss of function of tgfbr1 in cancer
+REACT:R1632852,macroautophagy,13,Pathway,REACT:R1632852,macroautophagy
+KEGG:hsa05144,malaria,25,Pathway,KEGG:hsa05144,malaria
+REACT:R5674135,map2k and mapk activation,12,Pathway,REACT:R5674135,map2k and mapk activation
+REACT:R5684264,map3k8 (tpl2)-dependent mapk1/3 activation,2,Pathway,REACT:R5684264,map3k8 (tpl2)-dependent mapk1/3 activation
+REACT:R112411,mapk1 (erk2) activation,4,Pathway,REACT:R112411,mapk1 (erk2) activation
+REACT:R5684996,mapk1/mapk3 signaling,18,Pathway,REACT:R5684996,mapk1/mapk3 signaling
+REACT:R110056,mapk3 (erk1) activation,8,Pathway,REACT:R110056,mapk3 (erk1) activation
+REACT:R5687128,mapk6/mapk4 signaling,12,Pathway,REACT:R5687128,mapk6/mapk4 signaling
+REACT:R5683057,mapk family signaling cascades,20,Pathway,REACT:R5683057,mapk family signaling cascades
+REACT:R450294,map kinase activation in tlr cascade,14,Pathway,REACT:R450294,map kinase activation in tlr cascade
+KEGG:hsa04010,mapk signaling pathway,25,Pathway,KEGG:hsa04010,mapk signaling pathway
+REACT:R450282,mapk targets/ nuclear events mediated by map kinases,13,Pathway,REACT:R450282,mapk targets/ nuclear events mediated by map kinases
+KEGG:hsa04950,maturity onset diabetes of the young,6,Pathway,KEGG:hsa04950,maturity onset diabetes of the young
+KEGG:hsa05162,measles,24,Pathway,KEGG:hsa05162,measles
+KEGG:hsa04916,melanogenesis,15,Pathway,KEGG:hsa04916,melanogenesis
+KEGG:hsa05218,melanoma,20,Pathway,KEGG:hsa05218,melanoma
+REACT:R199991,membrane trafficking,13,Pathway,REACT:R199991,membrane trafficking
+REACT:R5579029,metabolic disorders of biological oxidation enzymes,2,Pathway,REACT:R5579029,metabolic disorders of biological oxidation enzymes
+KEGG:hsa01100,metabolic pathways,25,Pathway,KEGG:hsa01100,metabolic pathways
+REACT:R1430728,metabolism,35,Pathway,REACT:R1430728,metabolism
+REACT:R71291,metabolism of amino acids and derivatives,16,Pathway,REACT:R71291,metabolism of amino acids and derivatives
+REACT:R2022377,metabolism of angiotensinogen to angiotensins,3,Pathway,REACT:R2022377,metabolism of angiotensinogen to angiotensins
+REACT:R71387,metabolism of carbohydrates,15,Pathway,REACT:R71387,metabolism of carbohydrates
+REACT:R6806667,metabolism of fat-soluble vitamins,12,Pathway,REACT:R6806667,metabolism of fat-soluble vitamins
+REACT:R2408508,"metabolism of ingested semet, sec, mesec into h2se",3,Pathway,REACT:R2408508,"metabolism of ingested semet, sec, mesec into h2se"
+REACT:R556833,metabolism of lipids and lipoproteins,27,Pathway,REACT:R556833,metabolism of lipids and lipoproteins
+REACT:R202131,metabolism of nitric oxide,9,Pathway,REACT:R202131,metabolism of nitric oxide
+REACT:R15869,metabolism of nucleotides,13,Pathway,REACT:R15869,metabolism of nucleotides
+REACT:R189445,metabolism of porphyrins,4,Pathway,REACT:R189445,metabolism of porphyrins
+REACT:R392499,metabolism of proteins,20,Pathway,REACT:R392499,metabolism of proteins
+REACT:R196071,metabolism of steroid hormones,11,Pathway,REACT:R196071,metabolism of steroid hormones
+REACT:R196854,metabolism of vitamins and cofactors,14,Pathway,REACT:R196854,metabolism of vitamins and cofactors
+REACT:R196849,metabolism of water-soluble vitamins and cofactors,14,Pathway,REACT:R196849,metabolism of water-soluble vitamins and cofactors
+KEGG:hsa00980,metabolism of xenobiotics by cytochrome p450,22,Pathway,KEGG:hsa00980,metabolism of xenobiotics by cytochrome p450
+REACT:R6799990,metal sequestration by antimicrobial proteins,3,Pathway,REACT:R6799990,metal sequestration by antimicrobial proteins
+KEGG:M00035,Methionine degradation,4,Pathway,KEGG:M00035,Methionine degradation
+KEGG:hsa05206,micrornas in cancer,24,Pathway,KEGG:hsa05206,micrornas in cancer
+KEGG:hsa04978,mineral absorption,12,Pathway,KEGG:hsa04978,mineral absorption
+REACT:R193993,mineralocorticoid biosynthesis,2,Pathway,REACT:R193993,mineralocorticoid biosynthesis
+REACT:R211958,miscellaneous substrates,2,Pathway,REACT:R211958,miscellaneous substrates
+REACT:R5339716,misspliced gsk3beta mutants stabilize beta-catenin,4,Pathway,REACT:R5339716,misspliced gsk3beta mutants stabilize beta-catenin
+REACT:R1592230,mitochondrial biogenesis,11,Pathway,REACT:R1592230,mitochondrial biogenesis
+REACT:R166187,mitochondrial uncoupling proteins,2,Pathway,REACT:R166187,mitochondrial uncoupling proteins
+KEGG:hsa04137,mitophagy,15,Pathway,KEGG:hsa04137,mitophagy
+REACT:R453274,mitotic g2-g2/m phases,13,Pathway,REACT:R453274,mitotic g2-g2/m phases
+REACT:R2129379,molecules associated with elastic fibres,9,Pathway,REACT:R2129379,molecules associated with elastic fibres
+KEGG:hsa05032,morphine addiction,11,Pathway,KEGG:hsa05032,morphine addiction
+REACT:R166208,mtorc1-mediated signalling,6,Pathway,REACT:R166208,mtorc1-mediated signalling
+KEGG:hsa04150,mtor signaling pathway,17,Pathway,KEGG:hsa04150,mtor signaling pathway
+REACT:R165159,mtor signalling,9,Pathway,REACT:R165159,mtor signalling
+REACT:R397014,muscle contraction,12,Pathway,REACT:R397014,muscle contraction
+REACT:R975871,myd88 cascade initiated on plasma membrane,17,Pathway,REACT:R975871,myd88 cascade initiated on plasma membrane
+REACT:R5602498,myd88 deficiency (tlr2/4),4,Pathway,REACT:R5602498,myd88 deficiency (tlr2/4)
+REACT:R975155,myd88 dependent cascade initiated on endosome,17,Pathway,REACT:R975155,myd88 dependent cascade initiated on endosome
+REACT:R166166,myd88-independent tlr3/tlr4 cascade,17,Pathway,REACT:R166166,myd88-independent tlr3/tlr4 cascade
+REACT:R166058,myd88:mal cascade initiated on plasma membrane,17,Pathway,REACT:R166058,myd88:mal cascade initiated on plasma membrane
+REACT:R442660,na+/cl- dependent neurotransmitter transporters,3,Pathway,REACT:R442660,na+/cl- dependent neurotransmitter transporters
+KEGG:hsa04650,natural killer cell mediated cytotoxicity,21,Pathway,KEGG:hsa04650,natural killer cell mediated cytotoxicity
+REACT:R419037,ncam1 interactions,7,Pathway,REACT:R419037,ncam1 interactions
+REACT:R375165,ncam signaling for neurite out-growth,16,Pathway,REACT:R375165,ncam signaling for neurite out-growth
+REACT:R5675221,negative regulation of mapk pathway,13,Pathway,REACT:R5675221,negative regulation of mapk pathway
+REACT:R6807004,negative regulation of met activity,3,Pathway,REACT:R6807004,negative regulation of met activity
+REACT:R199418,negative regulation of the pi3k/akt network,19,Pathway,REACT:R199418,negative regulation of the pi3k/akt network
+REACT:R373752,netrin-1 signaling,8,Pathway,REACT:R373752,netrin-1 signaling
+KEGG:hsa04080,neuroactive ligand-receptor interaction,13,Pathway,KEGG:hsa04080,neuroactive ligand-receptor interaction
+REACT:R8863678,neurodegenerative diseases,12,Pathway,REACT:R8863678,neurodegenerative diseases
+REACT:R112316,neuronal system,20,Pathway,REACT:R112316,neuronal system
+REACT:R112314,neurotransmitter receptor binding and downstream transmission in the  postsynaptic cell,15,Pathway,REACT:R112314,neurotransmitter receptor binding and downstream transmission in the  postsynaptic cell
+REACT:R112310,neurotransmitter release cycle,9,Pathway,REACT:R112310,neurotransmitter release cycle
+KEGG:hsa04722,neurotrophin signaling pathway,25,Pathway,KEGG:hsa04722,neurotrophin signaling pathway
+REACT:R6798695,neutrophil degranulation,21,Pathway,REACT:R6798695,neutrophil degranulation
+KEGG:hsa04064,nf-kappa b signaling pathway,25,Pathway,KEGG:hsa04064,nf-kappa b signaling pathway
+REACT:R933543,nf-kb activation through fadd/rip-1 pathway mediated by caspase-8 and -10,2,Pathway,REACT:R933543,nf-kb activation through fadd/rip-1 pathway mediated by caspase-8 and -10
+REACT:R209560,nf-kb is activated and signals survival,9,Pathway,REACT:R209560,nf-kb is activated and signals survival
+REACT:R187037,ngf signalling via trka from the plasma membrane,22,Pathway,REACT:R187037,ngf signalling via trka from the plasma membrane
+REACT:R975576,n-glycan antennae elongation in the medial/trans-golgi,4,Pathway,REACT:R975576,n-glycan antennae elongation in the medial/trans-golgi
+REACT:R197264,nicotinamide salvaging,2,Pathway,REACT:R197264,nicotinamide salvaging
+REACT:R196807,nicotinate metabolism,3,Pathway,REACT:R196807,nicotinate metabolism
+REACT:R392154,nitric oxide stimulates guanylate cyclase,7,Pathway,REACT:R392154,nitric oxide stimulates guanylate cyclase
+REACT:R168638,nod1/2 signaling pathway,11,Pathway,REACT:R168638,nod1/2 signaling pathway
+KEGG:hsa04621,nod-like receptor signaling pathway,27,Pathway,KEGG:hsa04621,nod-like receptor signaling pathway
+KEGG:hsa04932,non-alcoholic fatty liver disease,28,Pathway,KEGG:hsa04932,non-alcoholic fatty liver disease
+REACT:R3000171,non-integrin membrane-ecm interactions,10,Pathway,REACT:R3000171,non-integrin membrane-ecm interactions
+KEGG:hsa05223,non-small cell lung cancer,21,Pathway,KEGG:hsa05223,non-small cell lung cancer
+REACT:R2122947,notch1 intracellular domain regulates transcription,11,Pathway,REACT:R2122947,notch1 intracellular domain regulates transcription
+REACT:R193648,nrage signals death through jnk,9,Pathway,REACT:R193648,nrage signals death through jnk
+REACT:R383280,nuclear receptor transcription pathway,21,Pathway,REACT:R383280,nuclear receptor transcription pathway
+REACT:R168643,"nucleotide-binding domain, leucine rich repeat containing receptor (nlr) signaling pathways",18,Pathway,REACT:R168643,"nucleotide-binding domain, leucine rich repeat containing receptor (nlr) signaling pathways"
+REACT:R1480926,o2/co2 exchange in erythrocytes,3,Pathway,REACT:R1480926,o2/co2 exchange in erythrocytes
+KEGG:hsa04740,olfactory transduction,2,Pathway,KEGG:hsa04740,olfactory transduction
+REACT:R2559585,oncogene induced senescence,17,Pathway,REACT:R2559585,oncogene induced senescence
+REACT:R6802957,oncogenic mapk signaling,13,Pathway,REACT:R6802957,oncogenic mapk signaling
+KEGG:hsa04114,oocyte meiosis,16,Pathway,KEGG:hsa04114,oocyte meiosis
+REACT:R111885,opioid signalling,12,Pathway,REACT:R111885,opioid signalling
+REACT:R1852241,organelle biogenesis and maintenance,12,Pathway,REACT:R1852241,organelle biogenesis and maintenance
+KEGG:hsa04380,osteoclast differentiation,25,Pathway,KEGG:hsa04380,osteoclast differentiation
+KEGG:hsa04913,ovarian steroidogenesis,21,Pathway,KEGG:hsa04913,ovarian steroidogenesis
+REACT:R5689896,ovarian tumor domain proteases,8,Pathway,REACT:R5689896,ovarian tumor domain proteases
+REACT:R2559580,oxidative stress induced senescence,14,Pathway,REACT:R2559580,oxidative stress induced senescence
+REACT:R1234176,oxygen-dependent proline hydroxylation of hypoxia-inducible factor alpha,10,Pathway,REACT:R1234176,oxygen-dependent proline hydroxylation of hypoxia-inducible factor alpha
+KEGG:hsa04921,oxytocin signaling pathway,17,Pathway,KEGG:hsa04921,oxytocin signaling pathway
+REACT:R372708,p130cas linkage to mapk signaling for integrins,4,Pathway,REACT:R372708,p130cas linkage to mapk signaling for integrins
+REACT:R69563,p53-dependent g1 dna damage response,13,Pathway,REACT:R69563,p53-dependent g1 dna damage response
+REACT:R69580,p53-dependent g1/s dna damage checkpoint,13,Pathway,REACT:R69580,p53-dependent g1/s dna damage checkpoint
+KEGG:hsa04115,p53 signaling pathway,25,Pathway,KEGG:hsa04115,p53 signaling pathway
+REACT:R193704,p75 ntr receptor-mediated signalling,14,Pathway,REACT:R193704,p75 ntr receptor-mediated signalling
+REACT:R209543,p75ntr recruits signalling complexes,7,Pathway,REACT:R209543,p75ntr recruits signalling complexes
+REACT:R193639,p75ntr signals via nf-kb,13,Pathway,REACT:R193639,p75ntr signals via nf-kb
+KEGG:hsa05212,pancreatic cancer,22,Pathway,KEGG:hsa05212,pancreatic cancer
+KEGG:hsa04972,pancreatic secretion,12,Pathway,KEGG:hsa04972,pancreatic secretion
+REACT:R6802955,paradoxical activation of raf signaling by kinase inactive braf,14,Pathway,REACT:R6802955,paradoxical activation of raf signaling by kinase inactive braf
+KEGG:hsa05012,parkinson disease,13,Pathway,KEGG:hsa05012,parkinson disease
+KEGG:hsa05130,pathogenic escherichia coli infection,13,Pathway,KEGG:hsa05130,pathogenic escherichia coli infection
+KEGG:hsa05200,pathways in cancer,29,Pathway,KEGG:hsa05200,pathways in cancer
+REACT:R209952,peptide hormone biosynthesis,4,Pathway,REACT:R209952,peptide hormone biosynthesis
+REACT:R2980736,peptide hormone metabolism,11,Pathway,REACT:R2980736,peptide hormone metabolism
+REACT:R375276,peptide ligand-binding receptors,11,Pathway,REACT:R375276,peptide ligand-binding receptors
+REACT:R381042,perk regulates gene expression,13,Pathway,REACT:R381042,perk regulates gene expression
+KEGG:hsa04146,peroxisome,16,Pathway,KEGG:hsa04146,peroxisome
+KEGG:hsa05133,pertussis,26,Pathway,KEGG:hsa05133,pertussis
+KEGG:hsa04145,phagosome,14,Pathway,KEGG:hsa04145,phagosome
+REACT:R5576892,phase 0 - rapid depolarisation,8,Pathway,REACT:R5576892,phase 0 - rapid depolarisation
+REACT:R211945,phase 1 - functionalization of compounds,25,Pathway,REACT:R211945,phase 1 - functionalization of compounds
+REACT:R5576893,phase 2 - plateau phase,4,Pathway,REACT:R5576893,phase 2 - plateau phase
+REACT:R156580,phase ii conjugation,18,Pathway,REACT:R156580,phase ii conjugation
+KEGG:hsa00360,phenylalanine metabolism,5,Pathway,KEGG:hsa00360,phenylalanine metabolism
+KEGG:hsa04070,phosphatidylinositol signaling system,13,Pathway,KEGG:hsa04070,phosphatidylinositol signaling system
+KEGG:hsa04072,phospholipase d signaling pathway,18,Pathway,KEGG:hsa04072,phospholipase d signaling pathway
+REACT:R1483257,phospholipid metabolism,15,Pathway,REACT:R1483257,phospholipid metabolism
+REACT:R4839743,phosphorylation site mutants of ctnnb1 are not targeted to the proteasome by the destruction complex,4,Pathway,REACT:R4839743,phosphorylation site mutants of ctnnb1 are not targeted to the proteasome by the destruction complex
+REACT:R5578768,physiological factors,3,Pathway,REACT:R5578768,physiological factors
+REACT:R198203,pi3k/akt activation,21,Pathway,REACT:R198203,pi3k/akt activation
+REACT:R2219528,pi3k/akt signaling in cancer,18,Pathway,REACT:R2219528,pi3k/akt signaling in cancer
+KEGG:hsa04151,pi3k-akt signaling pathway,26,Pathway,KEGG:hsa04151,pi3k-akt signaling pathway
+REACT:R109704,pi3k cascade,11,Pathway,REACT:R109704,pi3k cascade
+REACT:R6811558,"pi5p, pp2a and ier3 regulate pi3k/akt signaling",19,Pathway,REACT:R6811558,"pi5p, pp2a and ier3 regulate pi3k/akt signaling"
+REACT:R1483255,pi metabolism,10,Pathway,REACT:R1483255,pi metabolism
+REACT:R1257604,pip3 activates akt signaling,20,Pathway,REACT:R1257604,pip3 activates akt signaling
+REACT:R163615,pka activation,4,Pathway,REACT:R163615,pka activation
+REACT:R164378,pka activation in glucagon signalling,4,Pathway,REACT:R164378,pka activation in glucagon signalling
+REACT:R111931,pka-mediated phosphorylation of creb,5,Pathway,REACT:R111931,pka-mediated phosphorylation of creb
+REACT:R109703,pkb-mediated events,9,Pathway,REACT:R109703,pkb-mediated events
+REACT:R3214841,pkmts methylate histone lysines,8,Pathway,REACT:R3214841,pkmts methylate histone lysines
+KEGG:hsa04611,platelet activation,17,Pathway,KEGG:hsa04611,platelet activation
+REACT:R76002,"platelet activation, signaling and aggregation",21,Pathway,REACT:R76002,"platelet activation, signaling and aggregation"
+REACT:R75892,platelet adhesion to exposed collagen,3,Pathway,REACT:R75892,platelet adhesion to exposed collagen
+REACT:R76009,platelet aggregation (plug formation),9,Pathway,REACT:R76009,platelet aggregation (plug formation)
+REACT:R418360,platelet calcium homeostasis,7,Pathway,REACT:R418360,platelet calcium homeostasis
+REACT:R114608,platelet degranulation,17,Pathway,REACT:R114608,platelet degranulation
+REACT:R418346,platelet homeostasis,10,Pathway,REACT:R418346,platelet homeostasis
+KEGG:hsa01524,platinum drug resistance,26,Pathway,KEGG:hsa01524,platinum drug resistance
+REACT:R112043,plc beta mediated events,12,Pathway,REACT:R112043,plc beta mediated events
+REACT:R167021,plc-gamma1 signalling,11,Pathway,REACT:R167021,plc-gamma1 signalling
+KEGG:hsa00860,porphyrin metabolism,8,Pathway,KEGG:hsa00860,porphyrin metabolism
+REACT:R5250913,positive epigenetic regulation of rrna expression,6,Pathway,REACT:R5250913,positive epigenetic regulation of rrna expression
+REACT:R597592,post-translational protein modification,14,Pathway,REACT:R597592,post-translational protein modification
+REACT:R1296071,potassium channels,7,Pathway,REACT:R1296071,potassium channels
+REACT:R1989781,ppara activates gene expression,19,Pathway,REACT:R1989781,ppara activates gene expression
+KEGG:hsa03320,ppar signaling pathway,18,Pathway,KEGG:hsa03320,ppar signaling pathway
+REACT:R1912422,pre-notch expression and processing,10,Pathway,REACT:R1912422,pre-notch expression and processing
+REACT:R1912408,pre-notch transcription and translation,11,Pathway,REACT:R1912408,pre-notch transcription and translation
+REACT:R500657,presynaptic function of kainate receptors,4,Pathway,REACT:R500657,presynaptic function of kainate receptors
+KEGG:hsa05340,primary immunodeficiency,3,Pathway,KEGG:hsa05340,primary immunodeficiency
+KEGG:hsa05020,prion disease,25,Pathway,KEGG:hsa05020,prion disease
+KEGG:hsa04914,progesterone-mediated oocyte maturation,19,Pathway,KEGG:hsa04914,progesterone-mediated oocyte maturation
+REACT:R5357801,programmed cell death,24,Pathway,REACT:R5357801,programmed cell death
+KEGG:hsa04917,prolactin signaling pathway,23,Pathway,KEGG:hsa04917,prolactin signaling pathway
+REACT:R169893,prolonged erk activation events,15,Pathway,REACT:R169893,prolonged erk activation events
+REACT:R392851,prostacyclin signalling through prostacyclin receptor,4,Pathway,REACT:R392851,prostacyclin signalling through prostacyclin receptor
+KEGG:hsa05215,prostate cancer,23,Pathway,KEGG:hsa05215,prostate cancer
+KEGG:hsa04974,protein digestion and absorption,12,Pathway,KEGG:hsa04974,protein digestion and absorption
+REACT:R391251,protein folding,12,Pathway,REACT:R391251,protein folding
+KEGG:hsa04141,protein processing in endoplasmic reticulum,16,Pathway,KEGG:hsa04141,protein processing in endoplasmic reticulum
+KEGG:hsa05205,proteoglycans in cancer,27,Pathway,KEGG:hsa05205,proteoglycans in cancer
+KEGG:hsa04964,proximal tubule bicarbonate reclamation,5,Pathway,KEGG:hsa04964,proximal tubule bicarbonate reclamation
+KEGG:hsa00230,purine metabolism,12,Pathway,KEGG:hsa00230,purine metabolism
+REACT:R73847,purine metabolism,10,Pathway,REACT:R73847,purine metabolism
+KEGG:hsa00620,pyruvate metabolism,11,Pathway,KEGG:hsa00620,pyruvate metabolism
+REACT:R112409,raf-independent mapk1/3 activation,16,Pathway,REACT:R112409,raf-independent mapk1/3 activation
+REACT:R5673001,raf/map kinase cascade,15,Pathway,REACT:R5673001,raf/map kinase cascade
+KEGG:hsa04015,rap1 signaling pathway,19,Pathway,KEGG:hsa04015,rap1 signaling pathway
+KEGG:hsa04014,ras signaling pathway,19,Pathway,KEGG:hsa04014,ras signaling pathway
+REACT:R5693565,recruitment and atm-mediated phosphorylation of repair and signaling proteins at dna double strand breaks,7,Pathway,REACT:R5693565,recruitment and atm-mediated phosphorylation of repair and signaling proteins at dna double strand breaks
+REACT:R159418,recycling of bile acids and salts,3,Pathway,REACT:R159418,recycling of bile acids and salts
+REACT:R418359,reduction of cytosolic ca++ levels,3,Pathway,REACT:R418359,reduction of cytosolic ca++ levels
+REACT:R193692,regulated proteolysis of p75ntr,4,Pathway,REACT:R193692,regulated proteolysis of p75ntr
+KEGG:hsa04810,regulation of actin cytoskeleton,17,Pathway,KEGG:hsa04810,regulation of actin cytoskeleton
+REACT:R2029482,regulation of actin dynamics for phagocytic cup formation,13,Pathway,REACT:R2029482,regulation of actin dynamics for phagocytic cup formation
+REACT:R186712,regulation of beta-cell development,9,Pathway,REACT:R186712,regulation of beta-cell development
+REACT:R1655829,regulation of cholesterol biosynthesis by srebp (srebf),15,Pathway,REACT:R1655829,regulation of cholesterol biosynthesis by srebp (srebf)
+REACT:R1234158,regulation of gene expression by hypoxia-inducible factor,8,Pathway,REACT:R1234158,regulation of gene expression by hypoxia-inducible factor
+REACT:R210745,regulation of gene expression in beta cells,6,Pathway,REACT:R210745,regulation of gene expression in beta cells
+REACT:R3371453,regulation of hsf1-mediated heat shock response,13,Pathway,REACT:R3371453,regulation of hsf1-mediated heat shock response
+REACT:R1234174,regulation of hypoxia-inducible factor (hif) by oxygen,12,Pathway,REACT:R1234174,regulation of hypoxia-inducible factor (hif) by oxygen
+REACT:R912694,regulation of ifna signaling,2,Pathway,REACT:R912694,regulation of ifna signaling
+REACT:R877312,regulation of ifng signaling,2,Pathway,REACT:R877312,regulation of ifng signaling
+REACT:R381426,regulation of insulin-like growth factor (igf) transport and uptake by insulin-like growth factor binding proteins (igfbps),8,Pathway,REACT:R381426,regulation of insulin-like growth factor (igf) transport and uptake by insulin-like growth factor binding proteins (igfbps)
+REACT:R422356,regulation of insulin secretion,11,Pathway,REACT:R422356,regulation of insulin secretion
+REACT:R400206,regulation of lipid metabolism by peroxisome proliferator-activated receptor alpha (pparalpha),19,Pathway,REACT:R400206,regulation of lipid metabolism by peroxisome proliferator-activated receptor alpha (pparalpha)
+KEGG:hsa04923,regulation of lipolysis in adipocytes,13,Pathway,KEGG:hsa04923,regulation of lipolysis in adipocytes
+REACT:R450531,regulation of mrna stability by proteins that bind au-rich elements,11,Pathway,REACT:R450531,regulation of mrna stability by proteins that bind au-rich elements
+REACT:R5686938,regulation of tlr by endogenous ligand,10,Pathway,REACT:R5686938,regulation of tlr by endogenous ligand
+REACT:R5357905,regulation of tnfr1 signaling,12,Pathway,REACT:R5357905,regulation of tnfr1 signaling
+REACT:R5633007,regulation of tp53 activity,14,Pathway,REACT:R5633007,regulation of tp53 activity
+REACT:R6804758,regulation of tp53 activity through acetylation,6,Pathway,REACT:R6804758,regulation of tp53 activity through acetylation
+REACT:R6804759,regulation of tp53 activity through association with co-factors,6,Pathway,REACT:R6804759,regulation of tp53 activity through association with co-factors
+REACT:R6804760,regulation of tp53 activity through methylation,7,Pathway,REACT:R6804760,regulation of tp53 activity through methylation
+REACT:R6804756,regulation of tp53 activity through phosphorylation,12,Pathway,REACT:R6804756,regulation of tp53 activity through phosphorylation
+REACT:R6804757,regulation of tp53 degradation,14,Pathway,REACT:R6804757,regulation of tp53 degradation
+REACT:R6806003,regulation of tp53 expression and degradation,14,Pathway,REACT:R6806003,regulation of tp53 expression and degradation
+REACT:R159782,removal of aminoterminal propeptides from gamma-carboxylated proteins,3,Pathway,REACT:R159782,removal of aminoterminal propeptides from gamma-carboxylated proteins
+KEGG:hsa05211,renal cell carcinoma,18,Pathway,KEGG:hsa05211,renal cell carcinoma
+KEGG:hsa04614,renin-angiotensin system,3,Pathway,KEGG:hsa04614,renin-angiotensin system
+KEGG:hsa04924,renin secretion,9,Pathway,KEGG:hsa04924,renin secretion
+REACT:R163200,"respiratory electron transport, atp synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",10,Pathway,REACT:R163200,"respiratory electron transport, atp synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
+REACT:R76005,response to elevated platelet cytosolic ca2+,17,Pathway,REACT:R76005,response to elevated platelet cytosolic ca2+
+REACT:R975634,retinoid metabolism and transport,11,Pathway,REACT:R975634,retinoid metabolism and transport
+KEGG:hsa00830,retinol metabolism,14,Pathway,KEGG:hsa00830,retinol metabolism
+KEGG:hsa04723,retrograde endocannabinoid signaling,16,Pathway,KEGG:hsa04723,retrograde endocannabinoid signaling
+REACT:R8853659,ret signaling,18,Pathway,REACT:R8853659,ret signaling
+KEGG:hsa05323,rheumatoid arthritis,22,Pathway,KEGG:hsa05323,rheumatoid arthritis
+REACT:R194840,rho gtpase cycle,10,Pathway,REACT:R194840,rho gtpase cycle
+REACT:R195258,rho gtpase effectors,14,Pathway,REACT:R195258,rho gtpase effectors
+REACT:R5668599,rho gtpases activate nadph oxidases,2,Pathway,REACT:R5668599,rho gtpases activate nadph oxidases
+REACT:R5625740,rho gtpases activate pkns,8,Pathway,REACT:R5625740,rho gtpases activate pkns
+KEGG:hsa04622,rig-i-like receptor signaling pathway,14,Pathway,KEGG:hsa04622,rig-i-like receptor signaling pathway
+REACT:R168928,rig-i/mda5 mediated induction of ifn-alpha/beta pathways,14,Pathway,REACT:R168928,rig-i/mda5 mediated induction of ifn-alpha/beta pathways
+REACT:R1810476,rip-mediated nfkb activation via zbp1,10,Pathway,REACT:R1810476,rip-mediated nfkb activation via zbp1
+REACT:R2730905,role of lat2/ntal/lab on calcium mobilization,20,Pathway,REACT:R2730905,role of lat2/ntal/lab on calcium mobilization
+REACT:R2029485,role of phospholipids in phagocytosis,5,Pathway,REACT:R2029485,role of phospholipids in phagocytosis
+REACT:R418890,role of second messengers in netrin-1 signaling,2,Pathway,REACT:R418890,role of second messengers in netrin-1 signaling
+REACT:R1368082,rora activates gene expression,10,Pathway,REACT:R1368082,rora activates gene expression
+REACT:R1222556,"ros, rns production in phagocytes",10,Pathway,REACT:R1222556,"ros, rns production in phagocytes"
+REACT:R5358747,s33 mutants of beta-catenin aren't phosphorylated,4,Pathway,REACT:R5358747,s33 mutants of beta-catenin aren't phosphorylated
+REACT:R5358749,s37 mutants of beta-catenin aren't phosphorylated,4,Pathway,REACT:R5358749,s37 mutants of beta-catenin aren't phosphorylated
+REACT:R5358751,s45 mutants of beta-catenin aren't phosphorylated,4,Pathway,REACT:R5358751,s45 mutants of beta-catenin aren't phosphorylated
+KEGG:hsa04970,salivary secretion,12,Pathway,KEGG:hsa04970,salivary secretion
+KEGG:hsa05132,salmonella infection,24,Pathway,KEGG:hsa05132,salmonella infection
+REACT:R3000480,scavenging by class a receptors,10,Pathway,REACT:R3000480,scavenging by class a receptors
+REACT:R2168880,scavenging of heme from plasma,5,Pathway,REACT:R2168880,scavenging of heme from plasma
+REACT:R2408522,selenoamino acid metabolism,11,Pathway,REACT:R2408522,selenoamino acid metabolism
+REACT:R373755,semaphorin interactions,13,Pathway,REACT:R373755,semaphorin interactions
+REACT:R2559582,senescence-associated secretory phenotype (sasp),18,Pathway,REACT:R2559582,senescence-associated secretory phenotype (sasp)
+KEGG:hsa04726,serotonergic synapse,21,Pathway,KEGG:hsa04726,serotonergic synapse
+REACT:R390666,serotonin receptors,4,Pathway,REACT:R390666,serotonin receptors
+REACT:R180336,shc1 events in egfr signaling,15,Pathway,REACT:R180336,shc1 events in egfr signaling
+REACT:R1250196,shc1 events in erbb2 signaling,8,Pathway,REACT:R1250196,shc1 events in erbb2 signaling
+REACT:R2428933,shc-related events triggered by igf1r,3,Pathway,REACT:R2428933,shc-related events triggered by igf1r
+KEGG:hsa05131,shigellosis,17,Pathway,KEGG:hsa05131,shigellosis
+REACT:R392518,signal amplification,6,Pathway,REACT:R392518,signal amplification
+REACT:R74749,signal attenuation,10,Pathway,REACT:R74749,signal attenuation
+REACT:R6802952,signaling by braf and raf fusions,13,Pathway,REACT:R6802952,signaling by braf and raf fusions
+REACT:R177929,signaling by egfr,21,Pathway,REACT:R177929,signaling by egfr
+REACT:R1227986,signaling by erbb2,13,Pathway,REACT:R1227986,signaling by erbb2
+REACT:R372790,signaling by gpcr,19,Pathway,REACT:R372790,signaling by gpcr
+REACT:R5358351,signaling by hedgehog,12,Pathway,REACT:R5358351,signaling by hedgehog
+REACT:R6802948,signaling by high-kinase activity braf mutants,13,Pathway,REACT:R6802948,signaling by high-kinase activity braf mutants
+REACT:R74752,signaling by insulin receptor,18,Pathway,REACT:R74752,signaling by insulin receptor
+REACT:R449147,signaling by interleukins,29,Pathway,REACT:R449147,signaling by interleukins
+REACT:R2586552,signaling by leptin,17,Pathway,REACT:R2586552,signaling by leptin
+REACT:R6806834,signaling by met,12,Pathway,REACT:R6806834,signaling by met
+REACT:R6802946,signaling by moderate kinase activity braf mutants,14,Pathway,REACT:R6802946,signaling by moderate kinase activity braf mutants
+REACT:R157118,signaling by notch,12,Pathway,REACT:R157118,signaling by notch
+REACT:R1980143,signaling by notch1,11,Pathway,REACT:R1980143,signaling by notch1
+REACT:R186797,signaling by pdgf,21,Pathway,REACT:R186797,signaling by pdgf
+REACT:R8848021,signaling by ptk6,17,Pathway,REACT:R8848021,signaling by ptk6
+REACT:R6802949,signaling by ras mutants,13,Pathway,REACT:R6802949,signaling by ras mutants
+REACT:R194315,signaling by rho gtpases,13,Pathway,REACT:R194315,signaling by rho gtpases
+REACT:R1433557,signaling by scf-kit,22,Pathway,REACT:R1433557,signaling by scf-kit
+REACT:R170834,signaling by tgf-beta receptor complex,12,Pathway,REACT:R170834,signaling by tgf-beta receptor complex
+REACT:R3304351,signaling by tgf-beta receptor complex in cancer,3,Pathway,REACT:R3304351,signaling by tgf-beta receptor complex in cancer
+REACT:R983705,signaling by the b cell receptor (bcr),20,Pathway,REACT:R983705,signaling by the b cell receptor (bcr)
+REACT:R2404192,signaling by type 1 insulin-like growth factor 1 receptor (igf1r),20,Pathway,REACT:R2404192,signaling by type 1 insulin-like growth factor 1 receptor (igf1r)
+REACT:R194138,signaling by vegf,19,Pathway,REACT:R194138,signaling by vegf
+REACT:R195721,signaling by wnt,12,Pathway,REACT:R195721,signaling by wnt
+REACT:R4791275,signaling by wnt in cancer,7,Pathway,REACT:R4791275,signaling by wnt in cancer
+KEGG:hsa04550,signaling pathways regulating pluripotency of stem cells,18,Pathway,KEGG:hsa04550,signaling pathways regulating pluripotency of stem cells
+REACT:R166520,signalling by ngf,23,Pathway,REACT:R166520,signalling by ngf
+REACT:R187687,signalling to erks,16,Pathway,REACT:R187687,signalling to erks
+REACT:R187706,signalling to p38 via rit and rin,15,Pathway,REACT:R187706,signalling to p38 via rit and rin
+REACT:R167044,signalling to ras,16,Pathway,REACT:R167044,signalling to ras
+REACT:R162582,signal transduction,29,Pathway,REACT:R162582,signal transduction
+REACT:R425407,slc-mediated transmembrane transport,16,Pathway,REACT:R425407,slc-mediated transmembrane transport
+REACT:R3315487,smad2/3 mh2 domain mutants in cancer,4,Pathway,REACT:R3315487,smad2/3 mh2 domain mutants in cancer
+REACT:R2173796,smad2/smad3:smad4 heterotrimer regulates transcription,9,Pathway,REACT:R2173796,smad2/smad3:smad4 heterotrimer regulates transcription
+KEGG:hsa05222,small cell lung cancer,24,Pathway,KEGG:hsa05222,small cell lung cancer
+REACT:R445355,smooth muscle contraction,10,Pathway,REACT:R445355,smooth muscle contraction
+REACT:R112412,sos-mediated signalling,15,Pathway,REACT:R112412,sos-mediated signalling
+KEGG:hsa04071,sphingolipid signaling pathway,24,Pathway,KEGG:hsa04071,sphingolipid signaling pathway
+REACT:R69541,stabilization of p53,11,Pathway,REACT:R69541,stabilization of p53
+KEGG:hsa05150,staphylococcus aureus infection,10,Pathway,KEGG:hsa05150,staphylococcus aureus infection
+KEGG:hsa00140,steroid hormone biosynthesis,22,Pathway,KEGG:hsa00140,steroid hormone biosynthesis
+REACT:R2672351,stimuli-sensing channels,9,Pathway,REACT:R2672351,stimuli-sensing channels
+REACT:R390522,striated muscle contraction,7,Pathway,REACT:R390522,striated muscle contraction
+REACT:R1614635,sulfur amino acid metabolism,8,Pathway,REACT:R1614635,sulfur amino acid metabolism
+REACT:R3108232,sumo e3 ligases sumoylate target proteins,12,Pathway,REACT:R3108232,sumo e3 ligases sumoylate target proteins
+REACT:R2990846,sumoylation,12,Pathway,REACT:R2990846,sumoylation
+REACT:R3232118,sumoylation of transcription factors,3,Pathway,REACT:R3232118,sumoylation of transcription factors
+REACT:R5683826,surfactant metabolism,2,Pathway,REACT:R5683826,surfactant metabolism
+REACT:R3000170,syndecan interactions,9,Pathway,REACT:R3000170,syndecan interactions
+REACT:R2142770,synthesis of 15-eicosatetraenoic acid derivatives,4,Pathway,REACT:R2142770,synthesis of 15-eicosatetraenoic acid derivatives
+REACT:R2142816,synthesis of (16-20)-hydroxyeicosatetraenoic acids (hete),9,Pathway,REACT:R2142816,synthesis of (16-20)-hydroxyeicosatetraenoic acids (hete)
+REACT:R2142688,synthesis of 5-eicosatetraenoic acids,3,Pathway,REACT:R2142688,synthesis of 5-eicosatetraenoic acids
+REACT:R2142670,synthesis of epoxy (eet) and dihydroxyeicosatrienoic acids (dhet),9,Pathway,REACT:R2142670,synthesis of epoxy (eet) and dihydroxyeicosatrienoic acids (dhet)
+REACT:R1855204,synthesis of ip3 and ip4 in the cytosol,4,Pathway,REACT:R1855204,synthesis of ip3 and ip4 in the cytosol
+REACT:R2142691,synthesis of leukotrienes (lt) and eoxins (ex),2,Pathway,REACT:R2142691,synthesis of leukotrienes (lt) and eoxins (ex)
+REACT:R1660499,synthesis of pips at the plasma membrane,8,Pathway,REACT:R1660499,synthesis of pips at the plasma membrane
+REACT:R2162123,synthesis of prostaglandins (pg) and thromboxanes (tx),4,Pathway,REACT:R2162123,synthesis of prostaglandins (pg) and thromboxanes (tx)
+REACT:R422085,"synthesis, secretion, and deacylation of ghrelin",7,Pathway,REACT:R422085,"synthesis, secretion, and deacylation of ghrelin"
+REACT:R381771,"synthesis, secretion, and inactivation of glucagon-like peptide-1 (glp-1)",2,Pathway,REACT:R381771,"synthesis, secretion, and inactivation of glucagon-like peptide-1 (glp-1)"
+KEGG:hsa05322,systemic lupus erythematosus,10,Pathway,KEGG:hsa05322,systemic lupus erythematosus
+REACT:R5358752,t41 mutants of beta-catenin aren't phosphorylated,4,Pathway,REACT:R5358752,t41 mutants of beta-catenin aren't phosphorylated
+REACT:R445989,tak1 activates nfkb by phosphorylation and activation of ikks complex,11,Pathway,REACT:R445989,tak1 activates nfkb by phosphorylation and activation of ikks complex
+KEGG:hsa04742,taste transduction,3,Pathway,KEGG:hsa04742,taste transduction
+KEGG:hsa04660,t cell receptor signaling pathway,19,Pathway,KEGG:hsa04660,t cell receptor signaling pathway
+REACT:R201681,tcf dependent signaling in response to wnt,12,Pathway,REACT:R201681,tcf dependent signaling in response to wnt
+REACT:R202403,tcr signaling,13,Pathway,REACT:R202403,tcr signaling
+REACT:R1474151,"tetrahydrobiopterin (bh4) synthesis, recycling, salvage and regulation",7,Pathway,REACT:R1474151,"tetrahydrobiopterin (bh4) synthesis, recycling, salvage and regulation"
+REACT:R2173789,tgf-beta receptor signaling activates smads,9,Pathway,REACT:R2173789,tgf-beta receptor signaling activates smads
+REACT:R2173791,tgf-beta receptor signaling in emt (epithelial to mesenchymal transition),3,Pathway,REACT:R2173791,tgf-beta receptor signaling in emt (epithelial to mesenchymal transition)
+KEGG:M00680,tgf-beta signaling,4,Pathway,KEGG:M00680,tgf-beta signaling
+KEGG:hsa04350,tgf-beta signaling pathway,17,Pathway,KEGG:hsa04350,tgf-beta signaling pathway
+REACT:R3656532,tgfbr1 kd mutants in cancer,2,Pathway,REACT:R3656532,tgfbr1 kd mutants in cancer
+KEGG:hsa04659,th17 cell differentiation,22,Pathway,KEGG:hsa04659,th17 cell differentiation
+KEGG:hsa04658,th1 and th2 cell differentiation,17,Pathway,KEGG:hsa04658,th1 and th2 cell differentiation
+REACT:R1428517,the citric acid (tca) cycle and respiratory electron transport,13,Pathway,REACT:R1428517,the citric acid (tca) cycle and respiratory electron transport
+REACT:R167826,the fatty acid cycling model,2,Pathway,REACT:R167826,the fatty acid cycling model
+REACT:R844455,the nlrp1 inflammasome,2,Pathway,REACT:R844455,the nlrp1 inflammasome
+REACT:R167827,the proton buffering model,2,Pathway,REACT:R167827,the proton buffering model
+REACT:R8852276,the role of gtse1 in g2/m progression after g2 checkpoint,13,Pathway,REACT:R8852276,the role of gtse1 in g2/m progression after g2 checkpoint
+REACT:R456926,thrombin signalling through proteinase activated receptors (pars),6,Pathway,REACT:R456926,thrombin signalling through proteinase activated receptors (pars)
+REACT:R428930,thromboxane signalling through tp receptor,6,Pathway,REACT:R428930,thromboxane signalling through tp receptor
+KEGG:hsa05216,thyroid cancer,20,Pathway,KEGG:hsa05216,thyroid cancer
+KEGG:hsa04919,thyroid hormone signaling pathway,22,Pathway,KEGG:hsa04919,thyroid hormone signaling pathway
+KEGG:hsa04918,thyroid hormone synthesis,16,Pathway,KEGG:hsa04918,thyroid hormone synthesis
+KEGG:hsa04530,tight junction,14,Pathway,KEGG:hsa04530,tight junction
+REACT:R5357956,tnfr1-induced nfkappab signaling pathway,9,Pathway,REACT:R5357956,tnfr1-induced nfkappab signaling pathway
+REACT:R5357786,tnfr1-induced proapoptotic signaling,7,Pathway,REACT:R5357786,tnfr1-induced proapoptotic signaling
+REACT:R5668541,tnfr2 non-canonical nf-kb pathway,12,Pathway,REACT:R5668541,tnfr2 non-canonical nf-kb pathway
+REACT:R75893,tnf signaling,11,Pathway,REACT:R75893,tnf signaling
+KEGG:hsa04668,tnf signaling pathway,28,Pathway,KEGG:hsa04668,tnf signaling pathway
+REACT:R168142,toll like receptor 10 (tlr10) cascade,17,Pathway,REACT:R168142,toll like receptor 10 (tlr10) cascade
+REACT:R181438,toll like receptor 2 (tlr2) cascade,17,Pathway,REACT:R181438,toll like receptor 2 (tlr2) cascade
+REACT:R168164,toll like receptor 3 (tlr3) cascade,17,Pathway,REACT:R168164,toll like receptor 3 (tlr3) cascade
+REACT:R166016,toll like receptor 4 (tlr4) cascade,17,Pathway,REACT:R166016,toll like receptor 4 (tlr4) cascade
+REACT:R168176,toll like receptor 5 (tlr5) cascade,17,Pathway,REACT:R168176,toll like receptor 5 (tlr5) cascade
+REACT:R168181,toll like receptor 7/8 (tlr7/8) cascade,17,Pathway,REACT:R168181,toll like receptor 7/8 (tlr7/8) cascade
+REACT:R168138,toll like receptor 9 (tlr9) cascade,17,Pathway,REACT:R168138,toll like receptor 9 (tlr9) cascade
+REACT:R168898,toll-like receptors cascades,18,Pathway,REACT:R168898,toll-like receptors cascades
+KEGG:M00686,toll-like receptor signaling,11,Pathway,KEGG:M00686,toll-like receptor signaling
+KEGG:hsa04620,toll-like receptor signaling pathway,24,Pathway,KEGG:hsa04620,toll-like receptor signaling pathway
+REACT:R168179,toll like receptor tlr1:tlr2 cascade,17,Pathway,REACT:R168179,toll like receptor tlr1:tlr2 cascade
+REACT:R168188,toll like receptor tlr6:tlr2 cascade,17,Pathway,REACT:R168188,toll like receptor tlr6:tlr2 cascade
+KEGG:hsa05145,toxoplasmosis,26,Pathway,KEGG:hsa05145,toxoplasmosis
+REACT:R5628897,tp53 regulates metabolic genes,17,Pathway,REACT:R5628897,tp53 regulates metabolic genes
+REACT:R6804115,tp53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,3,Pathway,REACT:R6804115,tp53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain
+REACT:R6803207,tp53 regulates transcription of caspase activators and caspases,4,Pathway,REACT:R6803207,tp53 regulates transcription of caspase activators and caspases
+REACT:R6791312,tp53 regulates transcription of cell cycle genes,18,Pathway,REACT:R6791312,tp53 regulates transcription of cell cycle genes
+REACT:R5633008,tp53 regulates transcription of cell death genes,15,Pathway,REACT:R5633008,tp53 regulates transcription of cell death genes
+REACT:R6803211,tp53 regulates transcription of death receptors and ligands,5,Pathway,REACT:R6803211,tp53 regulates transcription of death receptors and ligands
+REACT:R6796648,tp53 regulates transcription of dna repair genes,9,Pathway,REACT:R6796648,tp53 regulates transcription of dna repair genes
+REACT:R6803204,tp53 regulates transcription of genes involved in cytochrome c release,12,Pathway,REACT:R6803204,tp53 regulates transcription of genes involved in cytochrome c release
+REACT:R6804116,tp53 regulates transcription of genes involved in g1 cell cycle arrest,12,Pathway,REACT:R6804116,tp53 regulates transcription of genes involved in g1 cell cycle arrest
+REACT:R6804114,tp53 regulates transcription of genes involved in g2 cell cycle arrest,14,Pathway,REACT:R6804114,tp53 regulates transcription of genes involved in g2 cell cycle arrest
+REACT:R6803205,tp53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,4,Pathway,REACT:R6803205,tp53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+REACT:R975138,traf6 mediated induction of nfkb and map kinases upon tlr7/8 or 9 activation,17,Pathway,REACT:R975138,traf6 mediated induction of nfkb and map kinases upon tlr7/8 or 9 activation
+REACT:R937072,traf6 mediated induction of tak1 complex,4,Pathway,REACT:R937072,traf6 mediated induction of tak1 complex
+REACT:R933541,traf6 mediated irf7 activation,2,Pathway,REACT:R933541,traf6 mediated irf7 activation
+REACT:R975110,traf6 mediated irf7 activation in tlr7/8 or 9 signaling,4,Pathway,REACT:R975110,traf6 mediated irf7 activation in tlr7/8 or 9 signaling
+REACT:R933542,traf6 mediated nf-kb activation,11,Pathway,REACT:R933542,traf6 mediated nf-kb activation
+REACT:R69895,transcriptional  activation of  cell cycle inhibitor p21,2,Pathway,REACT:R69895,transcriptional  activation of  cell cycle inhibitor p21
+REACT:R2151201,transcriptional activation of mitochondrial biogenesis,10,Pathway,REACT:R2151201,transcriptional activation of mitochondrial biogenesis
+REACT:R69560,transcriptional activation of p53 responsive genes,2,Pathway,REACT:R69560,transcriptional activation of p53 responsive genes
+REACT:R2173793,transcriptional activity of smad2/smad3:smad4 heterotrimer,11,Pathway,REACT:R2173793,transcriptional activity of smad2/smad3:smad4 heterotrimer
+KEGG:hsa05202,transcriptional misregulation in cancer,22,Pathway,KEGG:hsa05202,transcriptional misregulation in cancer
+REACT:R8864260,transcriptional regulation by the ap-2 (tfap2) family of transcription factors,13,Pathway,REACT:R8864260,transcriptional regulation by the ap-2 (tfap2) family of transcription factors
+REACT:R3700989,transcriptional regulation by tp53,21,Pathway,REACT:R3700989,transcriptional regulation by tp53
+REACT:R381340,transcriptional regulation of white adipocyte differentiation,17,Pathway,REACT:R381340,transcriptional regulation of white adipocyte differentiation
+REACT:R1445148,translocation of glut4 to the plasma membrane,11,Pathway,REACT:R1445148,translocation of glut4 to the plasma membrane
+REACT:R382551,transmembrane transport of small molecules,20,Pathway,REACT:R382551,transmembrane transport of small molecules
+REACT:R112315,transmission across chemical synapses,20,Pathway,REACT:R112315,transmission across chemical synapses
+REACT:R425366,"transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds",14,Pathway,REACT:R425366,"transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds"
+REACT:R425393,transport of inorganic cations/anions and amino acids/oligopeptides,10,Pathway,REACT:R425393,transport of inorganic cations/anions and amino acids/oligopeptides
+REACT:R948021,transport to the golgi and subsequent modification,11,Pathway,REACT:R948021,transport to the golgi and subsequent modification
+REACT:R2562578,trif-mediated programmed cell death,3,Pathway,REACT:R2562578,trif-mediated programmed cell death
+REACT:R937061,trif-mediated tlr3/tlr4 signaling,17,Pathway,REACT:R937061,trif-mediated tlr3/tlr4 signaling
+REACT:R3295583,trp channels,2,Pathway,REACT:R3295583,trp channels
+REACT:R4839744,truncated apc mutants destabilize the destruction complex,4,Pathway,REACT:R4839744,truncated apc mutants destabilize the destruction complex
+REACT:R5467348,truncations of amer1 destabilize the destruction complex,4,Pathway,REACT:R5467348,truncations of amer1 destabilize the destruction complex
+KEGG:hsa00380,tryptophan metabolism,15,Pathway,KEGG:hsa00380,tryptophan metabolism
+KEGG:hsa05152,tuberculosis,29,Pathway,KEGG:hsa05152,tuberculosis
+KEGG:hsa04940,type i diabetes mellitus,18,Pathway,KEGG:hsa04940,type i diabetes mellitus
+KEGG:hsa04930,type ii diabetes mellitus,19,Pathway,KEGG:hsa04930,type ii diabetes mellitus
+KEGG:hsa00350,tyrosine metabolism,10,Pathway,KEGG:hsa00350,tyrosine metabolism
+KEGG:hsa04120,ubiquitin mediated proteolysis,12,Pathway,KEGG:hsa04120,ubiquitin mediated proteolysis
+REACT:R5689880,ub-specific processing proteases,12,Pathway,REACT:R5689880,ub-specific processing proteases
+REACT:R5689603,uch proteinases,11,Pathway,REACT:R5689603,uch proteinases
+REACT:R381119,unfolded protein response (upr),16,Pathway,REACT:R381119,unfolded protein response (upr)
+KEGG:hsa04270,vascular smooth muscle contraction,13,Pathway,KEGG:hsa04270,vascular smooth muscle contraction
+REACT:R388479,vasopressin-like receptors,2,Pathway,REACT:R388479,vasopressin-like receptors
+KEGG:hsa04962,vasopressin-regulated water reabsorption,7,Pathway,KEGG:hsa04962,vasopressin-regulated water reabsorption
+REACT:R432040,vasopressin regulates renal water homeostasis via aquaporins,9,Pathway,REACT:R432040,vasopressin regulates renal water homeostasis via aquaporins
+REACT:R4420097,vegfa-vegfr2 pathway,19,Pathway,REACT:R4420097,vegfa-vegfr2 pathway
+REACT:R5218921,vegfr2 mediated cell proliferation,16,Pathway,REACT:R5218921,vegfr2 mediated cell proliferation
+REACT:R5218920,vegfr2 mediated vascular permeability,11,Pathway,REACT:R5218920,vegfr2 mediated vascular permeability
+KEGG:hsa04370,vegf signaling pathway,19,Pathway,KEGG:hsa04370,vegf signaling pathway
+REACT:R5653656,vesicle-mediated transport,14,Pathway,REACT:R5653656,vesicle-mediated transport
+KEGG:hsa05110,vibrio cholerae infection,10,Pathway,KEGG:hsa05110,vibrio cholerae infection
+KEGG:hsa05203,viral carcinogenesis,25,Pathway,KEGG:hsa05203,viral carcinogenesis
+KEGG:hsa05416,viral myocarditis,18,Pathway,KEGG:hsa05416,viral myocarditis
+REACT:R2187338,visual phototransduction,12,Pathway,REACT:R2187338,visual phototransduction
+KEGG:hsa04977,vitamin digestion and absorption,5,Pathway,KEGG:hsa04977,vitamin digestion and absorption
+KEGG:M00677,wnt signaling,6,Pathway,KEGG:M00677,wnt signaling
+KEGG:hsa04310,wnt signaling pathway,15,Pathway,KEGG:hsa04310,wnt signaling pathway
+REACT:R381038,xbp1(s) activates chaperone genes,12,Pathway,REACT:R381038,xbp1(s) activates chaperone genes
+REACT:R211981,xenobiotics,12,Pathway,REACT:R211981,xenobiotics
+REACT:R2032785,yap1- and wwtr1 (taz)-stimulated gene expression,9,Pathway,REACT:R2032785,yap1- and wwtr1 (taz)-stimulated gene expression
+REACT:R1606322,zbp1(dai) mediated induction of type i ifns,9,Pathway,REACT:R1606322,zbp1(dai) mediated induction of type i ifns
+EX:D08131,hypertension,848,Disease,MESH:D006973,hypertension

@@ -1,0 +1,1718 @@
+Source,Target,Source preferred name,Target preferred name,Interaction,Source group,Target group,Database,Edge type
+EX:E000002109,GO:0004115,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine","3',5'-cyclic-AMP phosphodiesterase activity",association,Exposure,GO,ctd,1
+EX:E000002109,GO:0030521,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",androgen receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0046058,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",cAMP metabolic process,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0008283,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0033484,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",intracellular nitric oxide homeostasis,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0010424,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0008210,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",estrogen metabolic process,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0060322,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",head development,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0031959,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",mineralocorticoid receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0008285,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:1904339,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",negative regulation of dopaminergic neuron differentiation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0045930,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0001542,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",ovulation from ovarian follicle,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0043065,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0010942,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0030335,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of cell migration,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0008284,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0070374,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of ERK1 and ERK2 cascade,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0120008,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of glutamatergic neuron differentiation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0033148,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of intracellular estrogen receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000002109,GO:1903980,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of microglial cell activation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:1901216,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of neuron death,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0060279,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of ovulation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:1903428,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002109,GO:2000611,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",positive regulation of thyroid hormone generation,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0042448,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",progesterone metabolic process,association,Exposure,GO,ctd,1
+EX:E000002109,GO:1903578,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",regulation of ATP metabolic process,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0007346,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002109,GO:0044319,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine","wound healing, spreading of cells",association,Exposure,GO,ctd,1
+EX:E000002109,GO:0006805,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",xenobiotic metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0008291,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",acetylcholine metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006919,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",activation of cysteine-type endopeptidase activity involved in apoptotic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0008635,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0032148,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",activation of protein kinase B activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0007197,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0030263,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",apoptotic chromosome condensation,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0030262,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",apoptotic nuclear changes,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006915,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",apoptotic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0004064,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",arylesterase activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0014002,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",astrocyte development,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0046034,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",ATP metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0007610,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",behavior,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0030899,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",calcium-dependent ATPase activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0045217,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cell-cell junction maintenance,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0008219,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cell death,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0016049,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cell growth,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0008283,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0044237,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006974,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0071493,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cellular response to UV-B,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0004104,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cholinesterase activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0050890,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",cognition,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0070994,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0071897,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",DNA biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006304,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",DNA modification,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0098508,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",endothelial to hematopoietic transition,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0035937,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",estrogen secretion,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0046655,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",folic acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0009448,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",gamma-aminobutyric acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006750,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006749,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0042743,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",hydrogen peroxide metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006954,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",inflammatory response,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0034275,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",kynurenic acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006089,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",lactate metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0007612,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",learning,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0016042,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0034440,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",lipid oxidation,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0007613,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",memory,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0051560,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",mitochondrial calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0000278,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0000084,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",mitotic S phase,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0070265,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",necrotic cell death,association,Exposure,GO,ctd,1
+EX:E000002567,GO:2001170,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of ATP biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0008285,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0031324,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0010637,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of mitochondrial fusion,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0010917,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0045930,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0010977,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of neuron projection development,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1903077,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of protein localization to plasma membrane,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1903427,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",negative regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0048666,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",neuron development,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0140058,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",neuron projection arborization,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1990138,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",neuron projection extension,association,Exposure,GO,ctd,1
+EX:E000002567,GO:2000251,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of actin cytoskeleton reorganization,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0045766,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of angiogenesis,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0043065,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1905605,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of blood-brain barrier permeability,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1905555,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of blood vessel branching,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0010942,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0030335,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of cell migration,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0008284,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1905956,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of endothelial tube morphogenesis,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0010718,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of epithelial to mesenchymal transition,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0070374,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of ERK1 and ERK2 cascade,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0051345,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of hydrolase activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0046330,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of JNK cascade,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0010918,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1901526,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of mitophagy,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0050769,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of neurogenesis,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0051092,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of NF-kappaB transcription factor activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1902177,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1900745,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of p38MAPK cascade,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1900182,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of protein localization to nucleus,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1903428,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0090200,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of release of cytochrome c from mitochondria,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1901671,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",positive regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006693,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",prostaglandin metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0005391,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",P-type sodium:potassium-exchanging transporter activity,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0070269,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",pyroptosis,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1903409,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0072593,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0051881,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0045428,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",regulation of nitric oxide biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:2000377,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",regulation of reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0003014,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",renal system process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0003016,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",respiratory system process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0046498,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",S-adenosylhomocysteine metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0046500,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",S-adenosylmethionine metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0046541,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",saliva secretion,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0042554,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",superoxide anion generation,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0050808,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",synapse organization,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0006568,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",tryptophan metabolic process,association,Exposure,GO,ctd,1
+EX:E000002567,GO:0007601,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",visual perception,association,Exposure,GO,ctd,1
+EX:E000002567,GO:1990962,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",xenobiotic transport across blood-brain barrier,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0043277,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,apoptotic cell clearance,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0006915,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0007049,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,cell cycle,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0008283,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0044237,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0006974,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0000086,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0006749,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0000278,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0045930,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002599,GO:0051881,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000002860,GO:0006974,"2,2-dichloroethenyl dimethyl phosphate",cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000002860,GO:0045930,"2,2-dichloroethenyl dimethyl phosphate",negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000002860,GO:0043065,"2,2-dichloroethenyl dimethyl phosphate",positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000002860,GO:0010942,"2,2-dichloroethenyl dimethyl phosphate",positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000002860,GO:1903428,"2,2-dichloroethenyl dimethyl phosphate",positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0004035,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",alkaline phosphatase activity,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0008219,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",cell death,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0044237,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0006974,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0048589,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",developmental growth,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0004457,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",lactate dehydrogenase activity,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0004069,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",L-aspartate:2-oxoglutarate aminotransferase activity,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0016042,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0031959,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",mineralocorticoid receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0051882,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",mitochondrial depolarization,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0008285,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0006809,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",nitric oxide biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0008284,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0031323,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",regulation of cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0019432,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",triglyceride biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000003163,GO:0006641,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:1901605,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,alpha-amino acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006309,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,apoptotic DNA fragmentation,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006915,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0019369,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,arachidonic acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0016049,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,cell growth,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0008283,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0044237,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006974,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0010424,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0045023,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,G0 to G1 transition,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0000086,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006750,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006749,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0004602,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006650,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,glycerophospholipid metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006558,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,L-phenylalanine metabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0009085,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,lysine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006554,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,lysine catabolic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0000080,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,mitotic G1 phase,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0045930,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0001556,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,oocyte maturation,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0010942,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000003780,GO:1905643,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,positive regulation of DNA methylation,association,Exposure,GO,ctd,1
+EX:E000003780,GO:1903409,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000003780,GO:1901668,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0006979,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000003780,GO:0019530,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,taurine metabolic process,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0097189,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,apoptotic body,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0030263,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,apoptotic chromosome condensation,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0006309,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,apoptotic DNA fragmentation,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0006915,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0044237,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0006338,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,chromatin remodeling,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0000086,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0000278,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0000080,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,mitotic G1 phase,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0000084,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,mitotic S phase,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0070266,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,necroptotic process,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0070782,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,phosphatidylserine exposure on apoptotic cell surface,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0008217,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0090559,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,regulation of membrane permeability,association,Exposure,GO,ctd,1
+EX:E000004290,GO:0007033,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,vacuole organization,association,Exposure,GO,ctd,1
+EX:E000004331,GO:0008219,"7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",cell death,association,Exposure,GO,ctd,1
+EX:E000004331,GO:0008283,"7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000004331,GO:0002027,"7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",regulation of heart rate,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0019413,4-(4-hydroxyphenyl)sulfonylphenol,acetate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006523,4-(4-hydroxyphenyl)sulfonylphenol,alanine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0008652,4-(4-hydroxyphenyl)sulfonylphenol,amino acid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006915,4-(4-hydroxyphenyl)sulfonylphenol,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0030954,4-(4-hydroxyphenyl)sulfonylphenol,astral microtubule nucleation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0016887,4-(4-hydroxyphenyl)sulfonylphenol,ATP hydrolysis activity,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0090116,4-(4-hydroxyphenyl)sulfonylphenol,C-5 methylation of cytosine,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0055074,4-(4-hydroxyphenyl)sulfonylphenol,calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006171,4-(4-hydroxyphenyl)sulfonylphenol,cAMP biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0140253,4-(4-hydroxyphenyl)sulfonylphenol,cell-cell fusion,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0005911,4-(4-hydroxyphenyl)sulfonylphenol,cell-cell junction,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0060326,4-(4-hydroxyphenyl)sulfonylphenol,cell chemotaxis,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0016049,4-(4-hydroxyphenyl)sulfonylphenol,cell growth,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0016477,4-(4-hydroxyphenyl)sulfonylphenol,cell migration,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0008283,4-(4-hydroxyphenyl)sulfonylphenol,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006874,4-(4-hydroxyphenyl)sulfonylphenol,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0044237,4-(4-hydroxyphenyl)sulfonylphenol,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006974,4-(4-hydroxyphenyl)sulfonylphenol,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0032869,4-(4-hydroxyphenyl)sulfonylphenol,cellular response to insulin stimulus,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0010424,4-(4-hydroxyphenyl)sulfonylphenol,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0007566,4-(4-hydroxyphenyl)sulfonylphenol,embryo implantation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0035938,4-(4-hydroxyphenyl)sulfonylphenol,estradiol secretion,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0045444,4-(4-hydroxyphenyl)sulfonylphenol,fat cell differentiation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0000082,4-(4-hydroxyphenyl)sulfonylphenol,G1/S transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0000086,4-(4-hydroxyphenyl)sulfonylphenol,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0098708,4-(4-hydroxyphenyl)sulfonylphenol,glucose import across plasma membrane,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006537,4-(4-hydroxyphenyl)sulfonylphenol,glutamate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006749,4-(4-hydroxyphenyl)sulfonylphenol,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0006545,4-(4-hydroxyphenyl)sulfonylphenol,glycine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0070059,4-(4-hydroxyphenyl)sulfonylphenol,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0008610,4-(4-hydroxyphenyl)sulfonylphenol,lipid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0140042,4-(4-hydroxyphenyl)sulfonylphenol,lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0009094,4-(4-hydroxyphenyl)sulfonylphenol,L-phenylalanine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0000165,4-(4-hydroxyphenyl)sulfonylphenol,MAPK cascade,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0034454,4-(4-hydroxyphenyl)sulfonylphenol,microtubule anchoring at centrosome,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1903047,4-(4-hydroxyphenyl)sulfonylphenol,mitotic cell cycle process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0000084,4-(4-hydroxyphenyl)sulfonylphenol,mitotic S phase,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0008285,4-(4-hydroxyphenyl)sulfonylphenol,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0031324,4-(4-hydroxyphenyl)sulfonylphenol,negative regulation of cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0010826,4-(4-hydroxyphenyl)sulfonylphenol,negative regulation of centrosome duplication,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1903283,4-(4-hydroxyphenyl)sulfonylphenol,negative regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1901726,4-(4-hydroxyphenyl)sulfonylphenol,negative regulation of histone deacetylase activity,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0045930,4-(4-hydroxyphenyl)sulfonylphenol,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1990138,4-(4-hydroxyphenyl)sulfonylphenol,neuron projection extension,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0010942,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0008284,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0010825,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of centrosome duplication,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1903284,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0033148,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of intracellular estrogen receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0031116,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of microtubule polymerization,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0045931,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1903428,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0002157,4-(4-hydroxyphenyl)sulfonylphenol,positive regulation of thyroid hormone mediated signaling pathway,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0042701,4-(4-hydroxyphenyl)sulfonylphenol,progesterone secretion,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0018158,4-(4-hydroxyphenyl)sulfonylphenol,protein oxidation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:1903409,4-(4-hydroxyphenyl)sulfonylphenol,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0072593,4-(4-hydroxyphenyl)sulfonylphenol,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0051881,4-(4-hydroxyphenyl)sulfonylphenol,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0048863,4-(4-hydroxyphenyl)sulfonylphenol,stem cell differentiation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0008202,4-(4-hydroxyphenyl)sulfonylphenol,steroid metabolic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0061370,4-(4-hydroxyphenyl)sulfonylphenol,testosterone biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0019432,4-(4-hydroxyphenyl)sulfonylphenol,triglyceride biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0035148,4-(4-hydroxyphenyl)sulfonylphenol,tube formation,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0009099,4-(4-hydroxyphenyl)sulfonylphenol,valine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0005245,4-(4-hydroxyphenyl)sulfonylphenol,voltage-gated calcium channel activity,association,Exposure,GO,ctd,1
+EX:E000006270,GO:0044319,4-(4-hydroxyphenyl)sulfonylphenol,"wound healing, spreading of cells",association,Exposure,GO,ctd,1
+EX:E000006270,GO:0052697,4-(4-hydroxyphenyl)sulfonylphenol,xenobiotic glucuronidation,association,Exposure,GO,ctd,1
+EX:E000006630,GO:0030317,naphthalen-1-ol,flagellated sperm motility,association,Exposure,GO,ctd,1
+EX:E000006630,GO:0010467,naphthalen-1-ol,gene expression,association,Exposure,GO,ctd,1
+EX:E000006630,GO:0007283,naphthalen-1-ol,spermatogenesis,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0003006,naphthalen-2-ol,developmental process involved in reproduction,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0010424,naphthalen-2-ol,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0010467,naphthalen-2-ol,gene expression,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0008610,naphthalen-2-ol,lipid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0032125,naphthalen-2-ol,micronucleus organization,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0002027,naphthalen-2-ol,regulation of heart rate,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0003016,naphthalen-2-ol,respiratory system process,association,Exposure,GO,ctd,1
+EX:E000008218,GO:0006805,naphthalen-2-ol,xenobiotic metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0032148,4-[(4-hydroxyphenyl)methyl]phenol,activation of protein kinase B activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008210,4-[(4-hydroxyphenyl)methyl]phenol,estrogen metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006749,4-[(4-hydroxyphenyl)methyl]phenol,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0140042,4-[(4-hydroxyphenyl)methyl]phenol,lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0034440,4-[(4-hydroxyphenyl)methyl]phenol,lipid oxidation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008285,4-[(4-hydroxyphenyl)methyl]phenol,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008284,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0010825,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of centrosome duplication,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0007204,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of cytosolic calcium ion concentration,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0070374,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of ERK1 and ERK2 cascade,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1903284,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0033148,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of intracellular estrogen receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1903428,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1901671,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0002157,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of thyroid hormone mediated signaling pathway,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008202,4-[(4-hydroxyphenyl)methyl]phenol,steroid metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0072539,4-[(4-hydroxyphenyl)methyl]phenol,T-helper 17 cell differentiation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0019413,4-[(4-hydroxyphenyl)methyl]phenol,acetate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006523,4-[(4-hydroxyphenyl)methyl]phenol,alanine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008652,4-[(4-hydroxyphenyl)methyl]phenol,amino acid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006754,4-[(4-hydroxyphenyl)methyl]phenol,ATP biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0016887,4-[(4-hydroxyphenyl)methyl]phenol,ATP hydrolysis activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0046034,4-[(4-hydroxyphenyl)methyl]phenol,ATP metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0055074,4-[(4-hydroxyphenyl)methyl]phenol,calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0005911,4-[(4-hydroxyphenyl)methyl]phenol,cell-cell junction,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0016477,4-[(4-hydroxyphenyl)methyl]phenol,cell migration,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008283,4-[(4-hydroxyphenyl)methyl]phenol,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006874,4-[(4-hydroxyphenyl)methyl]phenol,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0044237,4-[(4-hydroxyphenyl)methyl]phenol,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006974,4-[(4-hydroxyphenyl)methyl]phenol,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0070994,4-[(4-hydroxyphenyl)methyl]phenol,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006306,4-[(4-hydroxyphenyl)methyl]phenol,DNA methylation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0010424,4-[(4-hydroxyphenyl)methyl]phenol,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0045444,4-[(4-hydroxyphenyl)methyl]phenol,fat cell differentiation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0000086,4-[(4-hydroxyphenyl)methyl]phenol,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006094,4-[(4-hydroxyphenyl)methyl]phenol,gluconeogenesis,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006537,4-[(4-hydroxyphenyl)methyl]phenol,glutamate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006542,4-[(4-hydroxyphenyl)methyl]phenol,glutamine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006545,4-[(4-hydroxyphenyl)methyl]phenol,glycine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0070059,4-[(4-hydroxyphenyl)methyl]phenol,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009097,4-[(4-hydroxyphenyl)methyl]phenol,isoleucine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009098,4-[(4-hydroxyphenyl)methyl]phenol,leucine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009094,4-[(4-hydroxyphenyl)methyl]phenol,L-phenylalanine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009085,4-[(4-hydroxyphenyl)methyl]phenol,lysine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0008152,4-[(4-hydroxyphenyl)methyl]phenol,metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0000266,4-[(4-hydroxyphenyl)methyl]phenol,mitochondrial fission,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0005757,4-[(4-hydroxyphenyl)methyl]phenol,mitochondrial permeability transition pore complex,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0005739,4-[(4-hydroxyphenyl)methyl]phenol,mitochondrion,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1903047,4-[(4-hydroxyphenyl)methyl]phenol,mitotic cell cycle process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0000084,4-[(4-hydroxyphenyl)methyl]phenol,mitotic S phase,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1903283,4-[(4-hydroxyphenyl)methyl]phenol,negative regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1901726,4-[(4-hydroxyphenyl)methyl]phenol,negative regulation of histone deacetylase activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1901670,4-[(4-hydroxyphenyl)methyl]phenol,negative regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1990138,4-[(4-hydroxyphenyl)methyl]phenol,neuron projection extension,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0043065,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0010942,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0045931,4-[(4-hydroxyphenyl)methyl]phenol,positive regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0018158,4-[(4-hydroxyphenyl)methyl]phenol,protein oxidation,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0004722,4-[(4-hydroxyphenyl)methyl]phenol,protein serine/threonine phosphatase activity,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006626,4-[(4-hydroxyphenyl)methyl]phenol,protein targeting to mitochondrion,association,Exposure,GO,ctd,1
+EX:E000011447,GO:1903409,4-[(4-hydroxyphenyl)methyl]phenol,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0072593,4-[(4-hydroxyphenyl)methyl]phenol,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009070,4-[(4-hydroxyphenyl)methyl]phenol,serine family amino acid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0034063,4-[(4-hydroxyphenyl)methyl]phenol,stress granule assembly,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0061370,4-[(4-hydroxyphenyl)methyl]phenol,testosterone biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009088,4-[(4-hydroxyphenyl)methyl]phenol,threonine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0006571,4-[(4-hydroxyphenyl)methyl]phenol,tyrosine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0009099,4-[(4-hydroxyphenyl)methyl]phenol,valine biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000011447,GO:0044319,4-[(4-hydroxyphenyl)methyl]phenol,"wound healing, spreading of cells",association,Exposure,GO,ctd,1
+EX:E000018334,GO:0044237,3-phenoxybenzoic acid,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000018334,GO:0000086,3-phenoxybenzoic acid,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000018334,GO:0045930,3-phenoxybenzoic acid,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000018334,GO:0033148,3-phenoxybenzoic acid,positive regulation of intracellular estrogen receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000018334,GO:2000614,3-phenoxybenzoic acid,positive regulation of thyroid-stimulating hormone secretion,association,Exposure,GO,ctd,1
+EX:E000018334,GO:0072593,3-phenoxybenzoic acid,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0006974,pyren-1-ol,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0050890,pyren-1-ol,cognition,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0003006,pyren-1-ol,developmental process involved in reproduction,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0006306,pyren-1-ol,DNA methylation,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0010467,pyren-1-ol,gene expression,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0032125,pyren-1-ol,micronucleus organization,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0044030,pyren-1-ol,regulation of DNA methylation,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0006141,pyren-1-ol,regulation of purine nucleobase metabolic process,association,Exposure,GO,ctd,1
+EX:E000020066,GO:0003016,pyren-1-ol,respiratory system process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0008291,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",acetylcholine metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0006919,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",activation of cysteine-type endopeptidase activity involved in apoptotic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0070509,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",calcium ion import,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0008219,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",cell death,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0008283,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0044237,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0019695,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",choline metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0046655,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",folic acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0006536,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",glutamate metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0034275,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",kynurenic acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0006089,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",lactate metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0010942,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0008284,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0046498,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",S-adenosylhomocysteine metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0046500,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",S-adenosylmethionine metabolic process,association,Exposure,GO,ctd,1
+EX:E000020455,GO:0006568,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",tryptophan metabolic process,association,Exposure,GO,ctd,1
+EX:E000021564,GO:0048589,"3,5,6-trichloro-1H-pyridin-2-one",developmental growth,association,Exposure,GO,ctd,1
+EX:E000021564,GO:0030317,"3,5,6-trichloro-1H-pyridin-2-one",flagellated sperm motility,association,Exposure,GO,ctd,1
+EX:E000021564,GO:0007283,"3,5,6-trichloro-1H-pyridin-2-one",spermatogenesis,association,Exposure,GO,ctd,1
+EX:E000021564,GO:0006805,"3,5,6-trichloro-1H-pyridin-2-one",xenobiotic metabolic process,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0006915,molybdenum,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0008219,molybdenum,cell death,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0008283,molybdenum,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022407,GO:1901142,molybdenum,insulin metabolic process,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0002260,molybdenum,lymphocyte homeostasis,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0030220,molybdenum,platelet formation,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0043065,molybdenum,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0008217,molybdenum,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E000022407,GO:0006979,molybdenum,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0046083,cadmium,adenine metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0009060,cadmium,aerobic respiration,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004035,cadmium,alkaline phosphatase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006520,cadmium,amino acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0001525,cadmium,angiogenesis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0030263,cadmium,apoptotic chromosome condensation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006309,cadmium,apoptotic DNA fragmentation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006915,cadmium,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0046034,cadmium,ATP metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0044754,cadmium,autolysosome,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0061909,cadmium,autophagosome-lysosome fusion,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006914,cadmium,autophagy,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0097746,cadmium,blood vessel diameter maintenance,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0030282,cadmium,bone mineralization,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0046849,cadmium,bone remodeling,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0045453,cadmium,bone resorption,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0060444,cadmium,branching involved in mammary gland duct morphogenesis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0015691,cadmium,cadmium ion transport,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0055074,cadmium,calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007267,cadmium,cell-cell signaling,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0060326,cadmium,cell chemotaxis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007049,cadmium,cell cycle,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0008219,cadmium,cell death,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0016477,cadmium,cell migration,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0008283,cadmium,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0031589,cadmium,cell-substrate adhesion,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006874,cadmium,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0044237,cadmium,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0034599,cadmium,cellular response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0071461,cadmium,cellular response to redox state,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0033554,cadmium,cellular response to stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006935,cadmium,chemotaxis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0060718,cadmium,chorionic trophoblast cell differentiation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0050890,cadmium,cognition,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004197,cadmium,cysteine-type endopeptidase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0070994,cadmium,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006308,cadmium,DNA catabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006306,cadmium,DNA methylation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0010424,cadmium,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1903561,cadmium,extracellular vesicle,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0045444,cadmium,fat cell differentiation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0055089,cadmium,fatty acid homeostasis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006631,cadmium,fatty acid metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0045023,cadmium,G0 to G1 transition,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0000086,cadmium,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0010467,cadmium,gene expression,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0003094,cadmium,glomerular filtration,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0042593,cadmium,glucose homeostasis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0046323,cadmium,glucose import,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006006,cadmium,glucose metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006750,cadmium,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006749,cadmium,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004602,cadmium,glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004364,cadmium,glutathione transferase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006096,cadmium,glycolytic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0061007,cadmium,hepaticobiliary system process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0034720,cadmium,histone H3-K4 demethylation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0080182,cadmium,histone H3-K4 trimethylation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0036123,cadmium,histone H3-K9 dimethylation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0048874,cadmium,host-mediated regulation of intestinal microbiota composition,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006954,cadmium,inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1901142,cadmium,insulin metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004705,cadmium,JUN kinase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006089,cadmium,lactate metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007611,cadmium,learning or memory,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0016042,cadmium,lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0140042,cadmium,lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007042,cadmium,lysosomal lumen acidification,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0035752,cadmium,lysosomal lumen pH elevation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0002174,cadmium,mammary stem cell proliferation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0097502,cadmium,mannosylation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004707,cadmium,MAP kinase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0046466,cadmium,membrane lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0055065,cadmium,metal ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0030001,cadmium,metal ion transport,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0042775,cadmium,mitochondrial ATP synthesis coupled electron transport,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0051882,cadmium,mitochondrial depolarization,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007005,cadmium,mitochondrion organization,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0000423,cadmium,mitophagy,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0000278,cadmium,mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1903047,cadmium,mitotic cell cycle process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0000084,cadmium,mitotic S phase,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006812,cadmium,monoatomic cation transport,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0070265,cadmium,necrotic cell death,association,Exposure,GO,ctd,1
+EX:E000022444,GO:2000726,cadmium,negative regulation of cardiac muscle cell differentiation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1902552,cadmium,negative regulation of catalase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1901318,cadmium,negative regulation of flagellated sperm motility,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0003105,cadmium,negative regulation of glomerular filtration,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0045930,cadmium,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1901670,cadmium,negative regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0009116,cadmium,nucleoside metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0009117,cadmium,nucleotide metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006997,cadmium,nucleus organization,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006490,cadmium,oligosaccharide-lipid intermediate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0001503,cadmium,ossification,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0001649,cadmium,osteoblast differentiation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006119,cadmium,oxidative phosphorylation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006644,cadmium,phospholipid metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0030220,cadmium,platelet formation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0043065,cadmium,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0010508,cadmium,positive regulation of autophagy,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0010942,cadmium,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1900409,cadmium,positive regulation of cellular response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0050679,cadmium,positive regulation of epithelial cell proliferation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0070374,cadmium,positive regulation of ERK1 and ERK2 cascade,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0003104,cadmium,positive regulation of glomerular filtration,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0046330,cadmium,positive regulation of JNK cascade,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0010940,cadmium,positive regulation of necrotic cell death,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0043525,cadmium,positive regulation of neuron apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1901216,cadmium,positive regulation of neuron death,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1900745,cadmium,positive regulation of p38MAPK cascade,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1903428,cadmium,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1901671,cadmium,positive regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0032760,cadmium,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006497,cadmium,protein lipidation,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1903409,cadmium,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0072593,cadmium,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0008217,cadmium,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0044062,cadmium,regulation of excretion,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006349,cadmium,regulation of gene expression by genomic imprinting,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1902071,cadmium,regulation of hypoxia-inducible factor-1alpha signaling pathway,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0051881,cadmium,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000022444,GO:1902882,cadmium,regulation of response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0017015,cadmium,regulation of transforming growth factor beta receptor signaling pathway,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0032680,cadmium,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0001836,cadmium,release of cytochrome c from mitochondria,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0097205,cadmium,renal filtration,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0003014,cadmium,renal system process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0010288,cadmium,response to lead ion,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006979,cadmium,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006950,cadmium,response to stress,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007183,cadmium,SMAD protein complex assembly,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007283,cadmium,spermatogenesis,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0004784,cadmium,superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0000723,cadmium,telomere maintenance,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0006641,cadmium,triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007033,cadmium,vacuole organization,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0007601,cadmium,visual perception,association,Exposure,GO,ctd,1
+EX:E000022444,GO:0044319,cadmium,"wound healing, spreading of cells",association,Exposure,GO,ctd,1
+EX:E000022444,GO:0055069,cadmium,,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0032148,copper,activation of protein kinase B activity,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0001525,copper,angiogenesis,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006915,copper,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0072378,copper,"blood coagulation, fibrin clot formation",association,Exposure,GO,ctd,1
+EX:E000022448,GO:0098703,copper,calcium ion import across plasma membrane,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0008219,copper,cell death,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0016477,copper,cell migration,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0008283,copper,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0045454,copper,cell redox homeostasis,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0044237,copper,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006974,copper,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0033554,copper,cellular response to stress,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0042632,copper,cholesterol homeostasis,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0055070,copper,copper ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0046697,copper,decidualization,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0070994,copper,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0008210,copper,estrogen metabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0035937,copper,estrogen secretion,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006954,copper,inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0098771,copper,inorganic ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006629,copper,lipid metabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0034439,copper,lipoprotein lipid oxidation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0007040,copper,lysosome organization,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0097502,copper,mannosylation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0042438,copper,melanin biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0046466,copper,membrane lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0033617,copper,mitochondrial cytochrome c oxidase assembly,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006123,copper,"mitochondrial electron transport, cytochrome c to oxygen",association,Exposure,GO,ctd,1
+EX:E000022448,GO:0008285,copper,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0043392,copper,negative regulation of DNA binding,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0070373,copper,negative regulation of ERK1 and ERK2 cascade,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0045930,copper,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0051354,copper,negative regulation of oxidoreductase activity,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1900181,copper,negative regulation of protein localization to nucleus,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1901670,copper,negative regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006490,copper,oligosaccharide-lipid intermediate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0030168,copper,platelet activation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0030220,copper,platelet formation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1902512,copper,positive regulation of apoptotic DNA fragmentation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0043065,copper,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0010508,copper,positive regulation of autophagy,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0010942,copper,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0008284,copper,positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0070374,copper,positive regulation of ERK1 and ERK2 cascade,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0046330,copper,positive regulation of JNK cascade,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0048023,copper,positive regulation of melanin biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1902565,copper,positive regulation of neutrophil activation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1900745,copper,positive regulation of p38MAPK cascade,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0010572,copper,positive regulation of platelet activation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0031398,copper,positive regulation of protein ubiquitination,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1903428,copper,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:2000379,copper,positive regulation of reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0032930,copper,positive regulation of superoxide anion generation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:2000409,copper,positive regulation of T cell extravasation,association,Exposure,GO,ctd,1
+EX:E000022448,GO:2000679,copper,positive regulation of transcription regulatory region DNA binding,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0032760,copper,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0042448,copper,progesterone metabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0042701,copper,progesterone secretion,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0031143,copper,pseudopodium,association,Exposure,GO,ctd,1
+EX:E000022448,GO:1903409,copper,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0072593,copper,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0008217,copper,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0051726,copper,regulation of cell cycle,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0032680,copper,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0003016,copper,respiratory system process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006979,copper,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0006950,copper,response to stress,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0061370,copper,testosterone biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0035936,copper,testosterone secretion,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0070328,copper,triglyceride homeostasis,association,Exposure,GO,ctd,1
+EX:E000022448,GO:0044319,copper,"wound healing, spreading of cells",association,Exposure,GO,ctd,1
+EX:E000022460,GO:0006954,vanadium,inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022460,GO:0008152,vanadium,metabolic process,association,Exposure,GO,ctd,1
+EX:E000022460,GO:0032310,vanadium,prostaglandin secretion,association,Exposure,GO,ctd,1
+EX:E000022460,GO:0006979,vanadium,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0003994,zinc,aconitate hydratase activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006309,zinc,apoptotic DNA fragmentation,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006915,zinc,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006754,zinc,ATP biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0008219,zinc,cell death,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0008283,zinc,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006874,zinc,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0033554,zinc,cellular response to stress,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006882,zinc,intracellular zinc ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0004129,zinc,cytochrome-c oxidase activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0002534,zinc,cytokine production involved in inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0070994,zinc,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0000086,zinc,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0042593,zinc,glucose homeostasis,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006006,zinc,glucose metabolic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006750,zinc,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0007249,zinc,I-kappaB kinase/NF-kappaB signaling,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006955,zinc,immune response,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006954,zinc,inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022464,GO:1901142,zinc,insulin metabolic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0004449,zinc,isocitrate dehydrogenase (NAD+) activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0004450,zinc,isocitrate dehydrogenase (NADP+) activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0016042,zinc,lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0002260,zinc,lymphocyte homeostasis,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0097502,zinc,mannosylation,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0042438,zinc,melanin biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0055065,zinc,metal ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022464,GO:1903047,zinc,mitotic cell cycle process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0003105,zinc,negative regulation of glomerular filtration,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006490,zinc,oligosaccharide-lipid intermediate biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0010942,zinc,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000022464,GO:1903284,zinc,positive regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0032731,zinc,positive regulation of interleukin-1 beta production,association,Exposure,GO,ctd,1
+EX:E000022464,GO:1904146,zinc,positive regulation of meiotic cell cycle process involved in oocyte maturation,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0032760,zinc,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0018158,zinc,protein oxidation,association,Exposure,GO,ctd,1
+EX:E000022464,GO:1903409,zinc,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0008217,zinc,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0040014,zinc,regulation of multicellular organism growth,association,Exposure,GO,ctd,1
+EX:E000022464,GO:1901668,zinc,regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0032680,zinc,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006979,zinc,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006950,zinc,response to stress,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0000104,zinc,succinate dehydrogenase activity,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0000723,zinc,telomere maintenance,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0070328,zinc,triglyceride homeostasis,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0070914,zinc,UV-damage excision repair,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0055069,zinc,,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0071578,zinc,zinc ion import across plasma membrane,association,Exposure,GO,ctd,1
+EX:E000022464,GO:0006829,zinc,zinc ion transport,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0006915,methyl N-(1H-benzimidazol-2-yl)carbamate,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0008283,methyl N-(1H-benzimidazol-2-yl)carbamate,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0044237,methyl N-(1H-benzimidazol-2-yl)carbamate,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0070994,methyl N-(1H-benzimidazol-2-yl)carbamate,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0022900,methyl N-(1H-benzimidazol-2-yl)carbamate,electron transport chain,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0045023,methyl N-(1H-benzimidazol-2-yl)carbamate,G0 to G1 transition,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0000086,methyl N-(1H-benzimidazol-2-yl)carbamate,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0010972,methyl N-(1H-benzimidazol-2-yl)carbamate,negative regulation of G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0045930,methyl N-(1H-benzimidazol-2-yl)carbamate,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0043065,methyl N-(1H-benzimidazol-2-yl)carbamate,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0010942,methyl N-(1H-benzimidazol-2-yl)carbamate,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000023751,GO:0045931,methyl N-(1H-benzimidazol-2-yl)carbamate,positive regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E000023751,GO:1901165,methyl N-(1H-benzimidazol-2-yl)carbamate,positive regulation of trophoblast cell migration,association,Exposure,GO,ctd,1
+EX:E000023751,GO:1903409,methyl N-(1H-benzimidazol-2-yl)carbamate,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000068871,GO:0008203,9H-fluoren-2-ol,cholesterol metabolic process,association,Exposure,GO,ctd,1
+EX:E000068871,GO:0010467,9H-fluoren-2-ol,gene expression,association,Exposure,GO,ctd,1
+EX:E000068871,GO:0032125,9H-fluoren-2-ol,micronucleus organization,association,Exposure,GO,ctd,1
+EX:E000068871,GO:0003016,9H-fluoren-2-ol,respiratory system process,association,Exposure,GO,ctd,1
+EX:E000090236,GO:0010467,phenanthren-1-ol,gene expression,association,Exposure,GO,ctd,1
+EX:E000090236,GO:0003016,phenanthren-1-ol,respiratory system process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0008219,cobalt,cell death,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0008283,cobalt,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0044237,cobalt,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0055068,cobalt,cobalt ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0042593,cobalt,glucose homeostasis,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0006750,cobalt,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0016042,cobalt,lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0008152,cobalt,metabolic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0030001,cobalt,metal ion transport,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0008285,cobalt,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0010917,cobalt,negative regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0030220,cobalt,platelet formation,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0043065,cobalt,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0010942,cobalt,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0045919,cobalt,positive regulation of cytolysis,association,Exposure,GO,ctd,1
+EX:E000096046,GO:2000510,cobalt,positive regulation of dendritic cell chemotaxis,association,Exposure,GO,ctd,1
+EX:E000096046,GO:1903284,cobalt,positive regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E000096046,GO:1903428,cobalt,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:1901671,cobalt,positive regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0032760,cobalt,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000096046,GO:1903409,cobalt,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0072593,cobalt,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0051881,cobalt,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0032680,cobalt,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E000096046,GO:0006979,cobalt,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000105427,GO:0019722,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",calcium-mediated signaling,association,Exposure,GO,ctd,1
+EX:E000105427,GO:0006874,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000105427,GO:0140042,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E000105427,GO:1903428,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000105427,GO:0019432,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",triglyceride biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000105427,GO:0006641,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0019722,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,calcium-mediated signaling,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0045454,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,cell redox homeostasis,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0006874,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0004364,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,glutathione transferase activity,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0034440,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,lipid oxidation,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0051899,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,membrane depolarization,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0008285,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000191299,GO:1901670,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,negative regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0051348,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,negative regulation of transferase activity,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0043065,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0007204,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,positive regulation of cytosolic calcium ion concentration,association,Exposure,GO,ctd,1
+EX:E000191299,GO:1903428,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000191299,GO:0018158,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,protein oxidation,association,Exposure,GO,ctd,1
+EX:E000538902,GO:0044237,4-[1-(4-hydroxyphenyl)ethyl]phenol,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000538902,GO:0140042,4-[1-(4-hydroxyphenyl)ethyl]phenol,lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E000538902,GO:0008285,4-[1-(4-hydroxyphenyl)ethyl]phenol,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000538902,GO:1990138,4-[1-(4-hydroxyphenyl)ethyl]phenol,neuron projection extension,association,Exposure,GO,ctd,1
+EX:E002558306,GO:0006308,"(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",DNA catabolic process,association,Exposure,GO,ctd,1
+EX:E002558306,GO:0032125,"(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",micronucleus organization,association,Exposure,GO,ctd,1
+EX:E002558306,GO:0140591,"(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",nuclear envelope budding,association,Exposure,GO,ctd,1
+EX:E002558306,GO:0072593,"(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E002558306,GO:0004784,"(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006919,lead,activation of cysteine-type endopeptidase activity involved in apoptotic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0034199,lead,activation of protein kinase A activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1990051,lead,activation of protein kinase C activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0009060,lead,aerobic respiration,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002118,lead,aggressive behavior,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0009308,lead,amine metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006915,lead,apoptotic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006754,lead,ATP biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007610,lead,behavior,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0060348,lead,bone development,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007420,lead,brain development,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0036444,lead,calcium import into the mitochondrion,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1990079,lead,cartilage homeostasis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002301,lead,"CD4-positive, alpha-beta intraepithelial T cell differentiation",association,Exposure,GO,ctd,1
+EX:E004811303,GO:0043374,lead,"CD8-positive, alpha-beta T cell differentiation",association,Exposure,GO,ctd,1
+EX:E004811303,GO:0008219,lead,cell death,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0008283,lead,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006874,lead,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0044237,lead,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0071461,lead,cellular response to redox state,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0019695,lead,choline metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0050890,lead,cognition,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0034650,lead,cortisol metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004111,lead,creatine kinase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006600,lead,creatine metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046449,lead,creatinine metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002534,lead,cytokine production involved in inflammatory response,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046697,lead,decidualization,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0050974,lead,detection of mechanical stimulus involved in sensory perception,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0070994,lead,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003006,lead,developmental process involved in reproduction,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006306,lead,DNA methylation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0043046,lead,DNA methylation involved in gamete generation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0010424,lead,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006281,lead,DNA repair,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0034101,lead,erythrocyte homeostasis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1903561,lead,extracellular vesicle,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003094,lead,glomerular filtration,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046323,lead,glucose import,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006006,lead,glucose metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006750,lead,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006749,lead,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004602,lead,glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004364,lead,glutathione transferase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0060322,lead,head development,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0060047,lead,heart contraction,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0042541,lead,hemoglobin biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0050667,lead,homocysteine metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0048874,lead,host-mediated regulation of intestinal microbiota composition,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006959,lead,humoral immune response,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0050665,lead,hydrogen peroxide biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002377,lead,immunoglobulin production,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0098771,lead,inorganic ion homeostasis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006020,lead,inositol metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0032616,lead,interleukin-13 production,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004021,lead,L-alanine:2-oxoglutarate aminotransferase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004069,lead,L-aspartate:2-oxoglutarate aminotransferase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0015692,lead,lead ion transport,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0001776,lead,leukocyte homeostasis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0016042,lead,lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006629,lead,lipid metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0034440,lead,lipid oxidation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002449,lead,lymphocyte mediated immunity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046466,lead,membrane lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007613,lead,memory,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0042697,lead,menopause,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0008152,lead,metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0055065,lead,metal ion homeostasis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0030001,lead,metal ion transport,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0042775,lead,mitochondrial ATP synthesis coupled electron transport,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0032042,lead,mitochondrial DNA metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006264,lead,mitochondrial DNA replication,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0000266,lead,mitochondrial fission,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0005757,lead,mitochondrial permeability transition pore complex,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007005,lead,mitochondrion organization,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0033555,lead,multicellular organismal response to stress,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1902552,lead,negative regulation of catalase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0031324,lead,negative regulation of cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1901318,lead,negative regulation of flagellated sperm motility,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1905457,lead,negative regulation of lymphoid progenitor cell differentiation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0045930,lead,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1903427,lead,negative regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1901670,lead,negative regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0030182,lead,neuron differentiation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007009,lead,plasma membrane organization,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0017121,lead,plasma membrane phospholipid scrambling,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0030220,lead,platelet formation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0045780,lead,positive regulation of bone resorption,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0010942,lead,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0045919,lead,positive regulation of cytolysis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0034108,lead,positive regulation of erythrocyte clearance,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003104,lead,positive regulation of glomerular filtration,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0040018,lead,positive regulation of multicellular organism growth,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0048714,lead,positive regulation of oligodendrocyte differentiation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0050766,lead,positive regulation of phagocytosis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0061092,lead,positive regulation of phospholipid translocation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1903428,lead,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1901671,lead,positive regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003084,lead,positive regulation of systemic arterial blood pressure,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0032760,lead,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004697,lead,protein kinase C activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0018158,lead,protein oxidation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046501,lead,protoporphyrinogen IX metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0005391,lead,P-type sodium:potassium-exchanging transporter activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1903409,lead,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0072593,lead,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1902003,lead,regulation of amyloid-beta formation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0008217,lead,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046850,lead,regulation of bone remodeling,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0051462,lead,regulation of cortisol secretion,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0044030,lead,regulation of DNA methylation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0044062,lead,regulation of excretion,association,Exposure,GO,ctd,1
+EX:E004811303,GO:2000653,lead,regulation of genetic imprinting,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003093,lead,regulation of glomerular filtration,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002027,lead,regulation of heart rate,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002923,lead,regulation of humoral immune response mediated by circulating immunoglobulin,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0051881,lead,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0040014,lead,regulation of multicellular organism growth,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0002761,lead,regulation of myeloid leukocyte differentiation,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0098801,lead,regulation of renal system process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:1902882,lead,regulation of response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003073,lead,regulation of systemic arterial blood pressure,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0032680,lead,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0001836,lead,release of cytochrome c from mitochondria,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0097205,lead,renal filtration,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0003014,lead,renal system process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0010996,lead,response to auditory stimulus,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0010288,lead,response to lead ion,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0006979,lead,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0051775,lead,response to redox state,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007605,lead,sensory perception of sound,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0035176,lead,social behavior,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007283,lead,spermatogenesis,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0004784,lead,superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0046415,lead,urate metabolic process,association,Exposure,GO,ctd,1
+EX:E004811303,GO:0007601,lead,visual perception,association,Exposure,GO,ctd,1
+EX:E004815779,GO:0003006,strontium,developmental process involved in reproduction,association,Exposure,GO,ctd,1
+EX:E004815779,GO:0030001,strontium,metal ion transport,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0004035,arsenic,alkaline phosphatase activity,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1901605,arsenic,alpha-amino acid metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006915,arsenic,apoptotic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0046034,arsenic,ATP metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000045,arsenic,autophagosome assembly,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006914,arsenic,autophagy,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0007610,arsenic,behavior,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0001568,arsenic,blood vessel development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0060348,arsenic,bone development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0004198,arsenic,calcium-dependent cysteine-type endopeptidase activity,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043373,arsenic,"CD4-positive, alpha-beta T cell lineage commitment",association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043374,arsenic,"CD8-positive, alpha-beta T cell differentiation",association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043375,arsenic,"CD8-positive, alpha-beta T cell lineage commitment",association,Exposure,GO,ctd,1
+EX:E004815849,GO:0098609,arsenic,cell-cell adhesion,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0099156,arsenic,cell-cell signaling via exosome,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0060326,arsenic,cell chemotaxis,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008219,arsenic,cell death,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0016049,arsenic,cell growth,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008283,arsenic,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0045454,arsenic,cell redox homeostasis,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044237,arsenic,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0071243,arsenic,cellular response to arsenic-containing substance,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006974,arsenic,cellular response to DNA damage stimulus,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0034599,arsenic,cellular response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0050890,arsenic,cognition,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0004197,arsenic,cysteine-type endopeptidase activity,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0002534,arsenic,cytokine production involved in inflammatory response,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0070994,arsenic,detection of oxidative stress,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0071722,arsenic,detoxification of arsenic-containing substance,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0071897,arsenic,DNA biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006308,arsenic,DNA catabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044026,arsenic,DNA hypermethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044028,arsenic,DNA hypomethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006306,arsenic,DNA methylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043045,arsenic,DNA methylation involved in embryo development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010424,arsenic,DNA methylation on cytosine within a CG sequence,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006304,arsenic,DNA modification,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006281,arsenic,DNA repair,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0001837,arsenic,epithelial to mesenchymal transition,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0030218,arsenic,erythrocyte differentiation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1903561,arsenic,extracellular vesicle,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0045023,arsenic,G0 to G1 transition,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000086,arsenic,G2/M transition of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010467,arsenic,gene expression,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0003094,arsenic,glomerular filtration,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0042593,arsenic,glucose homeostasis,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0046323,arsenic,glucose import,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006006,arsenic,glucose metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006750,arsenic,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006749,arsenic,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006071,arsenic,glycerol metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006544,arsenic,glycine metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0060322,arsenic,head development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043971,arsenic,histone H3-K18 acetylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0097676,arsenic,histone H3-K36 dimethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0097198,arsenic,histone H3-K36 trimethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044648,arsenic,histone H3-K4 dimethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0036123,arsenic,histone H3-K9 dimethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0002455,arsenic,humoral immune response mediated by circulating immunoglobulin,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044027,arsenic,negative regulation of gene expression via CpG island methylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0002381,arsenic,immunoglobulin production involved in immunoglobulin-mediated immune response,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0045087,arsenic,innate immune response,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0035773,arsenic,insulin secretion involved in cellular response to glucose stimulus,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032611,arsenic,interleukin-1 beta production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032636,arsenic,interleukin-7 production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0051452,arsenic,intracellular pH reduction,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006089,arsenic,lactate metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0019852,arsenic,L-ascorbic acid metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0016042,arsenic,lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0140042,arsenic,lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0070577,arsenic,lysine-acetylated histone binding,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0072660,arsenic,maintenance of protein location in plasma membrane,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1990773,arsenic,matrix metallopeptidase secretion,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0035855,arsenic,megakaryocyte development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0007613,arsenic,memory,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008152,arsenic,metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032259,arsenic,methylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0051882,arsenic,mitochondrial depolarization,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032042,arsenic,mitochondrial DNA metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000278,arsenic,mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1903047,arsenic,mitotic cell cycle process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000080,arsenic,mitotic G1 phase,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000084,arsenic,mitotic S phase,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0009299,arsenic,mRNA transcription,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0046007,arsenic,negative regulation of activated T cell proliferation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010507,arsenic,negative regulation of autophagy,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0070885,arsenic,negative regulation of calcineurin-NFAT signaling cascade,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0045930,arsenic,negative regulation of mitotic cell cycle,association,Exposure,GO,ctd,1
+EX:E004815849,GO:2000555,arsenic,negative regulation of T-helper 1 cell cytokine production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0007567,arsenic,parturition,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0018119,arsenic,peptidyl-cysteine S-nitrosylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043473,arsenic,pigmentation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0001890,arsenic,placenta development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0030220,arsenic,platelet formation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043065,arsenic,positive regulation of apoptotic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010508,arsenic,positive regulation of autophagy,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010942,arsenic,positive regulation of cell death,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0030335,arsenic,positive regulation of cell migration,association,Exposure,GO,ctd,1
+EX:E004815849,GO:2000147,arsenic,positive regulation of cell motility,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008284,arsenic,positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0001819,arsenic,positive regulation of cytokine production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0045739,arsenic,positive regulation of DNA repair,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010718,arsenic,positive regulation of epithelial to mesenchymal transition,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1903543,arsenic,positive regulation of exosomal secretion,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0003104,arsenic,positive regulation of glomerular filtration,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0071442,arsenic,positive regulation of histone H3-K14 acetylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:2001255,arsenic,positive regulation of histone H3-K36 trimethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:2001162,arsenic,positive regulation of histone H3-K79 methylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:2000617,arsenic,positive regulation of histone H3-K9 acetylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1900111,arsenic,positive regulation of histone H3-K9 dimethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0050729,arsenic,positive regulation of inflammatory response,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0051897,arsenic,positive regulation of protein kinase B signaling,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1904358,arsenic,positive regulation of telomere maintenance via telomere lengthening,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1904263,arsenic,positive regulation of TORC1 signaling,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032760,arsenic,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032729,arsenic,positive regulation of type II interferon production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006606,arsenic,protein import into nucleus,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006497,arsenic,protein lipidation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0072593,arsenic,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000381,arsenic,"regulation of alternative mRNA splicing, via spliceosome",association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008217,arsenic,regulation of blood pressure,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0090181,arsenic,regulation of cholesterol metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0051480,arsenic,regulation of cytosolic calcium ion concentration,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044030,arsenic,regulation of DNA methylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006355,arsenic,regulation of DNA-templated transcription,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010468,arsenic,regulation of gene expression,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008016,arsenic,regulation of heart contraction,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0002027,arsenic,regulation of heart rate,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032350,arsenic,regulation of hormone metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0002923,arsenic,regulation of humoral immune response mediated by circulating immunoglobulin,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0051881,arsenic,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0003073,arsenic,regulation of systemic arterial blood pressure,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1904356,arsenic,regulation of telomere maintenance via telomere lengthening,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006417,arsenic,regulation of translation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0090207,arsenic,regulation of triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0032680,arsenic,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0060307,arsenic,regulation of ventricular cardiac muscle cell membrane repolarization,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0046685,arsenic,response to arsenic-containing substance,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0033590,arsenic,response to cobalamin,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0051593,arsenic,response to folic acid,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006979,arsenic,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E004815849,GO:1901052,arsenic,sarcosine metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0001887,arsenic,selenium compound metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0002681,arsenic,somatic recombination of T cell receptor gene segments,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0007283,arsenic,spermatogenesis,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0048864,arsenic,stem cell development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0048866,arsenic,stem cell fate specification,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0004784,arsenic,superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0019530,arsenic,taurine metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0000723,arsenic,telomere maintenance,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0010833,arsenic,telomere maintenance via telomere lengthening,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0048538,arsenic,thymus development,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008483,arsenic,transaminase activity,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006099,arsenic,tricarboxylic acid cycle,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006641,arsenic,triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0033209,arsenic,tumor necrosis factor-mediated signaling pathway,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0046108,arsenic,uridine metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0035459,arsenic,vesicle cargo loading,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044319,arsenic,"wound healing, spreading of cells",association,Exposure,GO,ctd,1
+EX:E004815849,GO:0046618,arsenic,xenobiotic export from cell,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0006805,arsenic,xenobiotic metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0008270,arsenic,zinc ion binding,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0034650,arsenic,cortisol metabolic process,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0043982,arsenic,histone H4-K8 acetylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0044029,arsenic,positive regulation of gene expression via CpG island demethylation,association,Exposure,GO,ctd,1
+EX:E004815849,GO:0045944,arsenic,positive regulation of transcription by RNA polymerase II,association,Exposure,GO,ctd,1
+EX:E004815849,GO:2001057,arsenic,reactive nitrogen species metabolic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0030262,selenium,apoptotic nuclear changes,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0006915,selenium,apoptotic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0044237,selenium,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0071243,selenium,cellular response to arsenic-containing substance,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0042632,selenium,cholesterol homeostasis,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0006306,selenium,DNA methylation,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0010467,selenium,gene expression,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0006006,selenium,glucose metabolic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0031507,selenium,heterochromatin formation,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0048874,selenium,host-mediated regulation of intestinal microbiota composition,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0071743,selenium,"IgE immunoglobulin complex, circulating",association,Exposure,GO,ctd,1
+EX:E005270968,GO:0002381,selenium,immunoglobulin production involved in immunoglobulin-mediated immune response,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0098771,selenium,inorganic ion homeostasis,association,Exposure,GO,ctd,1
+EX:E005270968,GO:1901142,selenium,insulin metabolic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0008285,selenium,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0043553,selenium,negative regulation of phosphatidylinositol 3-kinase activity,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0051898,selenium,negative regulation of protein kinase B signaling,association,Exposure,GO,ctd,1
+EX:E005270968,GO:1903284,selenium,positive regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0046330,selenium,positive regulation of JNK cascade,association,Exposure,GO,ctd,1
+EX:E005270968,GO:1904146,selenium,positive regulation of meiotic cell cycle process involved in oocyte maturation,association,Exposure,GO,ctd,1
+EX:E005270968,GO:1903428,selenium,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0032760,selenium,positive regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0006937,selenium,regulation of muscle contraction,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0032680,selenium,regulation of tumor necrosis factor production,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0003014,selenium,renal system process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0001887,selenium,selenium compound metabolic process,association,Exposure,GO,ctd,1
+EX:E005270968,GO:0070328,selenium,triglyceride homeostasis,association,Exposure,GO,ctd,1
+EX:E008578608,GO:0007204,"1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-amine",positive regulation of cytosolic calcium ion concentration,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0006309,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",apoptotic DNA fragmentation,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0006915,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",apoptotic process,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0008219,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",cell death,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0044154,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",histone H3-K14 acetylation,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0098532,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",histone H3-K27 trimethylation,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0043970,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",histone H3-K9 acetylation,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0008610,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",lipid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0019227,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",neuronal action potential propagation,association,Exposure,GO,ctd,1
+EX:E028245645,GO:0031175,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",neuron projection development,association,Exposure,GO,ctd,1
+EX:E028245645,GO:1903608,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",protein localization to cytoplasmic stress granule,association,Exposure,GO,ctd,1
+EX:E028250140,GO:0008610,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",lipid biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028250140,GO:0030182,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",neuron differentiation,association,Exposure,GO,ctd,1
+EX:E028250140,GO:2000193,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",positive regulation of fatty acid transport,association,Exposure,GO,ctd,1
+EX:E028250140,GO:0060731,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",positive regulation of intestinal epithelial structure maintenance,association,Exposure,GO,ctd,1
+EX:E028250140,GO:1903409,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028250140,GO:0051881,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E028250141,GO:0016049,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",cell growth,association,Exposure,GO,ctd,1
+EX:E028250141,GO:0071492,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",cellular response to UV-A,association,Exposure,GO,ctd,1
+EX:E028250141,GO:0004602,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E028250141,GO:0042438,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",melanin biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028250141,GO:1903409,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028250141,GO:0004784,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E028250143,GO:0071492,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",cellular response to UV-A,association,Exposure,GO,ctd,1
+EX:E028250143,GO:0008285,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E028250143,GO:1903284,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",positive regulation of glutathione peroxidase activity,association,Exposure,GO,ctd,1
+EX:E028250143,GO:0048023,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",positive regulation of melanin biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028250143,GO:1903428,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E028250143,GO:1901671,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",positive regulation of superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0006915,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,apoptotic process,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0046034,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,ATP metabolic process,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0019722,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,calcium-mediated signaling,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0008283,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0006874,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0044237,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0035937,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,estrogen secretion,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0042445,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,hormone metabolic process,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0004069,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,L-aspartate:2-oxoglutarate aminotransferase activity,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0051882,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,mitochondrial depolarization,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0000281,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,mitotic cytokinesis,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0007204,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,positive regulation of cytosolic calcium ion concentration,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0072593,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E051947117,GO:0019432,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,triglyceride biosynthetic process,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0019722,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",calcium-mediated signaling,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0008283,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",cell population proliferation,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0006874,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",intracellular calcium ion homeostasis,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0044237,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0042445,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",hormone metabolic process,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0140042,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",lipid droplet formation,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0019432,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",triglyceride biosynthetic process,association,Exposure,GO,ctd,1
+EX:E051947118,GO:0006641,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E000078878,GO:0006915,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",apoptotic process,association,Exposure,GO,ctd,1
+EX:E000078878,GO:0044237,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000078878,GO:0070265,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",necrotic cell death,association,Exposure,GO,ctd,1
+EX:E000078878,GO:0072593,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000078878,GO:0051881,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000078878,GO:0006641,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",triglyceride metabolic process,association,Exposure,GO,ctd,1
+EX:E000098621,GO:0042445,"N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",hormone metabolic process,association,Exposure,GO,ctd,1
+EX:E000098621,GO:2000019,"N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",negative regulation of male gonad development,association,Exposure,GO,ctd,1
+EX:E000098621,GO:0040015,"N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",negative regulation of multicellular organism growth,association,Exposure,GO,ctd,1
+EX:E000098621,GO:0006590,"N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",thyroid hormone generation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006915,iron,apoptotic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006914,iron,autophagy,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0008219,iron,cell death,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0008283,iron,cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006879,iron,intracellular iron ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0044237,iron,cellular metabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0008203,iron,cholesterol metabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0002534,iron,cytokine production involved in inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006304,iron,DNA modification,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0038096,iron,Fc-gamma receptor signaling pathway involved in phagocytosis,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0097707,iron,ferroptosis,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006750,iron,glutathione biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006749,iron,glutathione metabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0042168,iron,heme metabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0044648,iron,histone H3-K4 dimethylation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0036123,iron,histone H3-K9 dimethylation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006954,iron,inflammatory response,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0033212,iron,iron import into cell,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0055072,iron,iron ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006826,iron,iron ion transport,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0016042,iron,lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0046466,iron,membrane lipid catabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0055065,iron,metal ion homeostasis,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0051882,iron,mitochondrial depolarization,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0008285,iron,negative regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0010508,iron,positive regulation of autophagy,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0030335,iron,positive regulation of cell migration,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0008284,iron,positive regulation of cell population proliferation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:1903428,iron,positive regulation of reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006606,iron,protein import into nucleus,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006497,iron,protein lipidation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0018158,iron,protein oxidation,association,Exposure,GO,ctd,1
+EX:E000022401,GO:1903409,iron,reactive oxygen species biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0072593,iron,reactive oxygen species metabolic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0070453,iron,regulation of heme biosynthetic process,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0051881,iron,regulation of mitochondrial membrane potential,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0006979,iron,response to oxidative stress,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0051238,iron,sequestering of metal ion,association,Exposure,GO,ctd,1
+EX:E000022401,GO:0004784,iron,superoxide dismutase activity,association,Exposure,GO,ctd,1
+EX:E000075021,GO:0010467,phenanthren-4-ol,gene expression,association,Exposure,GO,ctd,1
+EX:E000075021,GO:0003016,phenanthren-4-ol,respiratory system process,association,Exposure,GO,ctd,1
+GO:0019413,EX:D08131,acetate biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0008291,EX:D08131,acetylcholine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006919,EX:D08131,activation of cysteine-type endopeptidase activity involved in apoptotic process,hypertension,association,GO,Disease,ctd,2
+GO:0008635,EX:D08131,activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c,hypertension,association,GO,Disease,ctd,2
+GO:0034199,EX:D08131,activation of protein kinase A activity,hypertension,association,GO,Disease,ctd,2
+GO:0032148,EX:D08131,activation of protein kinase B activity,hypertension,association,GO,Disease,ctd,2
+GO:1990051,EX:D08131,activation of protein kinase C activity,hypertension,association,GO,Disease,ctd,2
+GO:0046083,EX:D08131,adenine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0007197,EX:D08131,adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0009060,EX:D08131,aerobic respiration,hypertension,association,GO,Disease,ctd,2
+GO:0002118,EX:D08131,aggressive behavior,hypertension,association,GO,Disease,ctd,2
+GO:0006523,EX:D08131,alanine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:1901605,EX:D08131,alpha-amino acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0009308,EX:D08131,amine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0008652,EX:D08131,amino acid biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006520,EX:D08131,amino acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0030521,EX:D08131,androgen receptor signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0001525,EX:D08131,angiogenesis,hypertension,association,GO,Disease,ctd,2
+GO:0043277,EX:D08131,apoptotic cell clearance,hypertension,association,GO,Disease,ctd,2
+GO:0030263,EX:D08131,apoptotic chromosome condensation,hypertension,association,GO,Disease,ctd,2
+GO:0006309,EX:D08131,apoptotic DNA fragmentation,hypertension,association,GO,Disease,ctd,2
+GO:0030262,EX:D08131,apoptotic nuclear changes,hypertension,association,GO,Disease,ctd,2
+GO:0006915,EX:D08131,apoptotic process,hypertension,association,GO,Disease,ctd,2
+GO:0019369,EX:D08131,arachidonic acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0030954,EX:D08131,astral microtubule nucleation,hypertension,association,GO,Disease,ctd,2
+GO:0014002,EX:D08131,astrocyte development,hypertension,association,GO,Disease,ctd,2
+GO:0006754,EX:D08131,ATP biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0046034,EX:D08131,ATP metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0000045,EX:D08131,autophagosome assembly,hypertension,association,GO,Disease,ctd,2
+GO:0061909,EX:D08131,autophagosome-lysosome fusion,hypertension,association,GO,Disease,ctd,2
+GO:0006914,EX:D08131,autophagy,hypertension,association,GO,Disease,ctd,2
+GO:0007610,EX:D08131,behavior,hypertension,association,GO,Disease,ctd,2
+GO:0072378,EX:D08131,"blood coagulation, fibrin clot formation",hypertension,association,GO,Disease,ctd,2
+GO:0001568,EX:D08131,blood vessel development,hypertension,association,GO,Disease,ctd,2
+GO:0097746,EX:D08131,blood vessel diameter maintenance,hypertension,association,GO,Disease,ctd,2
+GO:0060348,EX:D08131,bone development,hypertension,association,GO,Disease,ctd,2
+GO:0030282,EX:D08131,bone mineralization,hypertension,association,GO,Disease,ctd,2
+GO:0046849,EX:D08131,bone remodeling,hypertension,association,GO,Disease,ctd,2
+GO:0045453,EX:D08131,bone resorption,hypertension,association,GO,Disease,ctd,2
+GO:0007420,EX:D08131,brain development,hypertension,association,GO,Disease,ctd,2
+GO:0060444,EX:D08131,branching involved in mammary gland duct morphogenesis,hypertension,association,GO,Disease,ctd,2
+GO:0090116,EX:D08131,C-5 methylation of cytosine,hypertension,association,GO,Disease,ctd,2
+GO:0015691,EX:D08131,cadmium ion transport,hypertension,association,GO,Disease,ctd,2
+GO:0036444,EX:D08131,calcium import into the mitochondrion,hypertension,association,GO,Disease,ctd,2
+GO:0055074,EX:D08131,calcium ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0070509,EX:D08131,calcium ion import,hypertension,association,GO,Disease,ctd,2
+GO:0098703,EX:D08131,calcium ion import across plasma membrane,hypertension,association,GO,Disease,ctd,2
+GO:0019722,EX:D08131,calcium-mediated signaling,hypertension,association,GO,Disease,ctd,2
+GO:0006171,EX:D08131,cAMP biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0046058,EX:D08131,cAMP metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:1990079,EX:D08131,cartilage homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0002301,EX:D08131,"CD4-positive, alpha-beta intraepithelial T cell differentiation",hypertension,association,GO,Disease,ctd,2
+GO:0043373,EX:D08131,"CD4-positive, alpha-beta T cell lineage commitment",hypertension,association,GO,Disease,ctd,2
+GO:0043374,EX:D08131,"CD8-positive, alpha-beta T cell differentiation",hypertension,association,GO,Disease,ctd,2
+GO:0043375,EX:D08131,"CD8-positive, alpha-beta T cell lineage commitment",hypertension,association,GO,Disease,ctd,2
+GO:0098609,EX:D08131,cell-cell adhesion,hypertension,association,GO,Disease,ctd,2
+GO:0140253,EX:D08131,cell-cell fusion,hypertension,association,GO,Disease,ctd,2
+GO:0045217,EX:D08131,cell-cell junction maintenance,hypertension,association,GO,Disease,ctd,2
+GO:0007267,EX:D08131,cell-cell signaling,hypertension,association,GO,Disease,ctd,2
+GO:0099156,EX:D08131,cell-cell signaling via exosome,hypertension,association,GO,Disease,ctd,2
+GO:0060326,EX:D08131,cell chemotaxis,hypertension,association,GO,Disease,ctd,2
+GO:0007049,EX:D08131,cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0008219,EX:D08131,cell death,hypertension,association,GO,Disease,ctd,2
+GO:0016049,EX:D08131,cell growth,hypertension,association,GO,Disease,ctd,2
+GO:0016477,EX:D08131,cell migration,hypertension,association,GO,Disease,ctd,2
+GO:0008283,EX:D08131,cell population proliferation,hypertension,association,GO,Disease,ctd,2
+GO:0045454,EX:D08131,cell redox homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0031589,EX:D08131,cell-substrate adhesion,hypertension,association,GO,Disease,ctd,2
+GO:0006874,EX:D08131,intracellular calcium ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0006879,EX:D08131,intracellular iron ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0044237,EX:D08131,cellular metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0033484,EX:D08131,intracellular nitric oxide homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0071243,EX:D08131,cellular response to arsenic-containing substance,hypertension,association,GO,Disease,ctd,2
+GO:0006974,EX:D08131,cellular response to DNA damage stimulus,hypertension,association,GO,Disease,ctd,2
+GO:0032869,EX:D08131,cellular response to insulin stimulus,hypertension,association,GO,Disease,ctd,2
+GO:0034599,EX:D08131,cellular response to oxidative stress,hypertension,association,GO,Disease,ctd,2
+GO:0071461,EX:D08131,cellular response to redox state,hypertension,association,GO,Disease,ctd,2
+GO:0033554,EX:D08131,cellular response to stress,hypertension,association,GO,Disease,ctd,2
+GO:0071492,EX:D08131,cellular response to UV-A,hypertension,association,GO,Disease,ctd,2
+GO:0071493,EX:D08131,cellular response to UV-B,hypertension,association,GO,Disease,ctd,2
+GO:0006882,EX:D08131,intracellular zinc ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0006935,EX:D08131,chemotaxis,hypertension,association,GO,Disease,ctd,2
+GO:0042632,EX:D08131,cholesterol homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0008203,EX:D08131,cholesterol metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0019695,EX:D08131,choline metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0060718,EX:D08131,chorionic trophoblast cell differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0006338,EX:D08131,chromatin remodeling,hypertension,association,GO,Disease,ctd,2
+GO:0055068,EX:D08131,cobalt ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0050890,EX:D08131,cognition,hypertension,association,GO,Disease,ctd,2
+GO:0055070,EX:D08131,copper ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0034650,EX:D08131,cortisol metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006600,EX:D08131,creatine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0046449,EX:D08131,creatinine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0002534,EX:D08131,cytokine production involved in inflammatory response,hypertension,association,GO,Disease,ctd,2
+GO:0046697,EX:D08131,decidualization,hypertension,association,GO,Disease,ctd,2
+GO:0050974,EX:D08131,detection of mechanical stimulus involved in sensory perception,hypertension,association,GO,Disease,ctd,2
+GO:0070994,EX:D08131,detection of oxidative stress,hypertension,association,GO,Disease,ctd,2
+GO:0071722,EX:D08131,detoxification of arsenic-containing substance,hypertension,association,GO,Disease,ctd,2
+GO:0048589,EX:D08131,developmental growth,hypertension,association,GO,Disease,ctd,2
+GO:0003006,EX:D08131,developmental process involved in reproduction,hypertension,association,GO,Disease,ctd,2
+GO:0071897,EX:D08131,DNA biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006308,EX:D08131,DNA catabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0044026,EX:D08131,DNA hypermethylation,hypertension,association,GO,Disease,ctd,2
+GO:0044028,EX:D08131,DNA hypomethylation,hypertension,association,GO,Disease,ctd,2
+GO:0006306,EX:D08131,DNA methylation,hypertension,association,GO,Disease,ctd,2
+GO:0043045,EX:D08131,DNA methylation involved in embryo development,hypertension,association,GO,Disease,ctd,2
+GO:0043046,EX:D08131,DNA methylation involved in gamete generation,hypertension,association,GO,Disease,ctd,2
+GO:0010424,EX:D08131,DNA methylation on cytosine within a CG sequence,hypertension,association,GO,Disease,ctd,2
+GO:0006304,EX:D08131,DNA modification,hypertension,association,GO,Disease,ctd,2
+GO:0006281,EX:D08131,DNA repair,hypertension,association,GO,Disease,ctd,2
+GO:0022900,EX:D08131,electron transport chain,hypertension,association,GO,Disease,ctd,2
+GO:0007566,EX:D08131,embryo implantation,hypertension,association,GO,Disease,ctd,2
+GO:0098508,EX:D08131,endothelial to hematopoietic transition,hypertension,association,GO,Disease,ctd,2
+GO:0001837,EX:D08131,epithelial to mesenchymal transition,hypertension,association,GO,Disease,ctd,2
+GO:0030218,EX:D08131,erythrocyte differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0034101,EX:D08131,erythrocyte homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0035938,EX:D08131,estradiol secretion,hypertension,association,GO,Disease,ctd,2
+GO:0008210,EX:D08131,estrogen metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0035937,EX:D08131,estrogen secretion,hypertension,association,GO,Disease,ctd,2
+GO:0045444,EX:D08131,fat cell differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0055089,EX:D08131,fatty acid homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0006631,EX:D08131,fatty acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0038096,EX:D08131,Fc-gamma receptor signaling pathway involved in phagocytosis,hypertension,association,GO,Disease,ctd,2
+GO:0097707,EX:D08131,ferroptosis,hypertension,association,GO,Disease,ctd,2
+GO:0030317,EX:D08131,flagellated sperm motility,hypertension,association,GO,Disease,ctd,2
+GO:0046655,EX:D08131,folic acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0045023,EX:D08131,G0 to G1 transition,hypertension,association,GO,Disease,ctd,2
+GO:0000082,EX:D08131,G1/S transition of mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0000086,EX:D08131,G2/M transition of mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0009448,EX:D08131,gamma-aminobutyric acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0010467,EX:D08131,gene expression,hypertension,association,GO,Disease,ctd,2
+GO:0003094,EX:D08131,glomerular filtration,hypertension,association,GO,Disease,ctd,2
+GO:0006094,EX:D08131,gluconeogenesis,hypertension,association,GO,Disease,ctd,2
+GO:0042593,EX:D08131,glucose homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0046323,EX:D08131,glucose import,hypertension,association,GO,Disease,ctd,2
+GO:0098708,EX:D08131,glucose import across plasma membrane,hypertension,association,GO,Disease,ctd,2
+GO:0006006,EX:D08131,glucose metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006537,EX:D08131,glutamate biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006536,EX:D08131,glutamate metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006542,EX:D08131,glutamine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006750,EX:D08131,glutathione biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006749,EX:D08131,glutathione metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006071,EX:D08131,glycerol metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006650,EX:D08131,glycerophospholipid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006545,EX:D08131,glycine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006544,EX:D08131,glycine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006096,EX:D08131,glycolytic process,hypertension,association,GO,Disease,ctd,2
+GO:0060322,EX:D08131,head development,hypertension,association,GO,Disease,ctd,2
+GO:0060047,EX:D08131,heart contraction,hypertension,association,GO,Disease,ctd,2
+GO:0042168,EX:D08131,heme metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0042541,EX:D08131,hemoglobin biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0061007,EX:D08131,hepaticobiliary system process,hypertension,association,GO,Disease,ctd,2
+GO:0031507,EX:D08131,heterochromatin formation,hypertension,association,GO,Disease,ctd,2
+GO:0044154,EX:D08131,histone H3-K14 acetylation,hypertension,association,GO,Disease,ctd,2
+GO:0043971,EX:D08131,histone H3-K18 acetylation,hypertension,association,GO,Disease,ctd,2
+GO:0098532,EX:D08131,histone H3-K27 trimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0097676,EX:D08131,histone H3-K36 dimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0097198,EX:D08131,histone H3-K36 trimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0034720,EX:D08131,histone H3-K4 demethylation,hypertension,association,GO,Disease,ctd,2
+GO:0044648,EX:D08131,histone H3-K4 dimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0080182,EX:D08131,histone H3-K4 trimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0043970,EX:D08131,histone H3-K9 acetylation,hypertension,association,GO,Disease,ctd,2
+GO:0036123,EX:D08131,histone H3-K9 dimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0043982,EX:D08131,histone H4-K8 acetylation,hypertension,association,GO,Disease,ctd,2
+GO:0050667,EX:D08131,homocysteine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0042445,EX:D08131,hormone metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0048874,EX:D08131,host-mediated regulation of intestinal microbiota composition,hypertension,association,GO,Disease,ctd,2
+GO:0006959,EX:D08131,humoral immune response,hypertension,association,GO,Disease,ctd,2
+GO:0002455,EX:D08131,humoral immune response mediated by circulating immunoglobulin,hypertension,association,GO,Disease,ctd,2
+GO:0050665,EX:D08131,hydrogen peroxide biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0042743,EX:D08131,hydrogen peroxide metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0044027,EX:D08131,negative regulation of gene expression via CpG island methylation,hypertension,association,GO,Disease,ctd,2
+GO:0044029,EX:D08131,positive regulation of gene expression via CpG island demethylation,hypertension,association,GO,Disease,ctd,2
+GO:0007249,EX:D08131,I-kappaB kinase/NF-kappaB signaling,hypertension,association,GO,Disease,ctd,2
+GO:0006955,EX:D08131,immune response,hypertension,association,GO,Disease,ctd,2
+GO:0002377,EX:D08131,immunoglobulin production,hypertension,association,GO,Disease,ctd,2
+GO:0002381,EX:D08131,immunoglobulin production involved in immunoglobulin-mediated immune response,hypertension,association,GO,Disease,ctd,2
+GO:0006954,EX:D08131,inflammatory response,hypertension,association,GO,Disease,ctd,2
+GO:0045087,EX:D08131,innate immune response,hypertension,association,GO,Disease,ctd,2
+GO:0098771,EX:D08131,inorganic ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0006020,EX:D08131,inositol metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:1901142,EX:D08131,insulin metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0035773,EX:D08131,insulin secretion involved in cellular response to glucose stimulus,hypertension,association,GO,Disease,ctd,2
+GO:0032616,EX:D08131,interleukin-13 production,hypertension,association,GO,Disease,ctd,2
+GO:0032611,EX:D08131,interleukin-1 beta production,hypertension,association,GO,Disease,ctd,2
+GO:0032636,EX:D08131,interleukin-7 production,hypertension,association,GO,Disease,ctd,2
+GO:0051452,EX:D08131,intracellular pH reduction,hypertension,association,GO,Disease,ctd,2
+GO:0070059,EX:D08131,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,hypertension,association,GO,Disease,ctd,2
+GO:0033212,EX:D08131,iron import into cell,hypertension,association,GO,Disease,ctd,2
+GO:0055072,EX:D08131,iron ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0006826,EX:D08131,iron ion transport,hypertension,association,GO,Disease,ctd,2
+GO:0009097,EX:D08131,isoleucine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0034275,EX:D08131,kynurenic acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006089,EX:D08131,lactate metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0019852,EX:D08131,L-ascorbic acid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0015692,EX:D08131,lead ion transport,hypertension,association,GO,Disease,ctd,2
+GO:0007612,EX:D08131,learning,hypertension,association,GO,Disease,ctd,2
+GO:0007611,EX:D08131,learning or memory,hypertension,association,GO,Disease,ctd,2
+GO:0009098,EX:D08131,leucine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0001776,EX:D08131,leukocyte homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0008610,EX:D08131,lipid biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0016042,EX:D08131,lipid catabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0140042,EX:D08131,lipid droplet formation,hypertension,association,GO,Disease,ctd,2
+GO:0006629,EX:D08131,lipid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0034440,EX:D08131,lipid oxidation,hypertension,association,GO,Disease,ctd,2
+GO:0034439,EX:D08131,lipoprotein lipid oxidation,hypertension,association,GO,Disease,ctd,2
+GO:0009094,EX:D08131,L-phenylalanine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006558,EX:D08131,L-phenylalanine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0002260,EX:D08131,lymphocyte homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0002449,EX:D08131,lymphocyte mediated immunity,hypertension,association,GO,Disease,ctd,2
+GO:0009085,EX:D08131,lysine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006554,EX:D08131,lysine catabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0007042,EX:D08131,lysosomal lumen acidification,hypertension,association,GO,Disease,ctd,2
+GO:0035752,EX:D08131,lysosomal lumen pH elevation,hypertension,association,GO,Disease,ctd,2
+GO:0007040,EX:D08131,lysosome organization,hypertension,association,GO,Disease,ctd,2
+GO:0072660,EX:D08131,maintenance of protein location in plasma membrane,hypertension,association,GO,Disease,ctd,2
+GO:0002174,EX:D08131,mammary stem cell proliferation,hypertension,association,GO,Disease,ctd,2
+GO:0097502,EX:D08131,mannosylation,hypertension,association,GO,Disease,ctd,2
+GO:0000165,EX:D08131,MAPK cascade,hypertension,association,GO,Disease,ctd,2
+GO:1990773,EX:D08131,matrix metallopeptidase secretion,hypertension,association,GO,Disease,ctd,2
+GO:0035855,EX:D08131,megakaryocyte development,hypertension,association,GO,Disease,ctd,2
+GO:0042438,EX:D08131,melanin biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0051899,EX:D08131,membrane depolarization,hypertension,association,GO,Disease,ctd,2
+GO:0046466,EX:D08131,membrane lipid catabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0007613,EX:D08131,memory,hypertension,association,GO,Disease,ctd,2
+GO:0042697,EX:D08131,menopause,hypertension,association,GO,Disease,ctd,2
+GO:0008152,EX:D08131,metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0055065,EX:D08131,metal ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0030001,EX:D08131,metal ion transport,hypertension,association,GO,Disease,ctd,2
+GO:0032259,EX:D08131,methylation,hypertension,association,GO,Disease,ctd,2
+GO:0032125,EX:D08131,micronucleus organization,hypertension,association,GO,Disease,ctd,2
+GO:0034454,EX:D08131,microtubule anchoring at centrosome,hypertension,association,GO,Disease,ctd,2
+GO:0031959,EX:D08131,mineralocorticoid receptor signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0042775,EX:D08131,mitochondrial ATP synthesis coupled electron transport,hypertension,association,GO,Disease,ctd,2
+GO:0051560,EX:D08131,mitochondrial calcium ion homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0033617,EX:D08131,mitochondrial cytochrome c oxidase assembly,hypertension,association,GO,Disease,ctd,2
+GO:0051882,EX:D08131,mitochondrial depolarization,hypertension,association,GO,Disease,ctd,2
+GO:0032042,EX:D08131,mitochondrial DNA metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006264,EX:D08131,mitochondrial DNA replication,hypertension,association,GO,Disease,ctd,2
+GO:0006123,EX:D08131,"mitochondrial electron transport, cytochrome c to oxygen",hypertension,association,GO,Disease,ctd,2
+GO:0000266,EX:D08131,mitochondrial fission,hypertension,association,GO,Disease,ctd,2
+GO:0007005,EX:D08131,mitochondrion organization,hypertension,association,GO,Disease,ctd,2
+GO:0000423,EX:D08131,mitophagy,hypertension,association,GO,Disease,ctd,2
+GO:0000278,EX:D08131,mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:1903047,EX:D08131,mitotic cell cycle process,hypertension,association,GO,Disease,ctd,2
+GO:0000281,EX:D08131,mitotic cytokinesis,hypertension,association,GO,Disease,ctd,2
+GO:0000080,EX:D08131,mitotic G1 phase,hypertension,association,GO,Disease,ctd,2
+GO:0000084,EX:D08131,mitotic S phase,hypertension,association,GO,Disease,ctd,2
+GO:0006812,EX:D08131,monoatomic cation transport,hypertension,association,GO,Disease,ctd,2
+GO:0009299,EX:D08131,mRNA transcription,hypertension,association,GO,Disease,ctd,2
+GO:0033555,EX:D08131,multicellular organismal response to stress,hypertension,association,GO,Disease,ctd,2
+GO:0070266,EX:D08131,necroptotic process,hypertension,association,GO,Disease,ctd,2
+GO:0070265,EX:D08131,necrotic cell death,hypertension,association,GO,Disease,ctd,2
+GO:0046007,EX:D08131,negative regulation of activated T cell proliferation,hypertension,association,GO,Disease,ctd,2
+GO:2001170,EX:D08131,negative regulation of ATP biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0010507,EX:D08131,negative regulation of autophagy,hypertension,association,GO,Disease,ctd,2
+GO:0070885,EX:D08131,negative regulation of calcineurin-NFAT signaling cascade,hypertension,association,GO,Disease,ctd,2
+GO:2000726,EX:D08131,negative regulation of cardiac muscle cell differentiation,hypertension,association,GO,Disease,ctd,2
+GO:1902552,EX:D08131,negative regulation of catalase activity,hypertension,association,GO,Disease,ctd,2
+GO:0008285,EX:D08131,negative regulation of cell population proliferation,hypertension,association,GO,Disease,ctd,2
+GO:0031324,EX:D08131,negative regulation of cellular metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0010826,EX:D08131,negative regulation of centrosome duplication,hypertension,association,GO,Disease,ctd,2
+GO:0043392,EX:D08131,negative regulation of DNA binding,hypertension,association,GO,Disease,ctd,2
+GO:1904339,EX:D08131,negative regulation of dopaminergic neuron differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0070373,EX:D08131,negative regulation of ERK1 and ERK2 cascade,hypertension,association,GO,Disease,ctd,2
+GO:1901318,EX:D08131,negative regulation of flagellated sperm motility,hypertension,association,GO,Disease,ctd,2
+GO:0010972,EX:D08131,negative regulation of G2/M transition of mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0003105,EX:D08131,negative regulation of glomerular filtration,hypertension,association,GO,Disease,ctd,2
+GO:1903283,EX:D08131,negative regulation of glutathione peroxidase activity,hypertension,association,GO,Disease,ctd,2
+GO:1901726,EX:D08131,negative regulation of histone deacetylase activity,hypertension,association,GO,Disease,ctd,2
+GO:1905457,EX:D08131,negative regulation of lymphoid progenitor cell differentiation,hypertension,association,GO,Disease,ctd,2
+GO:2000019,EX:D08131,negative regulation of male gonad development,hypertension,association,GO,Disease,ctd,2
+GO:0010637,EX:D08131,negative regulation of mitochondrial fusion,hypertension,association,GO,Disease,ctd,2
+GO:0010917,EX:D08131,negative regulation of mitochondrial membrane potential,hypertension,association,GO,Disease,ctd,2
+GO:0045930,EX:D08131,negative regulation of mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0040015,EX:D08131,negative regulation of multicellular organism growth,hypertension,association,GO,Disease,ctd,2
+GO:0010977,EX:D08131,negative regulation of neuron projection development,hypertension,association,GO,Disease,ctd,2
+GO:0051354,EX:D08131,negative regulation of oxidoreductase activity,hypertension,association,GO,Disease,ctd,2
+GO:0043553,EX:D08131,negative regulation of phosphatidylinositol 3-kinase activity,hypertension,association,GO,Disease,ctd,2
+GO:0051898,EX:D08131,negative regulation of protein kinase B signaling,hypertension,association,GO,Disease,ctd,2
+GO:1900181,EX:D08131,negative regulation of protein localization to nucleus,hypertension,association,GO,Disease,ctd,2
+GO:1903077,EX:D08131,negative regulation of protein localization to plasma membrane,hypertension,association,GO,Disease,ctd,2
+GO:1903427,EX:D08131,negative regulation of reactive oxygen species biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:1901670,EX:D08131,negative regulation of superoxide dismutase activity,hypertension,association,GO,Disease,ctd,2
+GO:2000555,EX:D08131,negative regulation of T-helper 1 cell cytokine production,hypertension,association,GO,Disease,ctd,2
+GO:0051348,EX:D08131,negative regulation of transferase activity,hypertension,association,GO,Disease,ctd,2
+GO:0019227,EX:D08131,neuronal action potential propagation,hypertension,association,GO,Disease,ctd,2
+GO:0048666,EX:D08131,neuron development,hypertension,association,GO,Disease,ctd,2
+GO:0030182,EX:D08131,neuron differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0140058,EX:D08131,neuron projection arborization,hypertension,association,GO,Disease,ctd,2
+GO:0031175,EX:D08131,neuron projection development,hypertension,association,GO,Disease,ctd,2
+GO:1990138,EX:D08131,neuron projection extension,hypertension,association,GO,Disease,ctd,2
+GO:0006809,EX:D08131,nitric oxide biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0140591,EX:D08131,nuclear envelope budding,hypertension,association,GO,Disease,ctd,2
+GO:0009116,EX:D08131,nucleoside metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0009117,EX:D08131,nucleotide metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006997,EX:D08131,nucleus organization,hypertension,association,GO,Disease,ctd,2
+GO:0006490,EX:D08131,oligosaccharide-lipid intermediate biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0001556,EX:D08131,oocyte maturation,hypertension,association,GO,Disease,ctd,2
+GO:0001503,EX:D08131,ossification,hypertension,association,GO,Disease,ctd,2
+GO:0001649,EX:D08131,osteoblast differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0001542,EX:D08131,ovulation from ovarian follicle,hypertension,association,GO,Disease,ctd,2
+GO:0006119,EX:D08131,oxidative phosphorylation,hypertension,association,GO,Disease,ctd,2
+GO:0007567,EX:D08131,parturition,hypertension,association,GO,Disease,ctd,2
+GO:0018119,EX:D08131,peptidyl-cysteine S-nitrosylation,hypertension,association,GO,Disease,ctd,2
+GO:0070782,EX:D08131,phosphatidylserine exposure on apoptotic cell surface,hypertension,association,GO,Disease,ctd,2
+GO:0006644,EX:D08131,phospholipid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0043473,EX:D08131,pigmentation,hypertension,association,GO,Disease,ctd,2
+GO:0001890,EX:D08131,placenta development,hypertension,association,GO,Disease,ctd,2
+GO:0007009,EX:D08131,plasma membrane organization,hypertension,association,GO,Disease,ctd,2
+GO:0017121,EX:D08131,plasma membrane phospholipid scrambling,hypertension,association,GO,Disease,ctd,2
+GO:0030168,EX:D08131,platelet activation,hypertension,association,GO,Disease,ctd,2
+GO:0030220,EX:D08131,platelet formation,hypertension,association,GO,Disease,ctd,2
+GO:2000251,EX:D08131,positive regulation of actin cytoskeleton reorganization,hypertension,association,GO,Disease,ctd,2
+GO:0045766,EX:D08131,positive regulation of angiogenesis,hypertension,association,GO,Disease,ctd,2
+GO:1902512,EX:D08131,positive regulation of apoptotic DNA fragmentation,hypertension,association,GO,Disease,ctd,2
+GO:0043065,EX:D08131,positive regulation of apoptotic process,hypertension,association,GO,Disease,ctd,2
+GO:0010508,EX:D08131,positive regulation of autophagy,hypertension,association,GO,Disease,ctd,2
+GO:1905605,EX:D08131,positive regulation of blood-brain barrier permeability,hypertension,association,GO,Disease,ctd,2
+GO:1905555,EX:D08131,positive regulation of blood vessel branching,hypertension,association,GO,Disease,ctd,2
+GO:0045780,EX:D08131,positive regulation of bone resorption,hypertension,association,GO,Disease,ctd,2
+GO:0010942,EX:D08131,positive regulation of cell death,hypertension,association,GO,Disease,ctd,2
+GO:0030335,EX:D08131,positive regulation of cell migration,hypertension,association,GO,Disease,ctd,2
+GO:2000147,EX:D08131,positive regulation of cell motility,hypertension,association,GO,Disease,ctd,2
+GO:0008284,EX:D08131,positive regulation of cell population proliferation,hypertension,association,GO,Disease,ctd,2
+GO:1900409,EX:D08131,positive regulation of cellular response to oxidative stress,hypertension,association,GO,Disease,ctd,2
+GO:0010825,EX:D08131,positive regulation of centrosome duplication,hypertension,association,GO,Disease,ctd,2
+GO:0001819,EX:D08131,positive regulation of cytokine production,hypertension,association,GO,Disease,ctd,2
+GO:0045919,EX:D08131,positive regulation of cytolysis,hypertension,association,GO,Disease,ctd,2
+GO:0007204,EX:D08131,positive regulation of cytosolic calcium ion concentration,hypertension,association,GO,Disease,ctd,2
+GO:2000510,EX:D08131,positive regulation of dendritic cell chemotaxis,hypertension,association,GO,Disease,ctd,2
+GO:1905643,EX:D08131,positive regulation of DNA methylation,hypertension,association,GO,Disease,ctd,2
+GO:0045739,EX:D08131,positive regulation of DNA repair,hypertension,association,GO,Disease,ctd,2
+GO:1905956,EX:D08131,positive regulation of endothelial tube morphogenesis,hypertension,association,GO,Disease,ctd,2
+GO:0050679,EX:D08131,positive regulation of epithelial cell proliferation,hypertension,association,GO,Disease,ctd,2
+GO:0010718,EX:D08131,positive regulation of epithelial to mesenchymal transition,hypertension,association,GO,Disease,ctd,2
+GO:0070374,EX:D08131,positive regulation of ERK1 and ERK2 cascade,hypertension,association,GO,Disease,ctd,2
+GO:0034108,EX:D08131,positive regulation of erythrocyte clearance,hypertension,association,GO,Disease,ctd,2
+GO:1903543,EX:D08131,positive regulation of exosomal secretion,hypertension,association,GO,Disease,ctd,2
+GO:2000193,EX:D08131,positive regulation of fatty acid transport,hypertension,association,GO,Disease,ctd,2
+GO:0003104,EX:D08131,positive regulation of glomerular filtration,hypertension,association,GO,Disease,ctd,2
+GO:0120008,EX:D08131,positive regulation of glutamatergic neuron differentiation,hypertension,association,GO,Disease,ctd,2
+GO:1903284,EX:D08131,positive regulation of glutathione peroxidase activity,hypertension,association,GO,Disease,ctd,2
+GO:0071442,EX:D08131,positive regulation of histone H3-K14 acetylation,hypertension,association,GO,Disease,ctd,2
+GO:2001255,EX:D08131,positive regulation of histone H3-K36 trimethylation,hypertension,association,GO,Disease,ctd,2
+GO:2001162,EX:D08131,positive regulation of histone H3-K79 methylation,hypertension,association,GO,Disease,ctd,2
+GO:2000617,EX:D08131,positive regulation of histone H3-K9 acetylation,hypertension,association,GO,Disease,ctd,2
+GO:1900111,EX:D08131,positive regulation of histone H3-K9 dimethylation,hypertension,association,GO,Disease,ctd,2
+GO:0051345,EX:D08131,positive regulation of hydrolase activity,hypertension,association,GO,Disease,ctd,2
+GO:0050729,EX:D08131,positive regulation of inflammatory response,hypertension,association,GO,Disease,ctd,2
+GO:0032731,EX:D08131,positive regulation of interleukin-1 beta production,hypertension,association,GO,Disease,ctd,2
+GO:0060731,EX:D08131,positive regulation of intestinal epithelial structure maintenance,hypertension,association,GO,Disease,ctd,2
+GO:0033148,EX:D08131,positive regulation of intracellular estrogen receptor signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0046330,EX:D08131,positive regulation of JNK cascade,hypertension,association,GO,Disease,ctd,2
+GO:1904146,EX:D08131,positive regulation of meiotic cell cycle process involved in oocyte maturation,hypertension,association,GO,Disease,ctd,2
+GO:0048023,EX:D08131,positive regulation of melanin biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:1903980,EX:D08131,positive regulation of microglial cell activation,hypertension,association,GO,Disease,ctd,2
+GO:0031116,EX:D08131,positive regulation of microtubule polymerization,hypertension,association,GO,Disease,ctd,2
+GO:0010918,EX:D08131,positive regulation of mitochondrial membrane potential,hypertension,association,GO,Disease,ctd,2
+GO:1901526,EX:D08131,positive regulation of mitophagy,hypertension,association,GO,Disease,ctd,2
+GO:0045931,EX:D08131,positive regulation of mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0040018,EX:D08131,positive regulation of multicellular organism growth,hypertension,association,GO,Disease,ctd,2
+GO:0010940,EX:D08131,positive regulation of necrotic cell death,hypertension,association,GO,Disease,ctd,2
+GO:0050769,EX:D08131,positive regulation of neurogenesis,hypertension,association,GO,Disease,ctd,2
+GO:0043525,EX:D08131,positive regulation of neuron apoptotic process,hypertension,association,GO,Disease,ctd,2
+GO:1901216,EX:D08131,positive regulation of neuron death,hypertension,association,GO,Disease,ctd,2
+GO:1902565,EX:D08131,positive regulation of neutrophil activation,hypertension,association,GO,Disease,ctd,2
+GO:0051092,EX:D08131,positive regulation of NF-kappaB transcription factor activity,hypertension,association,GO,Disease,ctd,2
+GO:0048714,EX:D08131,positive regulation of oligodendrocyte differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0060279,EX:D08131,positive regulation of ovulation,hypertension,association,GO,Disease,ctd,2
+GO:1902177,EX:D08131,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:1900745,EX:D08131,positive regulation of p38MAPK cascade,hypertension,association,GO,Disease,ctd,2
+GO:0050766,EX:D08131,positive regulation of phagocytosis,hypertension,association,GO,Disease,ctd,2
+GO:0061092,EX:D08131,positive regulation of phospholipid translocation,hypertension,association,GO,Disease,ctd,2
+GO:0010572,EX:D08131,positive regulation of platelet activation,hypertension,association,GO,Disease,ctd,2
+GO:0051897,EX:D08131,positive regulation of protein kinase B signaling,hypertension,association,GO,Disease,ctd,2
+GO:1900182,EX:D08131,positive regulation of protein localization to nucleus,hypertension,association,GO,Disease,ctd,2
+GO:0031398,EX:D08131,positive regulation of protein ubiquitination,hypertension,association,GO,Disease,ctd,2
+GO:1903428,EX:D08131,positive regulation of reactive oxygen species biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:2000379,EX:D08131,positive regulation of reactive oxygen species metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0090200,EX:D08131,positive regulation of release of cytochrome c from mitochondria,hypertension,association,GO,Disease,ctd,2
+GO:0032930,EX:D08131,positive regulation of superoxide anion generation,hypertension,association,GO,Disease,ctd,2
+GO:1901671,EX:D08131,positive regulation of superoxide dismutase activity,hypertension,association,GO,Disease,ctd,2
+GO:0003084,EX:D08131,positive regulation of systemic arterial blood pressure,hypertension,association,GO,Disease,ctd,2
+GO:2000409,EX:D08131,positive regulation of T cell extravasation,hypertension,association,GO,Disease,ctd,2
+GO:1904358,EX:D08131,positive regulation of telomere maintenance via telomere lengthening,hypertension,association,GO,Disease,ctd,2
+GO:2000611,EX:D08131,positive regulation of thyroid hormone generation,hypertension,association,GO,Disease,ctd,2
+GO:0002157,EX:D08131,positive regulation of thyroid hormone mediated signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:2000614,EX:D08131,positive regulation of thyroid-stimulating hormone secretion,hypertension,association,GO,Disease,ctd,2
+GO:1904263,EX:D08131,positive regulation of TORC1 signaling,hypertension,association,GO,Disease,ctd,2
+GO:0045944,EX:D08131,positive regulation of transcription by RNA polymerase II,hypertension,association,GO,Disease,ctd,2
+GO:2000679,EX:D08131,positive regulation of transcription regulatory region DNA binding,hypertension,association,GO,Disease,ctd,2
+GO:1901165,EX:D08131,positive regulation of trophoblast cell migration,hypertension,association,GO,Disease,ctd,2
+GO:0032760,EX:D08131,positive regulation of tumor necrosis factor production,hypertension,association,GO,Disease,ctd,2
+GO:0032729,EX:D08131,positive regulation of type II interferon production,hypertension,association,GO,Disease,ctd,2
+GO:0042448,EX:D08131,progesterone metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0042701,EX:D08131,progesterone secretion,hypertension,association,GO,Disease,ctd,2
+GO:0006693,EX:D08131,prostaglandin metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0032310,EX:D08131,prostaglandin secretion,hypertension,association,GO,Disease,ctd,2
+GO:0006606,EX:D08131,protein import into nucleus,hypertension,association,GO,Disease,ctd,2
+GO:0006497,EX:D08131,protein lipidation,hypertension,association,GO,Disease,ctd,2
+GO:1903608,EX:D08131,protein localization to cytoplasmic stress granule,hypertension,association,GO,Disease,ctd,2
+GO:0018158,EX:D08131,protein oxidation,hypertension,association,GO,Disease,ctd,2
+GO:0006626,EX:D08131,protein targeting to mitochondrion,hypertension,association,GO,Disease,ctd,2
+GO:0046501,EX:D08131,protoporphyrinogen IX metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0070269,EX:D08131,pyroptosis,hypertension,association,GO,Disease,ctd,2
+GO:2001057,EX:D08131,reactive nitrogen species metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:1903409,EX:D08131,reactive oxygen species biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0072593,EX:D08131,reactive oxygen species metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0000381,EX:D08131,"regulation of alternative mRNA splicing, via spliceosome",hypertension,association,GO,Disease,ctd,2
+GO:1902003,EX:D08131,regulation of amyloid-beta formation,hypertension,association,GO,Disease,ctd,2
+GO:1903578,EX:D08131,regulation of ATP metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0008217,EX:D08131,regulation of blood pressure,hypertension,association,GO,Disease,ctd,2
+GO:0046850,EX:D08131,regulation of bone remodeling,hypertension,association,GO,Disease,ctd,2
+GO:0051726,EX:D08131,regulation of cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0031323,EX:D08131,regulation of cellular metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0090181,EX:D08131,regulation of cholesterol metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0051462,EX:D08131,regulation of cortisol secretion,hypertension,association,GO,Disease,ctd,2
+GO:0051480,EX:D08131,regulation of cytosolic calcium ion concentration,hypertension,association,GO,Disease,ctd,2
+GO:0044030,EX:D08131,regulation of DNA methylation,hypertension,association,GO,Disease,ctd,2
+GO:0006355,EX:D08131,regulation of DNA-templated transcription,hypertension,association,GO,Disease,ctd,2
+GO:0044062,EX:D08131,regulation of excretion,hypertension,association,GO,Disease,ctd,2
+GO:0010468,EX:D08131,regulation of gene expression,hypertension,association,GO,Disease,ctd,2
+GO:0006349,EX:D08131,regulation of gene expression by genomic imprinting,hypertension,association,GO,Disease,ctd,2
+GO:2000653,EX:D08131,regulation of genetic imprinting,hypertension,association,GO,Disease,ctd,2
+GO:0003093,EX:D08131,regulation of glomerular filtration,hypertension,association,GO,Disease,ctd,2
+GO:0008016,EX:D08131,regulation of heart contraction,hypertension,association,GO,Disease,ctd,2
+GO:0002027,EX:D08131,regulation of heart rate,hypertension,association,GO,Disease,ctd,2
+GO:0070453,EX:D08131,regulation of heme biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0032350,EX:D08131,regulation of hormone metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0002923,EX:D08131,regulation of humoral immune response mediated by circulating immunoglobulin,hypertension,association,GO,Disease,ctd,2
+GO:1902071,EX:D08131,regulation of hypoxia-inducible factor-1alpha signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0090559,EX:D08131,regulation of membrane permeability,hypertension,association,GO,Disease,ctd,2
+GO:0051881,EX:D08131,regulation of mitochondrial membrane potential,hypertension,association,GO,Disease,ctd,2
+GO:0007346,EX:D08131,regulation of mitotic cell cycle,hypertension,association,GO,Disease,ctd,2
+GO:0040014,EX:D08131,regulation of multicellular organism growth,hypertension,association,GO,Disease,ctd,2
+GO:0006937,EX:D08131,regulation of muscle contraction,hypertension,association,GO,Disease,ctd,2
+GO:0002761,EX:D08131,regulation of myeloid leukocyte differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0045428,EX:D08131,regulation of nitric oxide biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0006141,EX:D08131,regulation of purine nucleobase metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:2000377,EX:D08131,regulation of reactive oxygen species metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0098801,EX:D08131,regulation of renal system process,hypertension,association,GO,Disease,ctd,2
+GO:1902882,EX:D08131,regulation of response to oxidative stress,hypertension,association,GO,Disease,ctd,2
+GO:1901668,EX:D08131,regulation of superoxide dismutase activity,hypertension,association,GO,Disease,ctd,2
+GO:0003073,EX:D08131,regulation of systemic arterial blood pressure,hypertension,association,GO,Disease,ctd,2
+GO:1904356,EX:D08131,regulation of telomere maintenance via telomere lengthening,hypertension,association,GO,Disease,ctd,2
+GO:0017015,EX:D08131,regulation of transforming growth factor beta receptor signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0006417,EX:D08131,regulation of translation,hypertension,association,GO,Disease,ctd,2
+GO:0090207,EX:D08131,regulation of triglyceride metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0032680,EX:D08131,regulation of tumor necrosis factor production,hypertension,association,GO,Disease,ctd,2
+GO:0060307,EX:D08131,regulation of ventricular cardiac muscle cell membrane repolarization,hypertension,association,GO,Disease,ctd,2
+GO:0001836,EX:D08131,release of cytochrome c from mitochondria,hypertension,association,GO,Disease,ctd,2
+GO:0097205,EX:D08131,renal filtration,hypertension,association,GO,Disease,ctd,2
+GO:0003014,EX:D08131,renal system process,hypertension,association,GO,Disease,ctd,2
+GO:0003016,EX:D08131,respiratory system process,hypertension,association,GO,Disease,ctd,2
+GO:0046685,EX:D08131,response to arsenic-containing substance,hypertension,association,GO,Disease,ctd,2
+GO:0010996,EX:D08131,response to auditory stimulus,hypertension,association,GO,Disease,ctd,2
+GO:0033590,EX:D08131,response to cobalamin,hypertension,association,GO,Disease,ctd,2
+GO:0051593,EX:D08131,response to folic acid,hypertension,association,GO,Disease,ctd,2
+GO:0010288,EX:D08131,response to lead ion,hypertension,association,GO,Disease,ctd,2
+GO:0006979,EX:D08131,response to oxidative stress,hypertension,association,GO,Disease,ctd,2
+GO:0051775,EX:D08131,response to redox state,hypertension,association,GO,Disease,ctd,2
+GO:0006950,EX:D08131,response to stress,hypertension,association,GO,Disease,ctd,2
+GO:0046498,EX:D08131,S-adenosylhomocysteine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0046500,EX:D08131,S-adenosylmethionine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0046541,EX:D08131,saliva secretion,hypertension,association,GO,Disease,ctd,2
+GO:1901052,EX:D08131,sarcosine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0001887,EX:D08131,selenium compound metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0007605,EX:D08131,sensory perception of sound,hypertension,association,GO,Disease,ctd,2
+GO:0051238,EX:D08131,sequestering of metal ion,hypertension,association,GO,Disease,ctd,2
+GO:0009070,EX:D08131,serine family amino acid biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0007183,EX:D08131,SMAD protein complex assembly,hypertension,association,GO,Disease,ctd,2
+GO:0035176,EX:D08131,social behavior,hypertension,association,GO,Disease,ctd,2
+GO:0002681,EX:D08131,somatic recombination of T cell receptor gene segments,hypertension,association,GO,Disease,ctd,2
+GO:0007283,EX:D08131,spermatogenesis,hypertension,association,GO,Disease,ctd,2
+GO:0048864,EX:D08131,stem cell development,hypertension,association,GO,Disease,ctd,2
+GO:0048863,EX:D08131,stem cell differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0048866,EX:D08131,stem cell fate specification,hypertension,association,GO,Disease,ctd,2
+GO:0008202,EX:D08131,steroid metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0034063,EX:D08131,stress granule assembly,hypertension,association,GO,Disease,ctd,2
+GO:0042554,EX:D08131,superoxide anion generation,hypertension,association,GO,Disease,ctd,2
+GO:0050808,EX:D08131,synapse organization,hypertension,association,GO,Disease,ctd,2
+GO:0019530,EX:D08131,taurine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0000723,EX:D08131,telomere maintenance,hypertension,association,GO,Disease,ctd,2
+GO:0010833,EX:D08131,telomere maintenance via telomere lengthening,hypertension,association,GO,Disease,ctd,2
+GO:0061370,EX:D08131,testosterone biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0035936,EX:D08131,testosterone secretion,hypertension,association,GO,Disease,ctd,2
+GO:0072539,EX:D08131,T-helper 17 cell differentiation,hypertension,association,GO,Disease,ctd,2
+GO:0009088,EX:D08131,threonine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0048538,EX:D08131,thymus development,hypertension,association,GO,Disease,ctd,2
+GO:0006590,EX:D08131,thyroid hormone generation,hypertension,association,GO,Disease,ctd,2
+GO:0006099,EX:D08131,tricarboxylic acid cycle,hypertension,association,GO,Disease,ctd,2
+GO:0019432,EX:D08131,triglyceride biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0070328,EX:D08131,triglyceride homeostasis,hypertension,association,GO,Disease,ctd,2
+GO:0006641,EX:D08131,triglyceride metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0006568,EX:D08131,tryptophan metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0035148,EX:D08131,tube formation,hypertension,association,GO,Disease,ctd,2
+GO:0033209,EX:D08131,tumor necrosis factor-mediated signaling pathway,hypertension,association,GO,Disease,ctd,2
+GO:0006571,EX:D08131,tyrosine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0046415,EX:D08131,urate metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0046108,EX:D08131,uridine metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:0070914,EX:D08131,UV-damage excision repair,hypertension,association,GO,Disease,ctd,2
+GO:0007033,EX:D08131,vacuole organization,hypertension,association,GO,Disease,ctd,2
+GO:0009099,EX:D08131,valine biosynthetic process,hypertension,association,GO,Disease,ctd,2
+GO:0035459,EX:D08131,vesicle cargo loading,hypertension,association,GO,Disease,ctd,2
+GO:0007601,EX:D08131,visual perception,hypertension,association,GO,Disease,ctd,2
+GO:0044319,EX:D08131,"wound healing, spreading of cells",hypertension,association,GO,Disease,ctd,2
+GO:0046618,EX:D08131,xenobiotic export from cell,hypertension,association,GO,Disease,ctd,2
+GO:0052697,EX:D08131,xenobiotic glucuronidation,hypertension,association,GO,Disease,ctd,2
+GO:0006805,EX:D08131,xenobiotic metabolic process,hypertension,association,GO,Disease,ctd,2
+GO:1990962,EX:D08131,xenobiotic transport across blood-brain barrier,hypertension,association,GO,Disease,ctd,2
+GO:0055069,EX:D08131,,hypertension,association,GO,Disease,ctd,2
+GO:0071578,EX:D08131,zinc ion import across plasma membrane,hypertension,association,GO,Disease,ctd,2
+GO:0006829,EX:D08131,zinc ion transport,hypertension,association,GO,Disease,ctd,2
+GO:0097189,EX:D08131,apoptotic body,hypertension,association,GO,Disease,ctd,2
+GO:0044754,EX:D08131,autolysosome,hypertension,association,GO,Disease,ctd,2
+GO:0005911,EX:D08131,cell-cell junction,hypertension,association,GO,Disease,ctd,2
+GO:1903561,EX:D08131,extracellular vesicle,hypertension,association,GO,Disease,ctd,2
+GO:0071743,EX:D08131,"IgE immunoglobulin complex, circulating",hypertension,association,GO,Disease,ctd,2
+GO:0005757,EX:D08131,mitochondrial permeability transition pore complex,hypertension,association,GO,Disease,ctd,2
+GO:0005739,EX:D08131,mitochondrion,hypertension,association,GO,Disease,ctd,2
+GO:0031143,EX:D08131,pseudopodium,hypertension,association,GO,Disease,ctd,2
+GO:0004115,EX:D08131,"3',5'-cyclic-AMP phosphodiesterase activity",hypertension,association,GO,Disease,ctd,2
+GO:0003994,EX:D08131,aconitate hydratase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004035,EX:D08131,alkaline phosphatase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004064,EX:D08131,arylesterase activity,hypertension,association,GO,Disease,ctd,2
+GO:0016887,EX:D08131,ATP hydrolysis activity,hypertension,association,GO,Disease,ctd,2
+GO:0030899,EX:D08131,calcium-dependent ATPase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004198,EX:D08131,calcium-dependent cysteine-type endopeptidase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004104,EX:D08131,cholinesterase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004111,EX:D08131,creatine kinase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004197,EX:D08131,cysteine-type endopeptidase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004129,EX:D08131,cytochrome-c oxidase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004602,EX:D08131,glutathione peroxidase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004364,EX:D08131,glutathione transferase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004449,EX:D08131,isocitrate dehydrogenase (NAD+) activity,hypertension,association,GO,Disease,ctd,2
+GO:0004450,EX:D08131,isocitrate dehydrogenase (NADP+) activity,hypertension,association,GO,Disease,ctd,2
+GO:0004705,EX:D08131,JUN kinase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004457,EX:D08131,lactate dehydrogenase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004021,EX:D08131,L-alanine:2-oxoglutarate aminotransferase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004069,EX:D08131,L-aspartate:2-oxoglutarate aminotransferase activity,hypertension,association,GO,Disease,ctd,2
+GO:0070577,EX:D08131,lysine-acetylated histone binding,hypertension,association,GO,Disease,ctd,2
+GO:0004707,EX:D08131,MAP kinase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004697,EX:D08131,protein kinase C activity,hypertension,association,GO,Disease,ctd,2
+GO:0004722,EX:D08131,protein serine/threonine phosphatase activity,hypertension,association,GO,Disease,ctd,2
+GO:0005391,EX:D08131,P-type sodium:potassium-exchanging transporter activity,hypertension,association,GO,Disease,ctd,2
+GO:0000104,EX:D08131,succinate dehydrogenase activity,hypertension,association,GO,Disease,ctd,2
+GO:0004784,EX:D08131,superoxide dismutase activity,hypertension,association,GO,Disease,ctd,2
+GO:0008483,EX:D08131,transaminase activity,hypertension,association,GO,Disease,ctd,2
+GO:0005245,EX:D08131,voltage-gated calcium channel activity,hypertension,association,GO,Disease,ctd,2
+GO:0008270,EX:D08131,zinc ion binding,hypertension,association,GO,Disease,ctd,2

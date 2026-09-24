@@ -1,0 +1,597 @@
+EXID,Preferred name,Degree,Group name,ID,Synonyms
+EX:E000002109,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",30,Exposure,1912-24-9^102029-43-6^1912-24-9^001-02-2^CCNC1=NC(=NC(=N1)Cl)NC(C)C^MXWJVTOOROXGIU-UHFFFAOYSA-N,atrazine^1912-24-9^Gesaprim^Oleogesaprim^Aktikon^Atranex^Chromozin^Atazinax^Atrasine^Gesoprim
+EX:E000002567,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",96,Exposure,2921-88-2^2921-88-2^001-02-7^001-06-8^CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl^SBPBAQFWLVIOKP-UHFFFAOYSA-N,chlorpyrifos^2921-88-2^Dursban^Chlorpyriphos^Lorsban^Trichlorpyrphos^Coroban^Brodan^Chlorpyrifos-ethyl^Equity
+EX:E000002599,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,11,Exposure,85721-33-1^93107-08-5^311-02-3^C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O^MYSWGUAQZAJSOK-UHFFFAOYSA-N,ciprofloxacin^85721-33-1^Ciprobay^Ciprofloxacine^Cipro^Ciproxan^Ciprofloxacina^Ciprofloxacinum^Cipro IV^Ciprocinol
+EX:E000002860,"2,2-dichloroethenyl dimethyl phosphate",5,Exposure,62-73-7^62-73-7^COP(=O)(OC)OC=C(Cl)Cl^OEBRKCOSUFCWJD-UHFFFAOYSA-N,"dichlorvos^62-73-7^DDVP^Dichlorophos^2,2-Dichloroethenyl dimethyl phosphate^Vapona^2,2-Dichlorovinyl dimethyl phosphate^Chlorvinphos^Dichlorphos^Krecalvin"
+EX:E000003163,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",16,Exposure,120068-37-3^120068-37-3^001-03-0^001-04-8^C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F^ZOCSXAVNDGMNBV-UHFFFAOYSA-N,"fipronil^120068-37-3^Termidor^Fipronil [ISO]^RM 1601^MB 46030^(+/-)-Fipronil^HSDB 7051^5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-((trifluoromethyl)sulfinyl)-1h-pyrazole-3-carbonitrile^NSC-758960"
+EX:E000003780,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,27,Exposure,121-75-5^121-75-5^CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC^JXSJBGJIGXNWCI-UHFFFAOYSA-N,malathion^121-75-5^Carbophos^Carbofos^Mercaptothion^Karbofos^Phosphothion^Carbetox^Ethiolacar^Maldison
+EX:E000004290,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,15,Exposure,70458-96-7^70458-96-7^001-05-5^001-15-4^CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O^OGJPXUAPXNRGGI-UHFFFAOYSA-N,norfloxacin^70458-96-7^Noroxin^Norfloxacine^Chibroxin^Baccidal^Sebercim^MK-366^Norfloxacino^Norfloxacinum
+EX:E000004331,"7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",3,Exposure,82419-36-1^83380-47-6^82419-36-1^1261398-33-7^001-05-9^001-19-0^138199-71-0^CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O^GSDSWSVVBLHKDQ-UHFFFAOYSA-N,ofloxacin^82419-36-1^Floxin^Ofloxacine^Tarivid^Oxaldin^Ocuflox^Oflocet^Visiren^OFLX
+EX:E000006270,4-(4-hydroxyphenyl)sulfonylphenol,67,Exposure,80-09-1^25641-61-6^80-09-1^C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O^VPWNQTHUCYMVMZ-UHFFFAOYSA-N,"4,4'-Sulfonyldiphenol^80-09-1^Bisphenol S^Bis(4-hydroxyphenyl) sulfone^Phenol, 4,4'-sulfonylbis-^4-(4-hydroxyphenyl)sulfonylphenol^4,4'-Dihydroxydiphenyl sulfone^4-Hydroxyphenyl sulfone^Bis(p-hydroxyphenyl) sulfone^4,4'-Sulfonylbisphenol"
+EX:E000006630,naphthalen-1-ol,3,Exposure,90-15-3^1321-67-1^90-15-3^50356-21-3^C1=CC=C2C(=C1)C=CC=C2O^KJCVRFUGPWSIIH-UHFFFAOYSA-N,1-NAPHTHOL^90-15-3^naphthalen-1-ol^alpha-naphthol^1-Naphthalenol^1-Hydroxynaphthalene^NAPHTHOL^Furro ER^Fouramine ERN^Fourrine ERN
+EX:E000008218,naphthalen-2-ol,8,Exposure,135-19-3^135-19-3^001-01-0^26716-78-9^C1=CC=C2C=C(C=CC2=C1)O^JWAZRIHNYRIHIV-UHFFFAOYSA-N,2-NAPHTHOL^naphthalen-2-ol^135-19-3^beta-naphthol^2-Naphthalenol^Betanaphthol^2-Hydroxynaphthalene^Isonaphthol^Developer A^Developer BN
+EX:E000011447,4-[(4-hydroxyphenyl)methyl]phenol,69,Exposure,620-92-8^620-94-8^C1=CC(=CC=C1CC2=CC=C(C=C2)O)O^PXKLMJQFEQBVLD-UHFFFAOYSA-N,"4,4'-Methylenediphenol^620-92-8^4,4'-Dihydroxydiphenylmethane^Bisphenol F^Bis(4-hydroxyphenyl)methane^Phenol, 4,4'-methylenebis-^p-(p-Hydroxybenzyl)phenol^4,4'-Methylenebisphenol^4-[(4-hydroxyphenyl)methyl]phenol^Phenol, 4,4'-methylenedi-"
+EX:E000018334,3-phenoxybenzoic acid,6,Exposure,3739-38-6^3739-38-6^16-11-6^C1=CC=C(C=C1)OC2=CC=CC(=C2)C(=O)O^NXTDJHZGHOFSQG-UHFFFAOYSA-N,"3-Phenoxybenzoic acid^3739-38-6^m-Phenoxybenzoic acid^Benzoic acid, 3-phenoxy-^3-PBA^BENZOIC ACID, m-PHENOXY-^M-PHENOXYBENZOIC ACID FOR CIS-ISOMER^3-Phenoxy-benzoic acid^MFCD00002498^CHEMBL663"
+EX:E000020066,pyren-1-ol,9,Exposure,5315-79-7^63021-84-1^5315-79-7^C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O^BIJNHUAPTJVVNQ-UHFFFAOYSA-N,1-HYDROXYPYRENE^5315-79-7^Pyren-1-ol^1-Pyrenol^3-Hydroxypyrene^pyrenol^1-Hydroxy pyrene^DTXSID1038298^CHEBI:34093^N2H6O5V707
+EX:E000020455,"diethyl (3,5,6-trichloropyridin-2-yl) phosphate",16,Exposure,5598-15-2^5598-15-2^CCOP(=O)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl^OTMOUPHCTWPNSL-UHFFFAOYSA-N,"Chlorpyrifos oxon^5598-15-2^CHLORPYRIFOS-OXON^Dursbanoxon^Fospirate-ethyl^Chloropyrifos oxon^Chlorphrifos Oxon^diethyl 3,5,6-trichloropyridin-2-yl phosphate^diethyl (3,5,6-trichloropyridin-2-yl) phosphate^O,O-Diethyl O-3,5,6-trichloro-2-pyridyl phosphate"
+EX:E000021564,"3,5,6-trichloro-1H-pyridin-2-one",4,Exposure,6515-38-4^6515-38-4^C1=C(C(=O)NC(=C1Cl)Cl)Cl^WCYYAQFQZQEUEN-UHFFFAOYSA-N,"3,5,6-TRICHLORO-2-PYRIDINOL^6515-38-4^3,5,6-Trichloropyridin-2-ol^3,5,6-Trichloropyridin-2(1H)-one^2-Hydroxy-3,5,6-trichloropyridine^3,5,6-Trichloro-2(1H)-pyridinone^3,5,6-Trichloro-2-pyridone^3,5,6-trichloro-1H-pyridin-2-one^2(1H)-Pyridinone, 3,5,6-trichloro-^3,5,6-Trichloro-2-hydroxypyridine"
+EX:E000022407,molybdenum,9,Exposure,7439-98-7^16727-12-1^[Mo]^ZOKXTWBITQBERF-UHFFFAOYSA-N,"7439-98-7^Mo^Molybdenum^Molybdenum(6+)^MOLYBDENUM ATOM^Molybdenum(6+) ion^Molybdenum, metallic^MOLYBDENUM(VI) ION^Molybdenum, elemental^Molybdenum powder"
+EX:E000022444,cadmium,140,Exposure,7440-43-9^69011-70-7^81271-94-5^[Cd]^BDOSMKKIYDKNTQ-UHFFFAOYSA-N,"7440-43-9^Cadmium^Cd^Cadmium, elemental^Colloidal cadmium^Kadmium^Cadmium powder^Cadmium metal^Elemental cadmium^CCRIS 112"
+EX:E000022448,copper,71,Exposure,7440-50-8^[Cu]^RYGMFSIKBFXOCR-UHFFFAOYSA-N,"7440-50-8^Copper^Cu^Copper powder^cuprum^Bronze powder^Copper bronze^Copper, elemental^Tatum-T^Arwood copper"
+EX:E000022460,vanadium,4,Exposure,7440-62-2^22537-31-1^22541-77-1^[V]^LEONUFNNVUYDNQ-UHFFFAOYSA-N,"7440-62-2^V^Vanadium^Vanadium, elemental^Vanadium metallicum^Vanadium(1+)^Vanadium dust^VANADIUM ION^vanadium(5+)^vanadio"
+EX:E000022464,zinc,50,Exposure,7440-66-6^14018-82-7^[Zn]^HCHKCACWOHOZIP-UHFFFAOYSA-N,"7440-66-6^Zinc^Zn^Zinc dust^Zinc, elemental^Zinc powder^Zincum metallicum^cinc^Rheinzink^Jasad"
+EX:E000023751,methyl N-(1H-benzimidazol-2-yl)carbamate,14,Exposure,10605-21-7^105268-95-9^37953-07-4^39413-19-9^10605-21-7^102040-01-7^110342-67-1^212384-28-6^COC(=O)NC1=NC2=CC=CC=C2N1^TWFZGCMQGLPBSX-UHFFFAOYSA-N,Carbendazim^10605-21-7^Carbendazole^Bavistin^Mecarzole^Thicoper^Carbendazime^Bavistan^Carbendazol^Derosal
+EX:E000068871,9H-fluoren-2-ol,4,Exposure,2443-58-5^2443-58-5^C1C2=CC=CC=C2C3=C1C=C(C=C3)O^ZDOIAPGLORMKTR-UHFFFAOYSA-N,9H-Fluoren-2-ol^2-Hydroxyfluorene^2443-58-5^2-Hydroxy fluorene^Fluoren-2-ol^2-Fluorenol^C7588WEA3R^DTXSID2047569^CHEBI:34289^NSC-26316
+EX:E000090236,phenanthren-1-ol,2,Exposure,2433-56-9^30774-95-9^12-11-5^C1=CC=C2C(=C1)C=CC3=C2C=CC=C3O^GTBXZWADMKOZQJ-UHFFFAOYSA-N,1-Hydroxyphenanthrene^1-Phenanthrol^phenanthren-1-ol^1-Phenanthrenol^2433-56-9^1-Hydroxy-phenanthrene^Y1FTF7MUY7^NSC-44471^30774-95-9^phenanthrol
+EX:E000096046,cobalt,25,Exposure,7440-48-4^[Co]^GUTLYIVDDKVIGB-UHFFFAOYSA-N,"7440-48-4^Co^Cobalt^cobalto^Kobalt^Cobalt, elemental^cobaltum^Cobalt-59^Aquacat^cobalt atom"
+EX:E000105427,"[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide",6,Exposure,111988-49-9^1119449-18-1^111988-49-9^C1CSC(=NC#N)N1CC2=CN=C(C=C2)Cl^HOKKPVIRMVDYPB-UHFFFAOYSA-N,"Thiacloprid^111988-49-9^Calypso^(Z)-thiacloprid^(3-((6-Chloro-3-pyridinyl)methyl)-2-thiazolidinylidene)cyanamide^[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide^CHEMBL451432^DSV3A944A4^DTXSID7034961^CHEBI:39176"
+EX:E000191299,N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide,13,Exposure,135410-20-7^160430-64-8^135410-20-7^CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl^WCXDHFDTOYPNIE-UHFFFAOYSA-N,Acetamiprid^135410-20-7^160430-64-8^Mospilan^Intruder^Assail^Piorun^Stonkat^Prize^Acetamiprid [ISO]
+EX:E000538902,4-[1-(4-hydroxyphenyl)ethyl]phenol,4,Exposure,2081-08-5^2081-08-5^CC(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O^HCNHNBLSNVSJTJ-UHFFFAOYSA-N,"Bisphenol E^2081-08-5^4,4'-Ethylidenebisphenol^4-[1-(4-hydroxyphenyl)ethyl]phenol^1,1-Bis(4-hydroxyphenyl)ethane^Phenol, 4,4'-ethylidenebis-^4,4'-(ETHANE-1,1-DIYL)DIPHENOL^4,4'-Ethylidenediphenol^CHEBI:34029^CHEMBL2392656"
+EX:E002558306,"(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",5,Exposure,150824-47-8^120738-89-8^150824-47-8^CCN(CC1=CN=C(C=C1)Cl)/C(=C/[N+](=O)[O-])/NC^CFRPSFYHXJZSBI-DHZHZOJOSA-N,"Nitenpyram^150824-47-8^(E)-Nitenpyram^120738-89-8^Niterndipoine^Bestguard^Capstar^(E)-N-((6-Chloropyridin-3-yl)methyl)-N-ethyl-N'-methyl-2-nitroethene-1,1-diamine^Nitenpyram [ISO]^TI 304"
+EX:E004811303,lead,136,Exposure,7439-92-1^54076-28-7^14452-81-4^[Pb]^WABPQHHGFIMREM-UHFFFAOYSA-N,7439-92-1^Lead^Pb^Lead metal^Plumbum^Lead element^Lead flake^Lead cation Pb4+^Glover^Blei
+EX:E004815779,strontium,2,Exposure,7440-24-6^[Sr]^CIOAGBVUUVVLOB-UHFFFAOYSA-N,"7440-24-6^Sr^Strontium^Strontium, elemental^UNII-YZS2RPE8LE^YZS2RPE8LE^HSDB 2545^EINECS 231-133-4^DTXSID3024312^CHEBI:33324"
+EX:E004815849,arsenic,167,Exposure,7440-38-2^[As]^RQNWIZPPADIBDY-UHFFFAOYSA-N,7440-38-2^Arsenic^As^Agent SA^Arsenowodor^Arsen^Arsenic hydride (AsH3)^ARSENIC METAL^V1I29R0RJQ^Arsenicals
+EX:E005270968,selenium,27,Exposure,7782-49-2^[Se]^BUGBHKTXTAQXES-UHFFFAOYSA-N,"7782-49-2^Se^Selenium^Selenium hydride^SELENIUM ATOM^Elemental selenium^Selenium elemental^Selenium, elemental^Selen^Selenium dihydride"
+EX:E008578608,"1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-amine",1,Exposure,115970-17-7^C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl^UEQZFAGVRGWPDK-UHFFFAOYSA-N,"Desnitro-imidacloprid^115970-17-7^desnitroimidacloprid^WT3F2K5PF2^(2z)-1-[(6-Chloropyridin-3-Yl)methyl]imidazolidin-2-Imine^1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-amine^UNII-WT3F2K5PF2^CHEMBL309804^1-((6-Chloro-3-pyridinyl)methyl)-4,5-dihydro-1H-imidazol-2-amine^1H-Imidazol-2-amine, 1-((6-chloro-3-pyridinyl)methyl)-4,5-dihydro-"
+EX:E028245645,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",10,Exposure,564-25-0^24390-14-5^7164-70-7^C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O^SGKRLCUYIXIAHR-AKNGSSGZSA-N,doxycycline^564-25-0^Vibramycin^Doxytetracycline^Doxycycline (anhydrous)^Doxiciclina^Doxycyclinum^Monodox^Doxycycline anhydrous^Doxycycline hyclate
+EX:E028250140,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",6,Exposure,60-54-8^60-54-8^6416-04-2^60-54-8^C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O^NWXMGUDVXFXRIG-WESIUVDSSA-N,tetracycline^60-54-8^Deschlorobiomycin^Tsiklomitsin^Abramycin^Tetracyclinum^Tsiklomistsin^Tetracyclin^Achromycin^Tetraciclina
+EX:E028250141,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",6,Exposure,57-62-5^C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C(C=CC(=C41)Cl)O)O)O)O)C(=O)N)N(C)C)O^DHPRQBPJLMKORJ-XRNKAMNCSA-N,chlortetracycline^57-62-5^7-Chlorotetracycline^Chlorotetracycline^AUREOMYCIN^Acronize^Chlormax^Clortetraciclina^Chlortetracyclinum^Aureomycin A-377
+EX:E028250143,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",6,Exposure,79-57-2^79-57-2^6153-64-6^2058-46-0^79-57-2^7179-50-2^6153-65-7^C[C@@]1([C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O^OWFJMIVZYSDULZ-PXOLEDIWSA-N,oxytetracycline^79-57-2^Terramycin^Oxyterracine^Oxytetracyclin^Oxymycin^Terrafungine^Oxyterracin^Oxytetracycline anhydrous^Oxitetraciclina
+EX:E051947117,(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,14,Exposure,138261-41-3^138261-41-3^C1CN(/C(=N/[N+](=O)[O-])/N1)CC2=CN=C(C=C2)Cl^YWTYJOPNNQFBPC-UHFFFAOYSA-N,Imidacloprid^138261-41-3^Confidor^Premise 75^Admire^Gaucho^Provado^Merit^Confidor SL^Merit (insecticide)
+EX:E051947118,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",8,Exposure,210880-92-5^205510-53-8^210880-92-5^CN/C(=N\[N+](=O)[O-])/NCC1=CN=C(S1)Cl^PGOOBECODWQEAB-UHFFFAOYSA-N,Clothianidin^210880-92-5^(E)-clothianidin^Clothianidin [ISO]^205510-53-8^CLOTHIANIDINE^CHEBI:39177^TI-435^2V9906ABKQ^DTXSID2034465
+EX:E000078878,"3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one",6,Exposure,110488-70-5^COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC^QNBTYORWCCMPQP-UHFFFAOYSA-N,"Dimethomorph^110488-70-5^3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-morpholin-4-ylprop-2-en-1-one^DTXSID7034545^CHEBI:81848^MFCD01632781^Dimethomorph isomer 2^SCHEMBL54189^Acrobat; Akrobat; CME 151; Festival C; Forum; Forum (biocide)^CHEMBL3138617"
+EX:E000098621,"N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",4,Exposure,153719-23-4^CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl^NWWZPOKUUAIXIW-UHFFFAOYSA-N,"Thiamethoxam^153719-23-4^Adage^Actara^CHEBI:39185^n-(3-((2-chlorothiazol-5-yl)methyl)-5-methyl-1,3,5-oxadiazinan-4-ylidene)nitramide^DTXSID2034962^C8H10CLN5O3S^Thiamethaxam^MFCD03792862"
+EX:E000022401,iron,39,Exposure,7439-89-6^12597-68-1^8048-10-0^[Fe]^XEEYBQQBJWHFJM-UHFFFAOYSA-N,"7439-89-6^E1UOL152H7^Fe^Iron^Iron, elemental^Ferrum^Remko^Iron powder^Armco iron^Ferrovac E"
+EX:E000075021,phenanthren-4-ol,2,Exposure,7651-86-7^C1=CC=C2C(=C1)C=CC3=C2C(=CC=C3)O^SIMYIUXARJLHEA-UHFFFAOYSA-N,Phenanthren-4-ol^4-Phenanthrenol^4-Phenanthrol^4-Hydroxyphenanthrene^7651-86-7^4-HYDROXY-PHENANTHRENE^4ED7OAK0P9^NSC-171284^NSC 171284^EINECS 231-613-3
+GO:0019413,acetate biosynthetic process,3,GO,GO:0019413,acetate anabolism^acetate biosynthesis^acetate formation^acetate synthesis
+GO:0008291,acetylcholine metabolic process,3,GO,GO:0008291,acetylcholine metabolism
+GO:0006919,activation of cysteine-type endopeptidase activity involved in apoptotic process,4,GO,GO:0006919,caspase activation^activation of caspase activity^activation of metacaspase activity
+GO:0008635,activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c,2,GO,GO:0008635,caspase activation via cytochrome c^activation of caspase activity by cytochrome c
+GO:0034199,activation of protein kinase A activity,2,GO,GO:0034199,protein kinase A activation
+GO:0032148,activation of protein kinase B activity,4,GO,GO:0032148,protein kinase B activation
+GO:1990051,activation of protein kinase C activity,2,GO,GO:1990051,PKC activation^protein kinase C activation
+GO:0046083,adenine metabolic process,2,GO,GO:0046083,adenine metabolism
+GO:0007197,adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway,2,GO,GO:0007197,"muscarinic acetylcholine receptor, adenylate cyclase inhibiting pathway^muscarinic acetylcholine receptor, adenylyl cyclase inhibiting pathway^inhibition of adenylate cyclase activity by G-protein coupled acetylcholine receptor signaling pathway^inhibition of adenylate cyclase activity by muscarinic acetylcholine receptor signaling pathway^inhibition of adenylate cyclase activity by muscarinic acetylcholine receptor signalling pathway"
+GO:0009060,aerobic respiration,3,GO,GO:0009060,aerobic respiration
+GO:0002118,aggressive behavior,2,GO,GO:0002118,aggression
+GO:0006523,alanine biosynthetic process,3,GO,GO:0006523,alanine anabolism^alanine biosynthesis^alanine formation^alanine synthesis
+GO:1901605,alpha-amino acid metabolic process,3,GO,GO:1901605,alpha-amino acid metabolism
+GO:0009308,amine metabolic process,2,GO,GO:0009308,GO:0044106^amine metabolism^cellular amine metabolic process
+GO:0008652,amino acid biosynthetic process,3,GO,GO:0008652,amino acid anabolism^amino acid biosynthesis^amino acid formation^amino acid synthesis^cellular amino acid biosynthetic process
+GO:0006520,amino acid metabolic process,2,GO,GO:0006520,GO:0006519^cellular amino acid metabolic process^cellular amino acid metabolism^amino acid and derivative metabolism^cellular amino acid and derivative metabolic process
+GO:0030521,androgen receptor signaling pathway,2,GO,GO:0030521,androgen receptor signalling pathway
+GO:0001525,angiogenesis,3,GO,GO:0001525,blood vessel formation from pre-existing blood vessels
+GO:0043277,apoptotic cell clearance,2,GO,GO:0043277,apoptotic cell removal^efferocytosis^programmed cell clearance
+GO:0030263,apoptotic chromosome condensation,4,GO,GO:0030263,pyknosis
+GO:0006309,apoptotic DNA fragmentation,6,GO,GO:0006309,GO:0008178^DNA catabolic process during apoptosis^DNA catabolism during apoptosis^DNA fragmentation involved in apoptotic nuclear change^endonucleolytic DNA catabolic process involved in apoptosis^chromatinolysis^DNA fragmentation
+GO:0030262,apoptotic nuclear changes,3,GO,GO:0030262,apoptotic nuclear change
+GO:0006915,apoptotic process,18,GO,GO:0006915,GO:0006917^GO:0008632^apoptotic cell death^apoptotic programmed cell death^programmed cell death by apoptosis^apoptosis activator activity^caspase-dependent programmed cell death^commitment to apoptosis^induction of apoptosis^induction of apoptosis by p53
+GO:0019369,arachidonic acid metabolic process,2,GO,GO:0019369,arachidonic acid metabolism
+GO:0030954,astral microtubule nucleation,2,GO,GO:0030954,astral microtubule nucleation
+GO:0014002,astrocyte development,2,GO,GO:0014002,astrocyte cell development
+GO:0006754,ATP biosynthetic process,4,GO,GO:0006754,GO:0006758^GO:0006759^ATP anabolism^ATP biosynthesis^ATP formation^ATP synthesis^ATP regeneration
+GO:0046034,ATP metabolic process,6,GO,GO:0046034,ATP metabolism
+GO:0000045,autophagosome assembly,2,GO,GO:0000045,autophagic vacuole assembly^autophagosome biosynthesis^autophagosome formation^autophagic vacuole formation^PAS formation
+GO:0061909,autophagosome-lysosome fusion,2,GO,GO:0061909,autophagosome-vacuole fusion^autophagosome fusion
+GO:0006914,autophagy,4,GO,GO:0006914,GO:0016238
+GO:0007610,behavior,4,GO,GO:0007610,GO:0023032^GO:0044708^GO:0044709^behavioral response to stimulus^behaviour^behavioural response to stimulus^single-organism behavior
+GO:0072378,"blood coagulation, fibrin clot formation",2,GO,GO:0072378,"blood coagulation, fibrin clot formation"
+GO:0001568,blood vessel development,2,GO,GO:0001568,blood vessel development
+GO:0097746,blood vessel diameter maintenance,2,GO,GO:0097746,GO:0042312^GO:0050880^blood vessel diameter homeostasis^regulation of blood vessel diameter^regulation of blood vessel size^regulation of vasodilatation^regulation of vasodilation
+GO:0060348,bone development,3,GO,GO:0060348,bone development
+GO:0030282,bone mineralization,2,GO,GO:0030282,bone calcification
+GO:0046849,bone remodeling,2,GO,GO:0046849,bone remodelling
+GO:0045453,bone resorption,2,GO,GO:0045453,bone resorption
+GO:0007420,brain development,2,GO,GO:0007420,brain development
+GO:0060444,branching involved in mammary gland duct morphogenesis,2,GO,GO:0060444,mammary gland branching morphogenesis
+GO:0090116,C-5 methylation of cytosine,2,GO,GO:0090116,C-5 methylation of cytosine
+GO:0015691,cadmium ion transport,2,GO,GO:0015691,cadmium transport
+GO:0036444,calcium import into the mitochondrion,2,GO,GO:0036444,calcium ion transmembrane import into mitochondrion^mitochondrial calcium uptake^calcium ion import into mitochondrion^mitochondrial calcium ion import
+GO:0055074,calcium ion homeostasis,4,GO,GO:0055074,regulation of calcium ion concentration
+GO:0070509,calcium ion import,2,GO,GO:0070509,calcium ion uptake^transmembrane calcium influx
+GO:0098703,calcium ion import across plasma membrane,2,GO,GO:0098703,GO:1990035^calcium ion import into cell^calcium ion uptake into cell
+GO:0019722,calcium-mediated signaling,5,GO,GO:0019722,calcium ion signaling^calcium signaling^calcium signalling^calcium-mediated signalling
+GO:0006171,cAMP biosynthetic process,2,GO,GO:0006171,"3',5' cAMP biosynthesis^3',5' cAMP biosynthetic process^3',5'-cAMP biosynthesis^3',5'-cAMP biosynthetic process^adenosine 3',5'-cyclophosphate biosynthesis^adenosine 3',5'-cyclophosphate biosynthetic process^cAMP anabolism^cAMP biosynthesis^cAMP formation^cAMP synthesis"
+GO:0046058,cAMP metabolic process,2,GO,GO:0046058,"3',5' cAMP metabolic process^3',5' cAMP metabolism^3',5'-cAMP metabolic process^3',5'-cAMP metabolism^adenosine 3',5'-cyclophosphate metabolic process^adenosine 3',5'-cyclophosphate metabolism^cAMP metabolism^cyclic AMP metabolic process^cyclic AMP metabolism^cAMP generating peptide activity"
+GO:1990079,cartilage homeostasis,2,GO,GO:1990079,GO:1902094^GO:1902095^GO:1902096^negative regulation of cartilage homeostasis^positive regulation of cartilage homeostasis^regulation of cartilage homeostasis
+GO:0002301,"CD4-positive, alpha-beta intraepithelial T cell differentiation",2,GO,GO:0002301,"CD4-positive, alpha-beta intraepithelial T lymphocyte differentiation^CD4-positive, alpha-beta intraepithelial T-cell differentiation^CD4-positive, alpha-beta intraepithelial T-lymphocyte differentiation^CD4-positive, alpha-beta intraepithelial T cell development"
+GO:0043373,"CD4-positive, alpha-beta T cell lineage commitment",2,GO,GO:0043373,"CD4-positive, alpha-beta T lymphocyte lineage commitment^CD4-positive, alpha-beta T-cell lineage commitment^CD4-positive, alpha-beta T-lymphocyte lineage commitment"
+GO:0043374,"CD8-positive, alpha-beta T cell differentiation",3,GO,GO:0043374,"CD8-positive, alpha-beta T lymphocyte differentiation^CD8-positive, alpha-beta T-cell differentiation^CD8-positive, alpha-beta T-lymphocyte differentiation^CD8-positive, alpha-beta T cell development"
+GO:0043375,"CD8-positive, alpha-beta T cell lineage commitment",2,GO,GO:0043375,"CD8-positive, alpha-beta T cell fate commitment^CD8-positive, alpha-beta T lymphocyte lineage commitment^CD8-positive, alpha-beta T-cell lineage commitment^CD8-positive, alpha-beta T-lymphocyte lineage commitment"
+GO:0098609,cell-cell adhesion,2,GO,GO:0098609,GO:0016337^single organismal cell-cell adhesion
+GO:0140253,cell-cell fusion,2,GO,GO:0140253,cell cell fusion^cell fusion
+GO:0045217,cell-cell junction maintenance,2,GO,GO:0045217,intercellular junction maintenance
+GO:0007267,cell-cell signaling,2,GO,GO:0007267,cell-cell signalling
+GO:0099156,cell-cell signaling via exosome,2,GO,GO:0099156,exosome mediated
+GO:0060326,cell chemotaxis,4,GO,GO:0060326,cell chemotaxis
+GO:0007049,cell cycle,3,GO,GO:0007049,cell-division cycle
+GO:0008219,cell death,14,GO,GO:0008219,accidental cell death^necrosis
+GO:0016049,cell growth,6,GO,GO:0016049,GO:0048591^cellular growth^growth of cell^cell expansion^metabolic process resulting in cell growth^metabolism resulting in cell growth^non-developmental cell growth^non-developmental growth of a unicellular organism
+GO:0016477,cell migration,5,GO,GO:0016477,cell migration
+GO:0008283,cell population proliferation,20,GO,GO:0008283,cell proliferation^cell population proliferation
+GO:0045454,cell redox homeostasis,4,GO,GO:0045454,GO:0030503^GO:0045867^GO:0045868^regulation of cell redox homeostasis^regulation of redox homeostasis
+GO:0031589,cell-substrate adhesion,2,GO,GO:0031589,cell-substrate adhesion
+GO:0006874,intracellular calcium ion homeostasis,10,GO,GO:0006874,cellular calcium ion homeostasis^regulation of calcium ion concentration
+GO:0006879,intracellular iron ion homeostasis,2,GO,GO:0006879,cellular iron ion homeostasis^iron homeostasis
+GO:0044237,cellular metabolic process,22,GO,GO:0044237,cellular metabolism^intermediary metabolism
+GO:0033484,intracellular nitric oxide homeostasis,2,GO,GO:0033484,cellular nitric oxide homeostasis^nitric oxide homeostasis^NO homeostasis
+GO:0071243,cellular response to arsenic-containing substance,3,GO,GO:0071243,cellular response to arsenic
+GO:0006974,cellular response to DNA damage stimulus,11,GO,GO:0006974,GO:0034984^cellular DNA damage response^DNA damage response^response to genotoxic stress^response to DNA damage stimulus
+GO:0032869,cellular response to insulin stimulus,2,GO,GO:0032869,cellular response to insulin stimulus
+GO:0034599,cellular response to oxidative stress,3,GO,GO:0034599,adaptive response to oxidative stress
+GO:0071461,cellular response to redox state,3,GO,GO:0071461,cellular redox signal response
+GO:0033554,cellular response to stress,4,GO,GO:0033554,cellular response to stress
+GO:0071492,cellular response to UV-A,3,GO,GO:0071492,cellular response to UV-A light stimulus^cellular response to UV-A radiation stimulus^cellular response to UVA light stimulus^cellular response to UVA radiation stimulus
+GO:0071493,cellular response to UV-B,2,GO,GO:0071493,cellular response to medium wave ultraviolet light stimulus^cellular response to medium wave ultraviolet radiation stimulus^cellular response to UV-B light stimulus^cellular response to UV-B radiation stimulus^cellular response to UVB light stimulus^cellular response to UVB radiation stimulus
+GO:0006882,intracellular zinc ion homeostasis,2,GO,GO:0006882,cellular zinc ion homeostasis^zinc homeostasis
+GO:0006935,chemotaxis,2,GO,GO:0006935,taxis in response to chemical stimulus
+GO:0042632,cholesterol homeostasis,3,GO,GO:0042632,GO:2000188^GO:2000189^positive regulation of cholesterol homeostasis^regulation of cholesterol homeostasis
+GO:0008203,cholesterol metabolic process,3,GO,GO:0008203,cholesterol metabolism
+GO:0019695,choline metabolic process,3,GO,GO:0019695,choline metabolism
+GO:0060718,chorionic trophoblast cell differentiation,2,GO,GO:0060718,chorionic trophoblast cell differentiation
+GO:0006338,chromatin remodeling,2,GO,GO:0006338,GO:0043044^chromatin modeling^chromatin modelling^chromatin remodelling^ATP-dependent chromatin remodeling^ATP-dependent chromatin remodelling
+GO:0055068,cobalt ion homeostasis,2,GO,GO:0055068,cobalt homeostasis
+GO:0050890,cognition,6,GO,GO:0050890,cognition
+GO:0055070,copper ion homeostasis,2,GO,GO:0055070,copper homeostasis
+GO:0034650,cortisol metabolic process,3,GO,GO:0034650,cortisol metabolism
+GO:0006600,creatine metabolic process,2,GO,GO:0006600,creatine metabolism
+GO:0046449,creatinine metabolic process,2,GO,GO:0046449,creatinine metabolism
+GO:0002534,cytokine production involved in inflammatory response,5,GO,GO:0002534,cytokine production involved in acute inflammatory response
+GO:0046697,decidualization,3,GO,GO:0046697,decidual cell reaction
+GO:0050974,detection of mechanical stimulus involved in sensory perception,2,GO,GO:0050974,"sensory detection of mechanical stimulus^sensory detection of mechanical stimulus during sensory perception^sensory perception, sensory detection of mechanical stimulus^sensory perception, sensory transduction of mechanical stimulus^sensory transduction of mechanical stimulus^sensory transduction of mechanical stimulus during sensory perception"
+GO:0070994,detection of oxidative stress,9,GO,GO:0070994,detection of oxidative stress
+GO:0071722,detoxification of arsenic-containing substance,2,GO,GO:0071722,detoxification of arsenic
+GO:0048589,developmental growth,3,GO,GO:0048589,developmental growth
+GO:0003006,developmental process involved in reproduction,5,GO,GO:0003006,reproductive developmental process^puberty
+GO:0071897,DNA biosynthetic process,3,GO,GO:0071897,DNA anabolism^DNA biosynthesis^DNA formation^DNA synthesis
+GO:0006308,DNA catabolic process,4,GO,GO:0006308,DNA breakdown^DNA catabolism^DNA degradation
+GO:0044026,DNA hypermethylation,2,GO,GO:0044026,DNA hypermethylation
+GO:0044028,DNA hypomethylation,2,GO,GO:0044028,DNA hypomethylation
+GO:0006306,DNA methylation,7,GO,GO:0006306,DNA methylation
+GO:0043045,DNA methylation involved in embryo development,2,GO,GO:0043045,de novo DNA methylation
+GO:0043046,DNA methylation involved in gamete generation,2,GO,GO:0043046,de novo DNA methylation
+GO:0010424,DNA methylation on cytosine within a CG sequence,9,GO,GO:0010424,cytosine methylation within a CG sequence
+GO:0006304,DNA modification,4,GO,GO:0006304,DNA modification
+GO:0006281,DNA repair,3,GO,GO:0006281,DNA repair
+GO:0022900,electron transport chain,2,GO,GO:0022900,electron transport chain
+GO:0007566,embryo implantation,2,GO,GO:0007566,blastocyst implantation
+GO:0098508,endothelial to hematopoietic transition,2,GO,GO:0098508,endothelial to hematopoietic transition
+GO:0001837,epithelial to mesenchymal transition,2,GO,GO:0001837,EMT^epithelial-mesenchymal transition^mesenchymal cell differentiation from epithelial cell
+GO:0030218,erythrocyte differentiation,2,GO,GO:0030218,erythrocyte cell differentiation^erythropoiesis^RBC differentiation^red blood cell differentiation
+GO:0034101,erythrocyte homeostasis,2,GO,GO:0034101,RBC homeostasis^red blood cell homeostasis
+GO:0035938,estradiol secretion,2,GO,GO:0035938,oestradiol secretion
+GO:0008210,estrogen metabolic process,4,GO,GO:0008210,estrogen metabolism^oestrogen metabolic process^oestrogen metabolism
+GO:0035937,estrogen secretion,4,GO,GO:0035937,oestrogen secretion
+GO:0045444,fat cell differentiation,4,GO,GO:0045444,adipocyte cell differentiation^adipocyte differentiation^adipose cell differentiation^adipogenesis
+GO:0055089,fatty acid homeostasis,2,GO,GO:0055089,fatty acid homeostasis
+GO:0006631,fatty acid metabolic process,2,GO,GO:0006631,fatty acid metabolism
+GO:0038096,Fc-gamma receptor signaling pathway involved in phagocytosis,2,GO,GO:0038096,Fc gamma receptor-dependent phagocytosis^Fc-gamma receptor signalling pathway involved in phagocytosis^Fcgamma receptor-mediated phagocytosis^IgG-mediated phagocytosis
+GO:0097707,ferroptosis,2,GO,GO:0097707,iron-dependent programmed cell death
+GO:0030317,flagellated sperm motility,3,GO,GO:0030317,GO:0097724^GO:1905419^flagellated sperm movement^sperm flagellum movement^sperm flagellum movement involved in flagellated sperm motility^sperm flagellum movement involved in flagellated sperm movement^sperm motility^sperm movement
+GO:0046655,folic acid metabolic process,3,GO,GO:0046655,folate metabolic process^folate metabolism^folic acid metabolism^vitamin B9 metabolic process^vitamin B9 metabolism^vitamin M metabolic process^vitamin M metabolism
+GO:0045023,G0 to G1 transition,5,GO,GO:0045023,G0 to G1 transition
+GO:0000082,G1/S transition of mitotic cell cycle,2,GO,GO:0000082,G1/S transition of mitotic cell cycle
+GO:0000086,G2/M transition of mitotic cell cycle,11,GO,GO:0000086,mitotic G2/M transition
+GO:0009448,gamma-aminobutyric acid metabolic process,2,GO,GO:0009448,4-aminobutanoate metabolic process^4-aminobutanoate metabolism^4-aminobutyrate metabolic process^4-aminobutyrate metabolism^GABA metabolic process^GABA metabolism^gamma-aminobutyric acid metabolism
+GO:0010467,gene expression,10,GO,GO:0010467,gene expression
+GO:0003094,glomerular filtration,4,GO,GO:0003094,glomerular filtration
+GO:0006094,gluconeogenesis,2,GO,GO:0006094,glucose biosynthesis^glucose biosynthetic process
+GO:0042593,glucose homeostasis,5,GO,GO:0042593,glucose homeostasis
+GO:0046323,glucose import,4,GO,GO:0046323,glucose uptake
+GO:0098708,glucose import across plasma membrane,2,GO,GO:0098708,GO:0061490^GO:1990821^glucose import into cell^high affinity glucose import
+GO:0006006,glucose metabolic process,6,GO,GO:0006006,cellular glucose metabolic process^glucose metabolism
+GO:0006537,glutamate biosynthetic process,3,GO,GO:0006537,"glutamate anabolism^glutamate biosynthesis^glutamate formation^glutamate synthesis^glutamic acid biosynthesis^glutamic acid biosynthetic process^glutamate biosynthesis, using glutamate dehydrogenase (NAD(P)+)^glutamate biosynthesis, using glutamate synthase (NADPH)^glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)^glutamate biosynthetic process, using glutamate synthase (NADPH)"
+GO:0006536,glutamate metabolic process,2,GO,GO:0006536,glutamate metabolism^glutamic acid metabolic process^glutamic acid metabolism
+GO:0006542,glutamine biosynthetic process,2,GO,GO:0006542,glutamine anabolism^glutamine biosynthesis^glutamine formation^glutamine synthesis
+GO:0006750,glutathione biosynthetic process,9,GO,GO:0006750,glutathione anabolism^glutathione biosynthesis^glutathione formation^glutathione synthesis
+GO:0006749,glutathione metabolic process,10,GO,GO:0006749,glutathione metabolism^oxidized glutathione reduction
+GO:0006071,glycerol metabolic process,2,GO,GO:0006071,glycerol metabolism
+GO:0006650,glycerophospholipid metabolic process,2,GO,GO:0006650,GO:0006652^glycerophospholipid metabolism^phosphoglyceride metabolic process^phosphoglyceride metabolism^alpha-glycerophosphate pathway
+GO:0006545,glycine biosynthetic process,3,GO,GO:0006545,glycine anabolism^glycine biosynthesis^glycine formation^glycine synthesis
+GO:0006544,glycine metabolic process,2,GO,GO:0006544,glycine metabolism
+GO:0006096,glycolytic process,2,GO,GO:0006096,GO:0019641^GO:0019642^anaerobic glycolysis^Embden-Meyerhof pathway^Embden-Meyerhof-Parnas pathway^glycolysis^modifed Embden-Meyerhof pathway
+GO:0060322,head development,4,GO,GO:0060322,head development
+GO:0060047,heart contraction,2,GO,GO:0060047,heart beating^cardiac contraction^hemolymph circulation
+GO:0042168,heme metabolic process,2,GO,GO:0042168,haem metabolic process^haem metabolism^heme metabolism
+GO:0042541,hemoglobin biosynthetic process,2,GO,GO:0042541,haemoglobin biosynthesis^haemoglobin biosynthetic process^hemoglobin anabolism^hemoglobin biosynthesis^hemoglobin formation^hemoglobin synthesis
+GO:0061007,hepaticobiliary system process,2,GO,GO:0061007,hepatobiliary system process
+GO:0031507,heterochromatin formation,2,GO,GO:0031507,GO:0006342^GO:0006343^GO:0016440^GO:0070869^GO:1904497^chromatin silencing^chromatin-mediated silencing^establishment of heterochromatin architecture^heterochromatin assembly^establishment of chromatin silencing
+GO:0044154,histone H3-K14 acetylation,2,GO,GO:0044154,histone H3 acetylation at K14^histone H3K14 acetylation
+GO:0043971,histone H3-K18 acetylation,2,GO,GO:0043971,histone H3 acetylation at K18^histone H3K18 acetylation
+GO:0098532,histone H3-K27 trimethylation,2,GO,GO:0098532,histone H3-K27 trimethylation
+GO:0097676,histone H3-K36 dimethylation,2,GO,GO:0097676,histone H3-K36 dimethylation
+GO:0097198,histone H3-K36 trimethylation,2,GO,GO:0097198,histone H3-K36 trimethylation
+GO:0034720,histone H3-K4 demethylation,2,GO,GO:0034720,H3K4 demethylation (me1 me2 and me3)
+GO:0044648,histone H3-K4 dimethylation,3,GO,GO:0044648,histone H3-K4 dimethylation
+GO:0080182,histone H3-K4 trimethylation,2,GO,GO:0080182,histone H3-K4 trimethylation
+GO:0043970,histone H3-K9 acetylation,2,GO,GO:0043970,histone H3 acetylation at K9^histone H3K9 acetylation
+GO:0036123,histone H3-K9 dimethylation,4,GO,GO:0036123,histone H3 K9 dimethylation^histone lysine H3 K9 dimethylation
+GO:0043982,histone H4-K8 acetylation,2,GO,GO:0043982,histone H4 acetylation at K8
+GO:0050667,homocysteine metabolic process,2,GO,GO:0050667,Hcy metabolic process^Hcy metabolism^homocysteine metabolism
+GO:0042445,hormone metabolic process,4,GO,GO:0042445,GO:0034754^hormone metabolism^cellular hormone metabolic process
+GO:0048874,host-mediated regulation of intestinal microbiota composition,4,GO,GO:0048874,homeostasis of number of cells in a free-living population^host-induced regulation of intestinal microbiota composition
+GO:0006959,humoral immune response,2,GO,GO:0006959,humoral immune response
+GO:0002455,humoral immune response mediated by circulating immunoglobulin,2,GO,GO:0002455,circulating antibody mediated immune response^circulating immunoglobulin mediated immune response^humoral immune response mediated by circulating antibody^humoral defence mechanism
+GO:0050665,hydrogen peroxide biosynthetic process,2,GO,GO:0050665,H2O2 biosynthetic process^hydrogen peroxide anabolism^hydrogen peroxide biosynthesis^hydrogen peroxide formation^hydrogen peroxide generation^hydrogen peroxide synthesis
+GO:0042743,hydrogen peroxide metabolic process,2,GO,GO:0042743,H2O2 metabolic process^hydrogen peroxide metabolism
+GO:0044027,negative regulation of gene expression via CpG island methylation,2,GO,GO:0044027,DNA hypermethylation of CpG island^epigenetic regulation of gene expression via CpG island hypermethylation^hypermethylation of CpG island^negative regulation of gene expression via CpG island hypermethylation
+GO:0044029,positive regulation of gene expression via CpG island demethylation,2,GO,GO:0044029,DNA hypomethylation of CpG island^hypomethylation of CpG island
+GO:0007249,I-kappaB kinase/NF-kappaB signaling,2,GO,GO:0007249,canonical NF-kappaB signaling cascade^I-kappaB kinase/NF-kappaB signal transduction^activation of the inhibitor of kappa kinase^I-kappaB kinase/NF-kappaB cascade^p50-dependent NF-kappaB signaling^NF-kappaB cascade
+GO:0006955,immune response,2,GO,GO:0006955,immune response
+GO:0002377,immunoglobulin production,2,GO,GO:0002377,GO:0002378^GO:0048305^antibody production^immunoglobulin biosynthetic process^immunoglobulin secretion
+GO:0002381,immunoglobulin production involved in immunoglobulin-mediated immune response,3,GO,GO:0002381,GO:0002379^GO:0002380^immunoglobulin production involved in immunoglobulin mediated immune response^antibody production during immune response^antibody secretion during immune response^immunoglobulin production during immune response^immunoglobulin production involved in immune response^immunoglobulin biosynthetic process involved in immune response^immunoglobulin secretion involved in immune response
+GO:0006954,inflammatory response,7,GO,GO:0006954,inflammation
+GO:0045087,innate immune response,2,GO,GO:0045087,GO:0002226^innate immunity^nonspecific immune response
+GO:0098771,inorganic ion homeostasis,4,GO,GO:0098771,inorganic ion homeostasis
+GO:0006020,inositol metabolic process,2,GO,GO:0006020,inositol metabolism^vitamin Bh metabolic process^vitamin Bh metabolism^myo-inositol metabolic process^myo-inositol metabolism
+GO:1901142,insulin metabolic process,5,GO,GO:1901142,insulin metabolism
+GO:0035773,insulin secretion involved in cellular response to glucose stimulus,2,GO,GO:0035773,insulin secretion involved in cellular response to glucose
+GO:0032616,interleukin-13 production,2,GO,GO:0032616,GO:0042231^GO:0072611^IL-13 production^interleukin-13 biosynthetic process^interleukin-13 secretion
+GO:0032611,interleukin-1 beta production,2,GO,GO:0032611,GO:0050702^GO:0050720^IL-1 beta production^interleukin-1 beta biosynthetic process^interleukin-1 beta secretion
+GO:0032636,interleukin-7 production,2,GO,GO:0032636,GO:0042227^GO:0072605^IL-7 production^interleukin-7 biosynthetic process^interleukin-7 secretion
+GO:0051452,intracellular pH reduction,2,GO,GO:0051452,cell pH reduction^cellular acidification^reduction of cellular pH^reduction of pH in cell^intracellular acidification
+GO:0070059,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,3,GO,GO:0070059,apoptosis in response to ER stress^apoptosis triggered by ER stress^endoplasmic reticulum stress-induced apoptosis^ER stress-induced apoptosis^intrinsic apoptotic signaling pathway induced by endoplasmic reticulum stress^apoptosis in response to endoplasmic reticulum stress
+GO:0033212,iron import into cell,2,GO,GO:0033212,GO:0070627^iron assimilation^ferrous ion import^ferrous iron import^ferrous iron uptake^iron import into cell
+GO:0055072,iron ion homeostasis,2,GO,GO:0055072,iron homeostasis
+GO:0006826,iron ion transport,2,GO,GO:0006826,GO:0015681^GO:0015682^GO:0015684^GO:0033216^GO:0097286^iron transport^iron ion import^ferric ion import^ferric ion transport^ferric iron import
+GO:0009097,isoleucine biosynthetic process,2,GO,GO:0009097,isoleucine anabolism^isoleucine biosynthesis^isoleucine formation^isoleucine synthesis
+GO:0034275,kynurenic acid metabolic process,3,GO,GO:0034275,4-hydroxyquinoline-2-carboxylic acid metabolic process^kynurenic acid metabolism
+GO:0006089,lactate metabolic process,5,GO,GO:0006089,2-hydroxypropanoate metabolic process^2-hydroxypropanoate metabolism^alpha-hydroxypropionate metabolic process^alpha-hydroxypropionate metabolism^lactate metabolism
+GO:0019852,L-ascorbic acid metabolic process,2,GO,GO:0019852,ascorbate metabolic process^ascorbate metabolism^L-ascorbic acid metabolism^vitamin C metabolic process^vitamin C metabolism
+GO:0015692,lead ion transport,2,GO,GO:0015692,lead ion transport
+GO:0007612,learning,2,GO,GO:0007612,learning
+GO:0007611,learning or memory,2,GO,GO:0007611,learning or memory
+GO:0009098,leucine biosynthetic process,2,GO,GO:0009098,leucine anabolism^leucine biosynthesis^leucine formation^leucine synthesis
+GO:0001776,leukocyte homeostasis,2,GO,GO:0001776,immune cell homeostasis^leucocyte homeostasis
+GO:0008610,lipid biosynthetic process,5,GO,GO:0008610,lipid anabolism^lipid biosynthesis^lipid formation^lipid synthesis^lipogenesis
+GO:0016042,lipid catabolic process,9,GO,GO:0016042,GO:0006724^GO:0044240^lipid breakdown^lipid catabolism^lipid degradation^lipolysis^multicellular organism lipid catabolic process^multicellular organismal lipid catabolic process
+GO:0140042,lipid droplet formation,8,GO,GO:0140042,adiposome formation^lipid body formation^lipid particle formation
+GO:0006629,lipid metabolic process,3,GO,GO:0006629,lipid metabolism
+GO:0034440,lipid oxidation,5,GO,GO:0034440,lipid oxidation
+GO:0034439,lipoprotein lipid oxidation,2,GO,GO:0034439,lipoprotein lipid oxidation
+GO:0009094,L-phenylalanine biosynthetic process,3,GO,GO:0009094,"GO:0019274^GO:0019275^L-phenylalanine anabolism^L-phenylalanine biosynthesis^L-phenylalanine formation^L-phenylalanine synthesis^phenylalanine biosynthetic process, prephenate pathway^phenylalanine biosynthetic process, shikimate pathway^phenylalanine biosynthesis^phenylalanine biosynthetic process"
+GO:0006558,L-phenylalanine metabolic process,2,GO,GO:0006558,L-phenylalanine metabolism^phenylalanine metabolic process^phenylalanine metabolism
+GO:0002260,lymphocyte homeostasis,3,GO,GO:0002260,lymphocyte homeostasis
+GO:0002449,lymphocyte mediated immunity,2,GO,GO:0002449,cell-mediated immunity^cellular immune response
+GO:0009085,lysine biosynthetic process,3,GO,GO:0009085,lysine anabolism^lysine biosynthesis^lysine formation^lysine synthesis
+GO:0006554,lysine catabolic process,2,GO,GO:0006554,lysine breakdown^lysine catabolism^lysine degradation
+GO:0007042,lysosomal lumen acidification,2,GO,GO:0007042,lysosome pH reduction
+GO:0035752,lysosomal lumen pH elevation,2,GO,GO:0035752,lysosome pH elevation
+GO:0007040,lysosome organization,2,GO,GO:0007040,lysosome organisation^lysosome organization and biogenesis
+GO:0072660,maintenance of protein location in plasma membrane,2,GO,GO:0072660,maintenance of protein location in plasma membrane
+GO:0002174,mammary stem cell proliferation,2,GO,GO:0002174,mammary stem cell proliferation
+GO:0097502,mannosylation,4,GO,GO:0097502,mannosylation
+GO:0000165,MAPK cascade,2,GO,GO:0000165,GO:0007255^MAP kinase cascade^MAP kinase kinase kinase cascade^MAPK signal transduction^MAPKKK cascade^mitogen-activated protein kinase cascade^MAPK signaling^MAPK signalling^ERK/MAPK cascade^MAPKKK cascade during sporulation
+GO:1990773,matrix metallopeptidase secretion,2,GO,GO:1990773,MMP secretion^matrix metalloproteinase secretion
+GO:0035855,megakaryocyte development,2,GO,GO:0035855,megakaryocyte cell development
+GO:0042438,melanin biosynthetic process,4,GO,GO:0042438,melanin anabolism^melanin biosynthesis^melanin formation^melanin synthesis
+GO:0051899,membrane depolarization,2,GO,GO:0051899,membrane depolarization
+GO:0046466,membrane lipid catabolic process,5,GO,GO:0046466,membrane lipid breakdown^membrane lipid catabolism^membrane lipid degradation^membrane lipid peroxidation
+GO:0007613,memory,4,GO,GO:0007613,memory
+GO:0042697,menopause,2,GO,GO:0042697,menopause
+GO:0008152,metabolic process,6,GO,GO:0008152,GO:0044236^GO:0044710^metabolism^single-organism metabolic process^metabolic process resulting in cell growth^metabolism resulting in cell growth^multicellular organism metabolic process
+GO:0055065,metal ion homeostasis,5,GO,GO:0055065,metal ion homeostasis
+GO:0030001,metal ion transport,5,GO,GO:0030001,GO:0070838^GO:0070839^divalent metal ion export^divalent metal ion transport^heavy metal ion transport^metal ion export
+GO:0032259,methylation,2,GO,GO:0032259,methylation
+GO:0032125,micronucleus organization,5,GO,GO:0032125,micronuclear organization^micronucleus organisation^micronuclear organization and biogenesis
+GO:0034454,microtubule anchoring at centrosome,2,GO,GO:0034454,microtubule anchoring at centrosome
+GO:0031959,mineralocorticoid receptor signaling pathway,3,GO,GO:0031959,mineralocorticoid receptor signalling pathway
+GO:0042775,mitochondrial ATP synthesis coupled electron transport,3,GO,GO:0042775,mitochondrial electron transport^organelle ATP synthesis coupled electron transport
+GO:0051560,mitochondrial calcium ion homeostasis,2,GO,GO:0051560,calcium ion homeostasis in mitochondria^calcium ion homeostasis in mitochondrion^mitochondrial calcium ion concentration regulation^regulation of calcium ion concentration in mitochondria^regulation of calcium ion concentration in mitochondrion^regulation of mitochondrial calcium ion concentration
+GO:0033617,mitochondrial cytochrome c oxidase assembly,2,GO,GO:0033617,mitochondrial cytochrome c oxidase complex assembly^mitochondrial respiratory chain complex IV assembly^mitochondrial cytochrome c oxidase biogenesis
+GO:0051882,mitochondrial depolarization,6,GO,GO:0051882,mitochondria depolarization^mitochondrial depolarisation^mitochondrial membrane depolarization^mitochondrion depolarization
+GO:0032042,mitochondrial DNA metabolic process,3,GO,GO:0032042,mitochondrial DNA metabolism^mtDNA metabolic process^mtDNA metabolism
+GO:0006264,mitochondrial DNA replication,2,GO,GO:0006264,mtDNA replication^replication of mitochondrial DNA^mitochondrial DNA synthesis^mtDNA synthesis
+GO:0006123,"mitochondrial electron transport, cytochrome c to oxygen",2,GO,GO:0006123,complex IV (reduction of O2)
+GO:0000266,mitochondrial fission,3,GO,GO:0000266,mitochondrial division^mitochondrial proliferation
+GO:0007005,mitochondrion organization,3,GO,GO:0007005,mitochondria organization^mitochondrion organisation^mitochondrion organization and biogenesis
+GO:0000423,mitophagy,2,GO,GO:0000423,macromitophagy
+GO:0000278,mitotic cell cycle,6,GO,GO:0000278,GO:0007067^mitosis
+GO:1903047,mitotic cell cycle process,6,GO,GO:1903047,mitotic cell cycle process
+GO:0000281,mitotic cytokinesis,2,GO,GO:0000281,cytokinesis after mitosis
+GO:0000080,mitotic G1 phase,4,GO,GO:0000080,G1 phase of mitotic cell cycle
+GO:0000084,mitotic S phase,7,GO,GO:0000084,S phase of mitotic cell cycle^S-phase of mitotic cell cycle
+GO:0006812,monoatomic cation transport,2,GO,GO:0006812,"GO:0006819^GO:0015674^GO:0072512^cation transport^di-, tri-valent inorganic cation transport^trivalent inorganic cation transport"
+GO:0009299,mRNA transcription,2,GO,GO:0009299,GO:0061023^cellular mRNA transcription^mRNA biosynthesis^mRNA biosynthetic process^mRNA synthesis
+GO:0033555,multicellular organismal response to stress,2,GO,GO:0033555,multicellular organismal response to stress
+GO:0070266,necroptotic process,2,GO,GO:0070266,GO:0060553^GO:0060554^GO:0060555^RIPK1-mediated regulated necrosis^activation of necroptosis^activation of necroptosis by extracellular signals^activation of necroptosis in response to extracellular signals^activation of necroptosis of activated-T cells^establishment of necroptosis^establishment of necroptosis of activated-T cells
+GO:0070265,necrotic cell death,4,GO,GO:0070265,cellular necrosis^necrosis
+GO:0046007,negative regulation of activated T cell proliferation,2,GO,GO:0046007,down regulation of activated T cell proliferation^down-regulation of activated T cell proliferation^downregulation of activated T cell proliferation^negative regulation of activated T lymphocyte proliferation^negative regulation of activated T-cell proliferation^negative regulation of activated T-lymphocyte proliferation^inhibition of activated T cell proliferation
+GO:2001170,negative regulation of ATP biosynthetic process,2,GO,GO:2001170,negative regulation of ATP anabolism^negative regulation of ATP biosynthesis^negative regulation of ATP formation^negative regulation of ATP synthesis^negative regulation of ATP regeneration
+GO:0010507,negative regulation of autophagy,2,GO,GO:0010507,negative regulation of autophagy
+GO:0070885,negative regulation of calcineurin-NFAT signaling cascade,2,GO,GO:0070885,GO:0051534^down regulation of calcineurin-NFAT signaling cascade^down-regulation of calcineurin-NFAT signaling cascade^downregulation of calcineurin-NFAT signaling cascade^negative regulation of calcineurin-NFAT signalling cascade^negative regulation of calcineurin-NFAT signaling pathway^inhibition of calcineurin-NFAT signaling cascade^inhibition of NFAT protein import into nucleus^negative regulation of NFAT protein import into nucleus^termination of calcineurin-NFAT signaling cascade
+GO:2000726,negative regulation of cardiac muscle cell differentiation,2,GO,GO:2000726,negative regulation of cardiomyocyte differentiation^negative regulation of heart muscle cell differentiation
+GO:1902552,negative regulation of catalase activity,3,GO,GO:1902552,down regulation of caperase activity^down regulation of catalase activity^down regulation of catalase reaction^down regulation of catalase-peroxidase activity^down regulation of equilase activity^down regulation of hydrogen-peroxide:hydrogen-peroxide oxidoreductase activity^down regulation of optidase activity^down-regulation of caperase activity^down-regulation of catalase activity^down-regulation of catalase reaction
+GO:0008285,negative regulation of cell population proliferation,13,GO,GO:0008285,down regulation of cell proliferation^down-regulation of cell proliferation^downregulation of cell proliferation^negative regulation of cell proliferation^inhibition of cell proliferation
+GO:0031324,negative regulation of cellular metabolic process,4,GO,GO:0031324,down regulation of cellular metabolic process^down-regulation of cellular metabolic process^downregulation of cellular metabolic process^negative regulation of cellular metabolism^inhibition of cellular metabolic process
+GO:0010826,negative regulation of centrosome duplication,2,GO,GO:0010826,negative regulation of centrosome duplication
+GO:0043392,negative regulation of DNA binding,2,GO,GO:0043392,down regulation of DNA binding^down-regulation of DNA binding^downregulation of DNA binding^inhibition of DNA binding
+GO:1904339,negative regulation of dopaminergic neuron differentiation,2,GO,GO:1904339,down regulation of dopaminergic neuron differentiation^down-regulation of dopaminergic neuron differentiation^downregulation of dopaminergic neuron differentiation^inhibition of dopaminergic neuron differentiation
+GO:0070373,negative regulation of ERK1 and ERK2 cascade,2,GO,GO:0070373,down regulation of ERK1 and ERK2 cascade^down-regulation of ERK1 and ERK2 cascade^downregulation of ERK1 and ERK2 cascade^negative regulation of ERK1 and ERK2 signaling pathway^negative regulation of ERK1 and ERK2 signalling pathway^negative regulation of ERK1/2 cascade^negative regulation of ERK cascade^inhibition of ERK1 and ERK2 cascade^negative regulation of ERK1 cascade^negative regulation of ERK2 cascade
+GO:1901318,negative regulation of flagellated sperm motility,3,GO,GO:1901318,down regulation of sperm motility^down regulation of sperm movement^down-regulation of sperm motility^down-regulation of sperm movement^downregulation of sperm motility^downregulation of sperm movement^inhibition of sperm movement^negative regulation of sperm motility^negative regulation of sperm movement^inhibition of sperm motility
+GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,2,GO,GO:0010972,negative regulation of mitotic entry
+GO:0003105,negative regulation of glomerular filtration,3,GO,GO:0003105,negative regulation of glomerular filtration
+GO:1903283,negative regulation of glutathione peroxidase activity,3,GO,GO:1903283,down regulation of glutathione peroxidase activity^down regulation of glutathione:hydrogen-peroxide oxidoreductase activity^down regulation of GSH peroxidase activity^down regulation of reduced glutathione peroxidase activity^down regulation of selenium-glutathione peroxidase activity^down-regulation of glutathione peroxidase activity^down-regulation of glutathione:hydrogen-peroxide oxidoreductase activity^down-regulation of GSH peroxidase activity^down-regulation of reduced glutathione peroxidase activity^down-regulation of selenium-glutathione peroxidase activity
+GO:1901726,negative regulation of histone deacetylase activity,3,GO,GO:1901726,down regulation of histone deacetylase activity^down-regulation of histone deacetylase activity^downregulation of histone deacetylase activity^inhibition of histone deacetylase activity
+GO:1905457,negative regulation of lymphoid progenitor cell differentiation,2,GO,GO:1905457,down regulation of lymphoid progenitor cell differentiation^down-regulation of lymphoid progenitor cell differentiation^downregulation of lymphoid progenitor cell differentiation^inhibition of lymphoid progenitor cell differentiation
+GO:2000019,negative regulation of male gonad development,2,GO,GO:2000019,negative regulation of testicular development^negative regulation of testis development
+GO:0010637,negative regulation of mitochondrial fusion,2,GO,GO:0010637,negative regulation of mitochondrial fusion
+GO:0010917,negative regulation of mitochondrial membrane potential,3,GO,GO:0010917,reduction of mitochondrial membrane potential
+GO:0045930,negative regulation of mitotic cell cycle,13,GO,GO:0045930,down regulation of progression through mitotic cell cycle^down-regulation of progression through mitotic cell cycle^downregulation of progression through mitotic cell cycle^negative regulation of mitotic cell cycle progression^negative regulation of progression through mitotic cell cycle^inhibition of progression through mitotic cell cycle
+GO:0040015,negative regulation of multicellular organism growth,2,GO,GO:0040015,negative regulation of body growth^negative regulation of body size
+GO:0010977,negative regulation of neuron projection development,2,GO,GO:0010977,growth cone collapse^negative regulation of neurite biosynthesis^negative regulation of neurite development^negative regulation of neurite formation^negative regulation of neurite growth
+GO:0051354,negative regulation of oxidoreductase activity,2,GO,GO:0051354,down regulation of oxidoreductase activity^down-regulation of oxidoreductase activity^downregulation of oxidoreductase activity^oxidoreductase inhibitor^inhibition of oxidoreductase activity
+GO:0043553,negative regulation of phosphatidylinositol 3-kinase activity,2,GO,GO:0043553,down regulation of phosphatidylinositol 3-kinase activity^down-regulation of phosphatidylinositol 3-kinase activity^downregulation of phosphatidylinositol 3-kinase activity^negative regulation of phosphoinositide 3-kinase activity^negative regulation of PI3K activity^inhibition of phosphatidylinositol 3-kinase activity
+GO:0051898,negative regulation of protein kinase B signaling,2,GO,GO:0051898,negative regulation of AKT signalling cascade^negative regulation of PKB signaling cascade^down regulation of protein kinase B signaling cascade^down-regulation of protein kinase B signaling cascade^downregulation of protein kinase B signaling cascade^negative regulation of AKT signaling cascade^negative regulation of PKB signalling cascade^negative regulation of protein kinase B signaling cascade^negative regulation of protein kinase B signalling cascade^inhibition of protein kinase B signaling cascade
+GO:1900181,negative regulation of protein localization to nucleus,2,GO,GO:1900181,down regulation of protein localisation to nucleus^down regulation of protein localization in cell nucleus^down regulation of protein localization in nucleus^down regulation of protein localization to nucleus^down-regulation of protein localisation to nucleus^down-regulation of protein localization in cell nucleus^down-regulation of protein localization in nucleus^down-regulation of protein localization to nucleus^downregulation of protein localisation to nucleus^downregulation of protein localization in cell nucleus
+GO:1903077,negative regulation of protein localization to plasma membrane,2,GO,GO:1903077,GO:0090005^GO:1905964^down regulation of protein localisation in plasma membrane^down regulation of protein localization in plasma membrane^down regulation of protein localization to plasma membrane^down-regulation of protein localisation in plasma membrane^down-regulation of protein localization in plasma membrane^down-regulation of protein localization to plasma membrane^downregulation of protein localisation in plasma membrane^downregulation of protein localization in plasma membrane
+GO:1903427,negative regulation of reactive oxygen species biosynthetic process,3,GO,GO:1903427,down regulation of reactive oxygen species anabolism^down regulation of reactive oxygen species biosynthesis^down regulation of reactive oxygen species biosynthetic process^down regulation of reactive oxygen species formation^down regulation of reactive oxygen species synthesis^down-regulation of reactive oxygen species anabolism^down-regulation of reactive oxygen species biosynthesis^down-regulation of reactive oxygen species biosynthetic process^down-regulation of reactive oxygen species formation^down-regulation of reactive oxygen species synthesis
+GO:1901670,negative regulation of superoxide dismutase activity,6,GO,GO:1901670,"down regulation of superoxide dismutase activity^down regulation of superoxide:superoxide oxidoreductase activity^down-regulation of superoxide dismutase activity^down-regulation of superoxide:superoxide oxidoreductase activity^downregulation of superoxide dismutase activity^downregulation of superoxide:superoxide oxidoreductase activity^inhibition of superoxide:superoxide oxidoreductase activity^negative regulation of superoxide:superoxide oxidoreductase activity^down regulation of Cu,Zn-SOD^down regulation of cuprein"
+GO:2000555,negative regulation of T-helper 1 cell cytokine production,2,GO,GO:2000555,negative regulation of Th1 cell cytokine production
+GO:0051348,negative regulation of transferase activity,2,GO,GO:0051348,down regulation of transferase activity^down-regulation of transferase activity^downregulation of transferase activity^transferase inhibitor^inhibition of transferase activity
+GO:0019227,neuronal action potential propagation,2,GO,GO:0019227,neuronal action potential propagation
+GO:0048666,neuron development,2,GO,GO:0048666,neuron development
+GO:0030182,neuron differentiation,3,GO,GO:0030182,neuron differentiation
+GO:0140058,neuron projection arborization,2,GO,GO:0140058,neurite arborization^neurite branching^neuron projection branching^branching morphogenesis of a neurite^branching morphogenesis of a neuron projection
+GO:0031175,neuron projection development,2,GO,GO:0031175,neurite biosynthesis^neurite development^neurite formation^neurite growth^neurite outgrowth
+GO:1990138,neuron projection extension,5,GO,GO:1990138,neuron process extension^neuron protrusion extension^neuronal cell projection extension^neurite extension
+GO:0006809,nitric oxide biosynthetic process,2,GO,GO:0006809,nitric oxide anabolism^nitric oxide biosynthesis^nitric oxide formation^nitric oxide synthesis
+GO:0140591,nuclear envelope budding,2,GO,GO:0140591,nuclear envelope budding
+GO:0009116,nucleoside metabolic process,2,GO,GO:0009116,nucleoside metabolism
+GO:0009117,nucleotide metabolic process,2,GO,GO:0009117,nucleotide metabolism
+GO:0006997,nucleus organization,2,GO,GO:0006997,GO:0048287^nuclear organisation^nuclear organization^nuclear morphology^nuclear organization and biogenesis^nucleus organization and biogenesis
+GO:0006490,oligosaccharide-lipid intermediate biosynthetic process,4,GO,GO:0006490,oligosaccharide-lipid intermediate assembly
+GO:0001556,oocyte maturation,2,GO,GO:0001556,oocyte maturation
+GO:0001503,ossification,2,GO,GO:0001503,bone biosynthesis^bone formation^osteogenesis
+GO:0001649,osteoblast differentiation,2,GO,GO:0001649,osteoblast cell differentiation
+GO:0001542,ovulation from ovarian follicle,2,GO,GO:0001542,ovulation from ovarian follicle
+GO:0006119,oxidative phosphorylation,2,GO,GO:0006119,respiratory-chain phosphorylation
+GO:0007567,parturition,2,GO,GO:0007567,giving birth^egg laying
+GO:0018119,peptidyl-cysteine S-nitrosylation,2,GO,GO:0018119,protein S-nitrosylation^S-nitrosylation
+GO:0070782,phosphatidylserine exposure on apoptotic cell surface,2,GO,GO:0070782,externalization of phosphatidylserine
+GO:0006644,phospholipid metabolic process,2,GO,GO:0006644,phospholipid metabolism
+GO:0043473,pigmentation,2,GO,GO:0043473,pigmentation
+GO:0001890,placenta development,2,GO,GO:0001890,placental development^placentation
+GO:0007009,plasma membrane organization,2,GO,GO:0007009,plasma membrane organisation^plasma membrane organization and biogenesis
+GO:0017121,plasma membrane phospholipid scrambling,2,GO,GO:0017121,PL scrambling^phospholipid scrambling
+GO:0030168,platelet activation,2,GO,GO:0030168,"blood coagulation, platelet activation"
+GO:0030220,platelet formation,7,GO,GO:0030220,platelet extrusion
+GO:2000251,positive regulation of actin cytoskeleton reorganization,2,GO,GO:2000251,positive regulation of actin cytoskeleton remodeling^positive regulation of actin cytoskeleton reorganisation
+GO:0045766,positive regulation of angiogenesis,2,GO,GO:0045766,up regulation of angiogenesis^up-regulation of angiogenesis^upregulation of angiogenesis^activation of angiogenesis^stimulation of angiogenesis
+GO:1902512,positive regulation of apoptotic DNA fragmentation,2,GO,GO:1902512,positive regulation of DNA catabolic process during apoptosis^positive regulation of DNA catabolism during apoptosis^positive regulation of DNA fragmentation involved in apoptotic nuclear change^positive regulation of endonucleolytic DNA catabolic process involved in apoptosis^up regulation of apoptotic DNA fragmentation^up regulation of DNA catabolic process during apoptosis^up regulation of DNA catabolism during apoptosis^up regulation of DNA fragmentation involved in apoptotic nuclear change^up regulation of endonucleolytic DNA catabolic process involved in apoptosis^up-regulation of apoptotic DNA fragmentation
+GO:0043065,positive regulation of apoptotic process,12,GO,GO:0043065,up regulation of apoptosis^up-regulation of apoptosis^upregulation of apoptosis^pro-apoptosis^activation of apoptosis^positive regulation of apoptosis^stimulation of apoptosis
+GO:0010508,positive regulation of autophagy,5,GO,GO:0010508,positive regulation of autophagy
+GO:1905605,positive regulation of blood-brain barrier permeability,2,GO,GO:1905605,positive regulation of BBB permeability^positive regulation of blood/brain barrier permeability^up-regulation of BBB permeability^up-regulation of blood-brain barrier permeability^up-regulation of blood/brain barrier permeability^upregulation of BBB permeability^upregulation of blood-brain barrier permeability^upregulation of blood/brain barrier permeability^activation of maintenance of permeability of BBB^activation of maintenance of permeability of blood-brain barrier
+GO:1905555,positive regulation of blood vessel branching,2,GO,GO:1905555,positive regulation of branching involved in blood vessel morphogenesis^up regulation of branching involved in blood vessel morphogenesis^up regulation of patterning of blood vessels^up-regulation of branching involved in blood vessel morphogenesis^up-regulation of patterning of blood vessels^upregulation of branching involved in blood vessel morphogenesis^upregulation of patterning of blood vessels^activation of branching involved in blood vessel morphogenesis^activation of patterning of blood vessels
+GO:0045780,positive regulation of bone resorption,2,GO,GO:0045780,up regulation of bone resorption^up-regulation of bone resorption^upregulation of bone resorption^activation of bone resorption^stimulation of bone resorption
+GO:0010942,positive regulation of cell death,15,GO,GO:0010942,positive regulation of cell death
+GO:0030335,positive regulation of cell migration,5,GO,GO:0030335,up regulation of cell migration^up-regulation of cell migration^upregulation of cell migration^activation of cell migration^stimulation of cell migration
+GO:2000147,positive regulation of cell motility,2,GO,GO:2000147,positive regulation of cell locomotion^positive regulation of movement of a cell^positive regulation of cell movement
+GO:0008284,positive regulation of cell population proliferation,10,GO,GO:0008284,up regulation of cell proliferation^up-regulation of cell proliferation^upregulation of cell proliferation^positive regulation of cell proliferation^activation of cell proliferation^stimulation of cell proliferation
+GO:1900409,positive regulation of cellular response to oxidative stress,2,GO,GO:1900409,up regulation of cellular response to oxidative stress^up-regulation of cellular response to oxidative stress^upregulation of cellular response to oxidative stress^activation of adaptive response to oxidative stress^activation of cellular response to oxidative stress^positive regulation of adaptive response to oxidative stress^up regulation of adaptive response to oxidative stress^up-regulation of adaptive response to oxidative stress^upregulation of adaptive response to oxidative stress
+GO:0010825,positive regulation of centrosome duplication,3,GO,GO:0010825,positive regulation of centrosome duplication
+GO:0001819,positive regulation of cytokine production,2,GO,GO:0001819,GO:0042108^GO:0050715^up regulation of cytokine production^up-regulation of cytokine production^upregulation of cytokine production^activation of cytokine production^positive regulation of cytokine biosynthetic process^positive regulation of cytokine secretion^stimulation of cytokine production
+GO:0045919,positive regulation of cytolysis,3,GO,GO:0045919,up regulation of cytolysis^up-regulation of cytolysis^upregulation of cytolysis^activation of cytolysis^stimulation of cytolysis
+GO:0007204,positive regulation of cytosolic calcium ion concentration,5,GO,GO:0007204,cytosolic calcium ion concentration elevation^elevation of calcium ion concentration in cytosol^elevation of cytosolic calcium ion concentration^cytoplasmic calcium ion concentration elevation^elevation of calcium ion concentration in cytoplasm^elevation of cytoplasmic calcium ion concentration
+GO:2000510,positive regulation of dendritic cell chemotaxis,2,GO,GO:2000510,positive regulation of dendritic cell chemotaxis
+GO:1905643,positive regulation of DNA methylation,2,GO,GO:1905643,up regulation of DNA methylation^up-regulation of DNA methylation^upregulation of DNA methylation^activation of DNA methylation
+GO:0045739,positive regulation of DNA repair,2,GO,GO:0045739,up regulation of DNA repair^up-regulation of DNA repair^upregulation of DNA repair^activation of DNA repair^stimulation of DNA repair
+GO:1905956,positive regulation of endothelial tube morphogenesis,2,GO,GO:1905956,up regulation of endothelial tube morphogenesis^up-regulation of endothelial tube morphogenesis^upregulation of endothelial tube morphogenesis^activation of endothelial tube morphogenesis
+GO:0050679,positive regulation of epithelial cell proliferation,2,GO,GO:0050679,up regulation of epithelial cell proliferation^up-regulation of epithelial cell proliferation^upregulation of epithelial cell proliferation^activation of epithelial cell proliferation^stimulation of epithelial cell proliferation
+GO:0010718,positive regulation of epithelial to mesenchymal transition,3,GO,GO:0010718,positive regulation of epithelial to mesenchymal transition
+GO:0070374,positive regulation of ERK1 and ERK2 cascade,6,GO,GO:0070374,positive regulation of ERK1 and ERK2 signaling pathway^positive regulation of ERK1 and ERK2 signalling pathway^positive regulation of ERK1/2 cascade^up regulation of ERK1 and ERK2 cascade^up-regulation of ERK1 and ERK2 cascade^upregulation of ERK1 and ERK2 cascade^positive regulation of ERK cascade^activation of ERK1 and ERK2 cascade^positive regulation of ERK1 cascade^positive regulation of ERK2 cascade
+GO:0034108,positive regulation of erythrocyte clearance,2,GO,GO:0034108,positive regulation of RBC clearance^positive regulation of red blood cell clearance^positive regulation of neocytolysis
+GO:1903543,positive regulation of exosomal secretion,2,GO,GO:1903543,positive regulation of exosomal secretory pathway^positive regulation of extracellular vesicular exosome secretion^positive regulation of secretion of exosome^up regulation of exosomal secretion^up regulation of exosomal secretory pathway^up regulation of extracellular vesicular exosome secretion^up regulation of secretion of exosome^up-regulation of exosomal secretion^up-regulation of exosomal secretory pathway^up-regulation of extracellular vesicular exosome secretion
+GO:2000193,positive regulation of fatty acid transport,2,GO,GO:2000193,positive regulation of fatty acid transport
+GO:0003104,positive regulation of glomerular filtration,4,GO,GO:0003104,positive regulation of glomerular filtration
+GO:0120008,positive regulation of glutamatergic neuron differentiation,2,GO,GO:0120008,positive regulation of glutamatergic neuron differentiation
+GO:1903284,positive regulation of glutathione peroxidase activity,7,GO,GO:1903284,enhancement of GPX activity^positive regulation of glutathione:hydrogen-peroxide oxidoreductase activity^positive regulation of GSH peroxidase activity^positive regulation of reduced glutathione peroxidase activity^positive regulation of selenium-glutathione peroxidase activity^up regulation of glutathione peroxidase activity^up regulation of glutathione:hydrogen-peroxide oxidoreductase activity^up regulation of GSH peroxidase activity^up regulation of reduced glutathione peroxidase activity^up regulation of selenium-glutathione peroxidase activity
+GO:0071442,positive regulation of histone H3-K14 acetylation,2,GO,GO:0071442,positive regulation of histone H3 acetylation at K14^positive regulation of histone H3K14 acetylation^up regulation of histone H3-K14 acetylation^up-regulation of histone H3-K14 acetylation^upregulation of histone H3-K14 acetylation^activation of histone H3-K14 acetylation^stimulation of histone H3-K14 acetylation
+GO:2001255,positive regulation of histone H3-K36 trimethylation,2,GO,GO:2001255,positive regulation of histone H3-K36 trimethylation
+GO:2001162,positive regulation of histone H3-K79 methylation,2,GO,GO:2001162,positive regulation of histone H3 K79 methylation^positive regulation of histone H3K79me^positive regulation of histone lysine H3 K79 methylation
+GO:2000617,positive regulation of histone H3-K9 acetylation,2,GO,GO:2000617,positive regulation of histone H3 acetylation at K9^positive regulation of histone H3K9 acetylation
+GO:1900111,positive regulation of histone H3-K9 dimethylation,2,GO,GO:1900111,positive regulation of histone H3 K9 dimethylation^positive regulation of histone lysine H3 K9 dimethylation^up regulation of histone H3 K9 dimethylation^up regulation of histone H3-K9 dimethylation^up regulation of histone lysine H3 K9 dimethylation^up-regulation of histone H3 K9 dimethylation^up-regulation of histone H3-K9 dimethylation^up-regulation of histone lysine H3 K9 dimethylation^upregulation of histone H3 K9 dimethylation^upregulation of histone H3-K9 dimethylation
+GO:0051345,positive regulation of hydrolase activity,2,GO,GO:0051345,hydrolase activator^up regulation of hydrolase activity^up-regulation of hydrolase activity^upregulation of hydrolase activity^activation of hydrolase activity^stimulation of hydrolase activity
+GO:0050729,positive regulation of inflammatory response,2,GO,GO:0050729,up regulation of inflammatory response^up-regulation of inflammatory response^upregulation of inflammatory response^activation of inflammatory response^stimulation of inflammatory response
+GO:0032731,positive regulation of interleukin-1 beta production,2,GO,GO:0032731,GO:0050718^GO:0050725^positive regulation of IL-1 beta production^up regulation of interleukin-1 beta production^up-regulation of interleukin-1 beta production^upregulation of interleukin-1 beta production^activation of interleukin-1 beta production^positive regulation of interleukin-1 beta biosynthetic process^positive regulation of interleukin-1 beta secretion^stimulation of interleukin-1 beta production
+GO:0060731,positive regulation of intestinal epithelial structure maintenance,2,GO,GO:0060731,positive regulation of intestinal epithelial structure maintenance
+GO:0033148,positive regulation of intracellular estrogen receptor signaling pathway,5,GO,GO:0033148,positive regulation of estrogen receptor signaling pathway^positive regulation of estrogen receptor signalling pathway
+GO:0046330,positive regulation of JNK cascade,5,GO,GO:0046330,up regulation of JNK cascade^up-regulation of JNK cascade^upregulation of JNK cascade^activation of JNK cascade^stimulation of JNK cascade
+GO:1904146,positive regulation of meiotic cell cycle process involved in oocyte maturation,3,GO,GO:1904146,up regulation of meiotic cell cycle process involved in oocyte maturation^up-regulation of meiotic cell cycle process involved in oocyte maturation^upregulation of meiotic cell cycle process involved in oocyte maturation^activation of meiotic cell cycle process involved in oocyte maturation
+GO:0048023,positive regulation of melanin biosynthetic process,3,GO,GO:0048023,positive regulation of melanin anabolism^positive regulation of melanin biosynthesis^positive regulation of melanin formation^positive regulation of melanin synthesis^up regulation of melanin biosynthetic process^up-regulation of melanin biosynthetic process^upregulation of melanin biosynthetic process^activation of melanin biosynthetic process^stimulation of melanin biosynthetic process
+GO:1903980,positive regulation of microglial cell activation,2,GO,GO:1903980,up regulation of microglial cell activation^up-regulation of microglial cell activation^upregulation of microglial cell activation^activation of microglial cell activation
+GO:0031116,positive regulation of microtubule polymerization,2,GO,GO:0031116,up regulation of microtubule polymerization^up-regulation of microtubule polymerization^upregulation of microtubule polymerization^activation of microtubule polymerization^stimulation of microtubule polymerization
+GO:0010918,positive regulation of mitochondrial membrane potential,2,GO,GO:0010918,elevation of mitochondrial membrane potential
+GO:1901526,positive regulation of mitophagy,2,GO,GO:1901526,positive regulation of macromitophagy^up regulation of macromitophagy^up-regulation of macromitophagy^upregulation of macromitophagy^activation of macromitophagy
+GO:0045931,positive regulation of mitotic cell cycle,4,GO,GO:0045931,positive regulation of mitotic cell cycle progression^positive regulation of progression through mitotic cell cycle^up regulation of progression through mitotic cell cycle^up-regulation of progression through mitotic cell cycle^upregulation of progression through mitotic cell cycle^activation of progression through mitotic cell cycle^stimulation of progression through mitotic cell cycle
+GO:0040018,positive regulation of multicellular organism growth,2,GO,GO:0040018,positive regulation of body growth^positive regulation of body size
+GO:0010940,positive regulation of necrotic cell death,2,GO,GO:0010940,positive regulation of necrotic cell death
+GO:0050769,positive regulation of neurogenesis,2,GO,GO:0050769,up regulation of neurogenesis^up-regulation of neurogenesis^upregulation of neurogenesis^activation of neurogenesis^stimulation of neurogenesis
+GO:0043525,positive regulation of neuron apoptotic process,2,GO,GO:0043525,"positive regulation of programmed cell death, neurons^up regulation of neuron apoptosis^up-regulation of neuron apoptosis^upregulation of neuron apoptosis^activation of neuron apoptosis^positive regulation of neuron apoptosis^stimulation of neuron apoptosis"
+GO:1901216,positive regulation of neuron death,3,GO,GO:1901216,positive regulation of neuron cell death^positive regulation of neuronal cell death^up regulation of neuron cell death^up regulation of neuron death^up regulation of neuronal cell death^up-regulation of neuron cell death^up-regulation of neuron death^up-regulation of neuronal cell death^upregulation of neuron cell death^upregulation of neuron death
+GO:1902565,positive regulation of neutrophil activation,2,GO,GO:1902565,up regulation of neutrophil activation^up-regulation of neutrophil activation^upregulation of neutrophil activation^activation of neutrophil activation
+GO:0051092,positive regulation of NF-kappaB transcription factor activity,2,GO,GO:0051092,activation of NF-kappaB^activation of NF-kappaB transcription factor^NF-kappaB activation
+GO:0048714,positive regulation of oligodendrocyte differentiation,2,GO,GO:0048714,up regulation of oligodendrocyte differentiation^up-regulation of oligodendrocyte differentiation^upregulation of oligodendrocyte differentiation^activation of oligodendrocyte differentiation^stimulation of oligodendrocyte differentiation
+GO:0060279,positive regulation of ovulation,2,GO,GO:0060279,positive regulation of ovulation
+GO:1902177,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,2,GO,GO:1902177,positive regulation of intrinsic apoptotic signaling pathway in response to oxidative stress^up regulation of intrinsic apoptotic signaling pathway in response to oxidative stress^up-regulation of intrinsic apoptotic signaling pathway in response to oxidative stress^upregulation of intrinsic apoptotic signaling pathway in response to oxidative stress^activation of intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:1900745,positive regulation of p38MAPK cascade,4,GO,GO:1900745,activation of p38 cascade^activation of p38 MAPK cascade^positive regulation of p38 cascade^positive regulation of p38 MAPK cascade^up regulation of p38 cascade^up regulation of p38 MAPK cascade^up regulation of p38MAPK cascade^up-regulation of p38 cascade^up-regulation of p38 MAPK cascade^up-regulation of p38MAPK cascade
+GO:0050766,positive regulation of phagocytosis,2,GO,GO:0050766,up regulation of phagocytosis^up-regulation of phagocytosis^upregulation of phagocytosis^activation of phagocytosis^stimulation of phagocytosis
+GO:0061092,positive regulation of phospholipid translocation,2,GO,GO:0061092,positive regulation of phospholipid translocation
+GO:0010572,positive regulation of platelet activation,2,GO,GO:0010572,positive regulation of platelet activation
+GO:0051897,positive regulation of protein kinase B signaling,2,GO,GO:0051897,positive regulation of AKT signalling cascade^positive regulation of PKB signaling cascade^positive regulation of AKT signaling cascade^positive regulation of PKB signalling cascade^positive regulation of protein kinase B signaling cascade^positive regulation of protein kinase B signalling cascade^up regulation of protein kinase B signaling cascade^up-regulation of protein kinase B signaling cascade^upregulation of protein kinase B signaling cascade^activation of protein kinase B signaling cascade
+GO:1900182,positive regulation of protein localization to nucleus,2,GO,GO:1900182,activation of protein localization in nucleus^positive regulation of protein localisation to nucleus^positive regulation of protein localization in cell nucleus^positive regulation of protein localization in nucleus^up regulation of protein localisation to nucleus^up regulation of protein localization in cell nucleus^up regulation of protein localization in nucleus^up regulation of protein localization to nucleus^up-regulation of protein localisation to nucleus^up-regulation of protein localization in cell nucleus
+GO:0031398,positive regulation of protein ubiquitination,2,GO,GO:0031398,up regulation of protein ubiquitination^up-regulation of protein ubiquitination^upregulation of protein ubiquitination^activation of protein ubiquitination^stimulation of protein ubiquitination
+GO:1903428,positive regulation of reactive oxygen species biosynthetic process,15,GO,GO:1903428,positive regulation of reactive oxygen species anabolism^positive regulation of reactive oxygen species biosynthesis^positive regulation of reactive oxygen species formation^positive regulation of reactive oxygen species synthesis^up regulation of reactive oxygen species anabolism^up regulation of reactive oxygen species biosynthesis^up regulation of reactive oxygen species biosynthetic process^up regulation of reactive oxygen species formation^up regulation of reactive oxygen species synthesis^up-regulation of reactive oxygen species anabolism
+GO:2000379,positive regulation of reactive oxygen species metabolic process,2,GO,GO:2000379,positive regulation of reactive oxygen species metabolism^positive regulation of ROS metabolic process
+GO:0090200,positive regulation of release of cytochrome c from mitochondria,2,GO,GO:0090200,positive regulation of release of cytochrome c from mitochondria
+GO:0032930,positive regulation of superoxide anion generation,2,GO,GO:0032930,positive regulation of superoxide release^up regulation of superoxide release^up-regulation of superoxide release^upregulation of superoxide release^activation of superoxide release^stimulation of superoxide release
+GO:1901671,positive regulation of superoxide dismutase activity,7,GO,GO:1901671,"activation of superoxide:superoxide oxidoreductase activity^positive regulation of superoxide:superoxide oxidoreductase activity^up regulation of superoxide dismutase activity^up regulation of superoxide:superoxide oxidoreductase activity^up-regulation of superoxide dismutase activity^up-regulation of superoxide:superoxide oxidoreductase activity^upregulation of superoxide dismutase activity^upregulation of superoxide:superoxide oxidoreductase activity^activation of Cu,Zn-SOD^activation of cuprein"
+GO:0003084,positive regulation of systemic arterial blood pressure,2,GO,GO:0003084,positive regulation of systemic arterial blood pressure
+GO:2000409,positive regulation of T cell extravasation,2,GO,GO:2000409,positive regulation of T lymphocyte extravasation^positive regulation of T-cell extravasation^positive regulation of T-lymphocyte extravasation
+GO:1904358,positive regulation of telomere maintenance via telomere lengthening,2,GO,GO:1904358,up regulation of telomere maintenance via telomere lengthening^up-regulation of telomere maintenance via telomere lengthening^upregulation of telomere maintenance via telomere lengthening^activation of telomere maintenance via telomere lengthening
+GO:2000611,positive regulation of thyroid hormone generation,2,GO,GO:2000611,positive regulation of thyroid hormone generation
+GO:0002157,positive regulation of thyroid hormone mediated signaling pathway,3,GO,GO:0002157,positive regulation of thyroid hormone mediated signalling pathway
+GO:2000614,positive regulation of thyroid-stimulating hormone secretion,2,GO,GO:2000614,positive regulation of thyroid stimulating hormone secretion^positive regulation of TSH secretion
+GO:1904263,positive regulation of TORC1 signaling,2,GO,GO:1904263,positive regulation of TORC1 signal transduction^up regulation of TORC1 signal transduction^up regulation of TORC1 signaling^up-regulation of TORC1 signal transduction^up-regulation of TORC1 signaling^upregulation of TORC1 signal transduction^upregulation of TORC1 signaling^activation of TORC1 signal transduction^activation of TORC1 signaling
+GO:0045944,positive regulation of transcription by RNA polymerase II,2,GO,GO:0045944,GO:0010552^GO:0045817^activation of transcription from RNA polymerase II promoter^positive regulation of transcription from Pol II promoter^positive regulation of transcription from RNA polymerase II promoter^stimulation of transcription from RNA polymerase II promoter^up regulation of transcription from RNA polymerase II promoter^up-regulation of transcription from RNA polymerase II promoter^upregulation of transcription from RNA polymerase II promoter^activation of global transcription from RNA polymerase II promoter
+GO:2000679,positive regulation of transcription regulatory region DNA binding,2,GO,GO:2000679,positive regulation of transcription regulatory region DNA binding
+GO:1901165,positive regulation of trophoblast cell migration,2,GO,GO:1901165,up regulation of trophoblast cell migration^up-regulation of trophoblast cell migration^upregulation of trophoblast cell migration^activation of trophoblast cell migration
+GO:0032760,positive regulation of tumor necrosis factor production,8,GO,GO:0032760,GO:0042535^GO:1904469^positive regulation of TNF production^positive regulation of TNF-alpha production^positive regulation of tumor necrosis factor-alpha production^up regulation of tumor necrosis factor production^up-regulation of tumor necrosis factor production^upregulation of tumor necrosis factor production^activation of tumor necrosis factor production^positive regulation of cachectin secretion
+GO:0032729,positive regulation of type II interferon production,2,GO,GO:0032729,GO:0045078^GO:1902715^positive regulation of interferon-gamma production^up regulation of interferon-gamma production^up-regulation of interferon-gamma production^upregulation of interferon-gamma production^activation of interferon-gamma production^positive regulation of interferon-gamma biosynthetic process^positive regulation of interferon-gamma secretion^stimulation of interferon-gamma production
+GO:0042448,progesterone metabolic process,3,GO,GO:0042448,progesterone metabolism
+GO:0042701,progesterone secretion,3,GO,GO:0042701,progesterone secretion
+GO:0006693,prostaglandin metabolic process,2,GO,GO:0006693,prostaglandin metabolism
+GO:0032310,prostaglandin secretion,2,GO,GO:0032310,prostacyclin secretion
+GO:0006606,protein import into nucleus,3,GO,GO:0006606,establishment of protein localization to nucleus^protein import into cell nucleus^protein nucleus import^protein transport from cytoplasm to nucleus
+GO:0006497,protein lipidation,4,GO,GO:0006497,GO:0042050^lipid:protein modification^protein amino acid lipidation
+GO:1903608,protein localization to cytoplasmic stress granule,2,GO,GO:1903608,protein localisation in cytoplasmic stress granule^protein localisation to cytoplasmic stress granule^protein localization in cytoplasmic stress granule^protein localization to stress granule
+GO:0018158,protein oxidation,7,GO,GO:0018158,protein amino acid oxidation
+GO:0006626,protein targeting to mitochondrion,2,GO,GO:0006626,GO:0043681^protein import into mitochondrion^protein targeting to mitochondria^protein-mitochondrial targeting^mitochondrial protein import^mitochondrial translocation
+GO:0046501,protoporphyrinogen IX metabolic process,2,GO,GO:0046501,protoporphyrinogen IX metabolism
+GO:0070269,pyroptosis,2,GO,GO:0070269,pyroptosis
+GO:2001057,reactive nitrogen species metabolic process,2,GO,GO:2001057,reactive nitrogen species metabolism^RNS metabolic process^RNS metabolism
+GO:1903409,reactive oxygen species biosynthetic process,14,GO,GO:1903409,reactive oxygen species anabolism^reactive oxygen species biosynthesis^reactive oxygen species formation^reactive oxygen species synthesis^reactive oxygen species generation^ROS formation^ROS generation
+GO:0072593,reactive oxygen species metabolic process,14,GO,GO:0072593,reactive oxygen species metabolism^ROS metabolic process
+GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",2,GO,GO:0000381,"regulation of alternative nuclear mRNA splicing, via spliceosome^splice site selection"
+GO:1902003,regulation of amyloid-beta formation,2,GO,GO:1902003,regulation of beta-amyloid formation
+GO:1903578,regulation of ATP metabolic process,2,GO,GO:1903578,regulation of ATP metabolism
+GO:0008217,regulation of blood pressure,8,GO,GO:0008217,blood pressure regulation^blood pressure homeostasis^control of blood pressure
+GO:0046850,regulation of bone remodeling,2,GO,GO:0046850,regulation of bone remodeling
+GO:0051726,regulation of cell cycle,2,GO,GO:0051726,GO:0000074^GO:0007050^GO:0071156^GO:0071157^GO:0071158^GO:0071850^cell cycle modulation^cell cycle regulation^control of cell cycle progression^modulation of cell cycle progression
+GO:0031323,regulation of cellular metabolic process,2,GO,GO:0031323,regulation of cellular metabolism
+GO:0090181,regulation of cholesterol metabolic process,2,GO,GO:0090181,regulation of cholesterol metabolic process
+GO:0051462,regulation of cortisol secretion,2,GO,GO:0051462,regulation of cortisol secretion
+GO:0051480,regulation of cytosolic calcium ion concentration,2,GO,GO:0051480,calcium ion homeostasis in cytosol^cytosolic calcium ion concentration regulation^regulation of calcium ion concentration in cytosol^calcium ion homeostasis in cytoplasm^cytoplasmic calcium ion concentration regulation^cytoplasmic calcium ion homeostasis^regulation of calcium ion concentration in cytoplasm^regulation of cytoplasmic calcium ion concentration
+GO:0044030,regulation of DNA methylation,4,GO,GO:0044030,regulation of DNA methylation
+GO:0006355,regulation of DNA-templated transcription,2,GO,GO:0006355,"GO:0032583^GO:0045449^GO:0061019^regulation of cellular transcription, DNA-dependent^regulation of transcription, DNA-dependent^regulation of transcription, DNA-templated^regulation of gene-specific transcription^transcriptional control"
+GO:0044062,regulation of excretion,3,GO,GO:0044062,regulation of excretion
+GO:0010468,regulation of gene expression,2,GO,GO:0010468,gene regulation^regulation of gene product expression^regulation of protein expression
+GO:0006349,regulation of gene expression by genomic imprinting,2,GO,GO:0006349,regulation of gene expression by DNA imprinting^regulation of gene expression by genetic imprinting
+GO:2000653,regulation of genetic imprinting,2,GO,GO:2000653,regulation of DNA imprinting
+GO:0003093,regulation of glomerular filtration,2,GO,GO:0003093,regulation of glomerular filtration
+GO:0008016,regulation of heart contraction,2,GO,GO:0008016,regulation of cardiac contraction
+GO:0002027,regulation of heart rate,5,GO,GO:0002027,cardiac chronotropy^regulation of heart contraction rate^regulation of rate of heart contraction
+GO:0070453,regulation of heme biosynthetic process,2,GO,GO:0070453,regulation of haem biosynthesis^regulation of haem biosynthetic process^regulation of heme anabolism^regulation of heme biosynthesis^regulation of heme formation^regulation of heme synthesis
+GO:0032350,regulation of hormone metabolic process,2,GO,GO:0032350,regulation of hormone metabolism
+GO:0002923,regulation of humoral immune response mediated by circulating immunoglobulin,3,GO,GO:0002923,regulation of humoral immune response mediated by circulating immunoglobulin
+GO:1902071,regulation of hypoxia-inducible factor-1alpha signaling pathway,2,GO,GO:1902071,regulation of HIF1alpha pathway^regulation of hypoxia-inducible factor-1alpha signalling pathway
+GO:0090559,regulation of membrane permeability,2,GO,GO:0090559,regulation of membrane permeability
+GO:0051881,regulation of mitochondrial membrane potential,11,GO,GO:0051881,regulation of mitochondrial membrane potential
+GO:0007346,regulation of mitotic cell cycle,2,GO,GO:0007346,mitotic cell cycle modulation^mitotic cell cycle regulation^modulation of mitotic cell cycle progression^regulation of mitotic cell cycle progression^regulation of progression through mitotic cell cycle^mitotic cell cycle regulator
+GO:0040014,regulation of multicellular organism growth,3,GO,GO:0040014,regulation of body growth^regulation of body size
+GO:0006937,regulation of muscle contraction,2,GO,GO:0006937,regulation of muscle contraction
+GO:0002761,regulation of myeloid leukocyte differentiation,2,GO,GO:0002761,regulation of myeloid leukocyte differentiation
+GO:0045428,regulation of nitric oxide biosynthetic process,2,GO,GO:0045428,regulation of nitric oxide anabolism^regulation of nitric oxide biosynthesis^regulation of nitric oxide formation^regulation of nitric oxide synthesis
+GO:0006141,regulation of purine nucleobase metabolic process,2,GO,GO:0006141,regulation of purine base metabolic process^regulation of purine base metabolism
+GO:2000377,regulation of reactive oxygen species metabolic process,2,GO,GO:2000377,regulation of reactive oxygen species metabolism^regulation of ROS metabolic process
+GO:0098801,regulation of renal system process,2,GO,GO:0098801,regulation of renal system process
+GO:1902882,regulation of response to oxidative stress,3,GO,GO:1902882,regulation of response to oxidative stress
+GO:1901668,regulation of superoxide dismutase activity,3,GO,GO:1901668,"regulation of superoxide:superoxide oxidoreductase activity^regulation of Cu,Zn-SOD^regulation of cuprein^regulation of cytocuprein^regulation of erythrocuprein^regulation of Fe-SOD^regulation of hemocuprein^regulation of hepatocuprein^regulation of iron superoxide oxidoreductase^regulation of manganese superoxide oxidoreductase"
+GO:0003073,regulation of systemic arterial blood pressure,3,GO,GO:0003073,regulation of systemic arterial blood pressure
+GO:1904356,regulation of telomere maintenance via telomere lengthening,2,GO,GO:1904356,regulation of telomere maintenance via telomere lengthening
+GO:0017015,regulation of transforming growth factor beta receptor signaling pathway,2,GO,GO:0017015,regulation of TGF-beta receptor signaling pathway^regulation of TGFbeta receptor signaling pathway^regulation of transforming growth factor beta receptor signalling pathway
+GO:0006417,regulation of translation,2,GO,GO:0006417,GO:0006445^regulation of protein anabolism^regulation of protein biosynthesis^regulation of protein formation^regulation of protein synthesis
+GO:0090207,regulation of triglyceride metabolic process,2,GO,GO:0090207,regulation of triglyceride metabolic process
+GO:0032680,regulation of tumor necrosis factor production,8,GO,GO:0032680,GO:0042534^GO:1904467^regulation of cachectin production^regulation of TNF production^regulation of TNF-alpha production^regulation of tumor necrosis factor-alpha production^regulation of tumor necrosis factor biosynthetic process^regulation of tumor necrosis factor secretion
+GO:0060307,regulation of ventricular cardiac muscle cell membrane repolarization,2,GO,GO:0060307,regulation of ventricular cardiac muscle cell repolarization^regulation of ventricular cardiomyocyte membrane repolarization^electrocardiogram T wave^regulation of ventricular cardiac muscle repolarization^ventricular repolarization
+GO:0001836,release of cytochrome c from mitochondria,3,GO,GO:0001836,release of cytochrome c from mitochondria
+GO:0097205,renal filtration,3,GO,GO:0097205,renal filtration
+GO:0003014,renal system process,5,GO,GO:0003014,excretory system process^kidney system process
+GO:0003016,respiratory system process,8,GO,GO:0003016,GO:0010802^respiratory gaseous exchange
+GO:0046685,response to arsenic-containing substance,2,GO,GO:0046685,response to arsenic^arsenate sensitivity/resistance
+GO:0010996,response to auditory stimulus,2,GO,GO:0010996,response to sound^response to sound stimulus
+GO:0033590,response to cobalamin,2,GO,GO:0033590,response to vitamin B12
+GO:0051593,response to folic acid,2,GO,GO:0051593,cellular response to folate^cellular response to vitamin B9
+GO:0010288,response to lead ion,3,GO,GO:0010288,response to lead ion
+GO:0006979,response to oxidative stress,11,GO,GO:0006979,response to oxidative stress
+GO:0051775,response to redox state,2,GO,GO:0051775,GO:0006980^redox signal response
+GO:0006950,response to stress,4,GO,GO:0006950,response to abiotic stress^response to biotic stress
+GO:0046498,S-adenosylhomocysteine metabolic process,3,GO,GO:0046498,S-adenosylhomocysteine metabolism
+GO:0046500,S-adenosylmethionine metabolic process,3,GO,GO:0046500,S-adenosyl methionine metabolic process^S-adenosyl methionine metabolism^S-adenosylmethionine metabolism^SAM metabolic process
+GO:0046541,saliva secretion,2,GO,GO:0046541,salivation
+GO:1901052,sarcosine metabolic process,2,GO,GO:1901052,sarcosine metabolism
+GO:0001887,selenium compound metabolic process,3,GO,GO:0001887,selenium compound metabolism^selenium metabolic process^selenium metabolism
+GO:0007605,sensory perception of sound,2,GO,GO:0007605,hearing^perception of sound
+GO:0051238,sequestering of metal ion,2,GO,GO:0051238,metal ion retention^metal ion sequestering^metal ion sequestration^metal ion storage^retention of metal ion^sequestration of metal ion^storage of metal ion
+GO:0009070,serine family amino acid biosynthetic process,2,GO,GO:0009070,serine family amino acid anabolism^serine family amino acid biosynthesis^serine family amino acid formation^serine family amino acid synthesis
+GO:0007183,SMAD protein complex assembly,2,GO,GO:0007183,SMAD protein heteromerization
+GO:0035176,social behavior,2,GO,GO:0035176,social behaviour^cooperative behavior
+GO:0002681,somatic recombination of T cell receptor gene segments,2,GO,GO:0002681,somatic recombination of TCR gene segments
+GO:0007283,spermatogenesis,6,GO,GO:0007283,generation of spermatozoa
+GO:0048864,stem cell development,2,GO,GO:0048864,stem cell development
+GO:0048863,stem cell differentiation,2,GO,GO:0048863,stem cell differentiation
+GO:0048866,stem cell fate specification,2,GO,GO:0048866,stem cell fate specification
+GO:0008202,steroid metabolic process,3,GO,GO:0008202,steroid metabolism
+GO:0034063,stress granule assembly,2,GO,GO:0034063,SG assembly
+GO:0042554,superoxide anion generation,2,GO,GO:0042554,superoxide release
+GO:0050808,synapse organization,2,GO,GO:0050808,synapse organisation^synapse development^synapse morphogenesis^synapse organization and biogenesis
+GO:0019530,taurine metabolic process,3,GO,GO:0019530,taurine metabolism
+GO:0000723,telomere maintenance,4,GO,GO:0000723,regulation of telomere length
+GO:0010833,telomere maintenance via telomere lengthening,2,GO,GO:0010833,telomere maintenance via telomere lengthening
+GO:0061370,testosterone biosynthetic process,4,GO,GO:0061370,testosterone biosynthetic process
+GO:0035936,testosterone secretion,2,GO,GO:0035936,testosterone secretion
+GO:0072539,T-helper 17 cell differentiation,2,GO,GO:0072539,T-helper 17 cell development
+GO:0009088,threonine biosynthetic process,2,GO,GO:0009088,threonine anabolism^threonine biosynthesis^threonine formation^threonine synthesis
+GO:0048538,thymus development,2,GO,GO:0048538,thymus development
+GO:0006590,thyroid hormone generation,2,GO,GO:0006590,thyroid hormone generation
+GO:0006099,tricarboxylic acid cycle,2,GO,GO:0006099,citric acid cycle^Krebs cycle^TCA cycle
+GO:0019432,triglyceride biosynthetic process,6,GO,GO:0019432,triacylglycerol biosynthesis^triacylglycerol biosynthetic process^triglyceride anabolism^triglyceride biosynthesis^triglyceride formation^triglyceride synthesis
+GO:0070328,triglyceride homeostasis,4,GO,GO:0070328,triacylglycerol homeostasis
+GO:0006641,triglyceride metabolic process,7,GO,GO:0006641,triacylglycerol metabolic process^triacylglycerol metabolism^triglyceride metabolism
+GO:0006568,tryptophan metabolic process,3,GO,GO:0006568,tryptophan metabolism
+GO:0035148,tube formation,2,GO,GO:0035148,tube lumen formation^lumen formation in an anatomical structure
+GO:0033209,tumor necrosis factor-mediated signaling pathway,2,GO,GO:0033209,tumor necrosis factor-mediated signalling pathway^adipocytokine signaling pathway^TNF-alpha-mediated signaling pathway^tumor necrosis factor alpha-mediated signaling pathway
+GO:0006571,tyrosine biosynthetic process,2,GO,GO:0006571,tyrosine anabolism^tyrosine biosynthesis^tyrosine formation^tyrosine synthesis
+GO:0046415,urate metabolic process,2,GO,GO:0046415,urate metabolism
+GO:0046108,uridine metabolic process,2,GO,GO:0046108,uridine metabolism
+GO:0070914,UV-damage excision repair,2,GO,GO:0070914,UV-damaged DNA endonuclease-dependent excision repair^UVDE-dependent excision repair^UVER^AER^alternative excision repair
+GO:0007033,vacuole organization,3,GO,GO:0007033,GO:0044086^vacuole organisation^vacuole biogenesis^vacuole organization and biogenesis^vacuolar assembly
+GO:0009099,valine biosynthetic process,3,GO,GO:0009099,valine anabolism^valine biosynthesis^valine formation^valine synthesis
+GO:0035459,vesicle cargo loading,2,GO,GO:0035459,cargo loading into vesicle^cargo selection
+GO:0007601,visual perception,4,GO,GO:0007601,sense of sight^sensory visual perception^vision
+GO:0044319,"wound healing, spreading of cells",7,GO,GO:0044319,cell migration involved in wound healing epiboly
+GO:0046618,xenobiotic export from cell,2,GO,GO:0046618,drug export^xenobiotic export^xenobiotic export from cell
+GO:0052697,xenobiotic glucuronidation,2,GO,GO:0052697,phase II metabolism
+GO:0006805,xenobiotic metabolic process,5,GO,GO:0006805,GO:0017144^xenobiotic metabolism^drug metabolic process^drug metabolism
+GO:1990962,xenobiotic transport across blood-brain barrier,2,GO,GO:1990962,drug transport across blood-brain barrier^xenobiotic transport across blood-brain barrier
+GO:0055069,,3,GO,,
+GO:0071578,zinc ion import across plasma membrane,2,GO,GO:0071578,GO:0006830^GO:0006831^GO:0044749^GO:0140160^zinc II ion plasma membrane import^zinc II ion transmembrane import^zinc import^zinc ion import into cell^zinc uptake^zinc ion transmembrane import
+GO:0006829,zinc ion transport,2,GO,GO:0006829,zinc II ion transport^zinc transport
+GO:0097189,apoptotic body,2,GO,GO:0097189,apoptotic vesicle^apoptotic bleb
+GO:0044754,autolysosome,2,GO,GO:0044754,autophagolysosome^AVd^degrading autophagic vacuole
+GO:0005911,cell-cell junction,3,GO,GO:0005911,intercellular junction^cell-cell contact region^cell-cell contact zone
+GO:1903561,extracellular vesicle,4,GO,GO:1903561,microparticle
+GO:0071743,"IgE immunoglobulin complex, circulating",2,GO,GO:0071743,IgE antibody
+GO:0005757,mitochondrial permeability transition pore complex,3,GO,GO:0005757,mitochondrial PT pore complex^MPTP complex^PTPC
+GO:0005739,mitochondrion,2,GO,GO:0005739,mitochondria
+GO:0031143,pseudopodium,2,GO,GO:0031143,pseudopod^pseudopodial protrusion^axopodium^lobopodium^reticulopodium
+GO:0004115,"3',5'-cyclic-AMP phosphodiesterase activity",2,GO,GO:0004115,"3',5' cAMP-specific phosphodiesterase activity^3',5'-cAMP-specific phosphodiesterase activity^3',5'-cyclic-AMP-specific phosphodiesterase activity^adenosine 3',5'-cyclophosphate-specific phosphodiesterase activity^cAMP-specific phosphodiesterase activity^cyclic AMP-specific phosphodiesterase activity"
+GO:0003994,aconitate hydratase activity,2,GO,GO:0003994,aconitase activity^cis-aconitase activity^citrate(isocitrate) hydro-lyase (cis-aconitate-forming)^citrate(isocitrate) hydro-lyase activity^citrate hydro-lyase activity
+GO:0004035,alkaline phosphatase activity,4,GO,GO:0004035,alkaline phenyl phosphatase activity^alkaline phosphohydrolase activity^alkaline phosphomonoesterase activity^orthophosphoric-monoester phosphohydrolase (alkaline optimum)^phosphate-monoester phosphohydrolase (alkaline optimum)^glycerophosphatase activity^phosphomonoesterase activity
+GO:0004064,arylesterase activity,2,GO,GO:0004064,A-esterase activity^paraoxonase activity^aromatic esterase^aryl-ester hydrolase
+GO:0016887,ATP hydrolysis activity,3,GO,GO:0016887,GO:0004002^GO:0042623^adenosine 5'-triphosphatase activity^adenosine triphosphatase activity^adenosinetriphosphatase activity^ATP hydrolase activity^ATP phosphohydrolase activity^ATP monophosphatase activity
+GO:0030899,calcium-dependent ATPase activity,2,GO,GO:0030899,calcium-dependent ATPase activity
+GO:0004198,calcium-dependent cysteine-type endopeptidase activity,2,GO,GO:0004198,calpain activity
+GO:0004104,cholinesterase activity,2,GO,GO:0004104,acylcholine acylhydrolase activity^anticholineesterase activity^benzoylcholinesterase activity^BtChoEase activity^butyrylcholine esterase activity^butyrylcholinesterase activity^choline esterase activity^choline esterase II (unspecific) activity^non-specific cholinesterase activity^propionylcholinesterase activity
+GO:0004111,creatine kinase activity,2,GO,GO:0004111,adenosine triphosphate-creatine transphosphorylase activity^ATP:creatine N-phosphotransferase activity^ATP:creatine phosphotransferase activity^BB-CK^CK^CK-BB^CK-MB^CK-MM^CKMiMi^creatine phosphokinase activity
+GO:0004197,cysteine-type endopeptidase activity,3,GO,GO:0004197,thiol endopeptidase activity^caspase activity^lysosomal cysteine-type endopeptidase^metacaspase activity
+GO:0004129,cytochrome-c oxidase activity,2,GO,GO:0004129,cytochrome c oxidase activity^complex IV (mitochondrial electron transport) activity^cytochrome oxidase activity^Warburg's respiratory enzyme activity^aa3-type cytochrome c oxidase^ba3-type cytochrome c oxidase^caa3-type cytochrome c oxidase^cbb3-type cytochrome c oxidase^cytochrome a3 activity^cytochrome aa3 activity
+GO:0004602,glutathione peroxidase activity,5,GO,GO:0004602,GO:0016224^glutathione:hydrogen-peroxide oxidoreductase activity^GSH peroxidase activity^reduced glutathione peroxidase activity^selenium-glutathione peroxidase activity^non-selenium glutathione peroxidase activity
+GO:0004364,glutathione transferase activity,4,GO,GO:0004364,glutathione conjugation reaction^glutathione S-alkyl transferase activity^glutathione S-alkyltransferase activity^glutathione S-aralkyltransferase activity^glutathione S-aryltransferase activity^glutathione S-transferase activity^RX:glutathione R-transferase activity^S-(hydroxyalkyl)glutathione lyase activity
+GO:0004449,isocitrate dehydrogenase (NAD+) activity,2,GO,GO:0004449,isocitrate dehydrogenase (NAD) activity^isocitrate:NAD+ oxidoreductase (decarboxylating)^NAD dependent isocitrate dehydrogenase activity^NAD isocitrate dehydrogenase activity^NAD isocitric dehydrogenase activity^NAD-linked isocitrate dehydrogenase activity^NAD-specific isocitrate dehydrogenase activity^nicotinamide adenine dinucleotide isocitrate dehydrogenase activity
+GO:0004450,isocitrate dehydrogenase (NADP+) activity,2,GO,GO:0004450,isocitrate (NADP) dehydrogenase activity^isocitrate (nicotinamide adenine dinucleotide phosphate) dehydrogenase activity^isocitrate dehydrogenase (NADP) activity^isocitrate dehydrogenase (NADP-dependent) activity^isocitrate:NADP+ oxidoreductase (decarboxylating)^NADP isocitric dehydrogenase activity^NADP(+)-linked isocitrate dehydrogenase activity^NADP-dependent isocitrate dehydrogenase activity^NADP-dependent isocitric dehydrogenase activity^NADP-linked isocitrate dehydrogenase activity
+GO:0004705,JUN kinase activity,2,GO,GO:0004705,JNK^JNK3alpha1^c-Jun N-terminal kinase activity^SAPK1
+GO:0004457,lactate dehydrogenase activity,2,GO,GO:0004457,lactate dehydrogenase activity
+GO:0004021,L-alanine:2-oxoglutarate aminotransferase activity,2,GO,GO:0004021,alanine-alpha-ketoglutarate aminotransferase activity^alanine-pyruvate aminotransferase activity^ALT^glutamic acid-pyruvic acid transaminase activity^glutamic--alanine transaminase activity^glutamic--pyruvic transaminase activity^glutamic-pyruvic aminotransferase activity^GPT^L-alanine-alpha-ketoglutarate aminotransferase activity^pyruvate-alanine aminotransferase activity
+GO:0004069,L-aspartate:2-oxoglutarate aminotransferase activity,4,GO,GO:0004069,2-oxoglutarate-glutamate aminotransferase activity^AAT^aspartate alpha-ketoglutarate transaminase activity^aspartate-2-oxoglutarate transaminase activity^aspartate:2-oxoglutarate aminotransferase activity^AspT^glutamate oxaloacetate transaminase activity^glutamate-oxalacetate aminotransferase activity^glutamate-oxalate transaminase activity^glutamic oxalic transaminase activity
+GO:0070577,lysine-acetylated histone binding,2,GO,GO:0070577,acetylated histone residue binding
+GO:0004707,MAP kinase activity,2,GO,GO:0004707,GO:0008338^GO:0008339^GO:0016908^GO:0016909^ERK1^mitogen activated kinase activity^ATP:protein phosphotransferase (MAPKK-activated) activity^ERK^ERK2^MAPK
+GO:0004697,protein kinase C activity,2,GO,GO:0004697,GO:0004701^diacylglycerol-activated phospholipid-dependent PKC activity^diacylglycerol-activated phospholipid-dependent protein kinase C activity^PKC activity^ATP:protein phosphotransferase (diacylglycerol-dependent) activity^cPKC^cPKCalpha^cPKCbeta^cPKCgamma^nPKC
+GO:0004722,protein serine/threonine phosphatase activity,2,GO,GO:0004722,GO:0000158^GO:0000163^GO:0004724^GO:0008598^GO:0008600^GO:0015071^GO:0030357^GO:0030358^GO:0030360^GO:0030361
+GO:0005391,P-type sodium:potassium-exchanging transporter activity,3,GO,GO:0005391,"P-type sodium:potassium-exchanging ATPase activity^sodium/potassium-exchanging ATPase activity^sodium/potassium-transporting ATPase activity^sodium:potassium exchanging ATPase activity^sodium:potassium-exchanging ATPase activity^Na(+)/K(+)-ATPase activity^Na(+)/K(+)-exchanging ATPase activity^Na+,K+-ATPase activity^Na+/K+-ATPase activity^Na+/K+-exchanging ATPase activity"
+GO:0000104,succinate dehydrogenase activity,2,GO,GO:0000104,GO:0019739^fumarate dehydrogenase activity^fumarate reductase activity^succinate oxidoreductase activity^succinate:(acceptor) oxidoreductase activity^succinate:acceptor oxidoreductase activity^succinic acid dehydrogenase activity^succinodehydrogenase activity^succinyl dehydrogenase activity^fumaric hydrogenase activity
+GO:0004784,superoxide dismutase activity,7,GO,GO:0004784,"GO:0004785^GO:0008382^GO:0008383^GO:0016954^superoxide:superoxide oxidoreductase activity^Cu,Zn-SOD^cuprein^cytocuprein^erythrocuprein^Fe-SOD"
+GO:0008483,transaminase activity,2,GO,GO:0008483,aminotransferase activity
+GO:0005245,voltage-gated calcium channel activity,2,GO,GO:0005245,GO:0010173^GO:0015270^depolarization-activated voltage gated calcium channel activity^depolarization-activated voltage-gated calcium channel^depolarization-activated voltage-gated calcium channel activity^voltage gated calcium channel activity^voltage-dependent calcium channel activity^voltage-gated calcium ion channel activity^voltage-sensitive calcium channel^depolarization-activated calcium channel
+GO:0008270,zinc ion binding,2,GO,GO:0008270,zinc binding^Zn binding
+EX:D08131,hypertension,551,Disease,MESH:D006973,hypertension
